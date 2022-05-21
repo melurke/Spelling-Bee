@@ -3,6 +3,7 @@ word_list = []
 
 for word in word_file:
     word_list.append(word.strip())
+word_file.close()
 
 main_letter = input("Type in the main letter: ")
 letters = []
@@ -30,4 +31,3 @@ for word in word_list:
         possible_words.append(word)
 
 print(possible_words)
-   
