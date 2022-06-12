@@ -1,6 +1,6 @@
 # Spelling-Bee
 
-cleaning.py -> Improve word_list.txt by removing words that can't be the answer
+cleaning.py -> Improve word_list.txt by removing words that can't be the answer / remove duplicates in word_list_confirmed.txt
 
 main.py -> Solving the game Spelling Bee by telling you all the words that you can type in
 
