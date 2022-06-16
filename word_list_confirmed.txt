@@ -41,6 +41,8 @@ anarchy
 anatomy
 andiron
 android
+angel
+angle
 anion
 annal
 annoy
@@ -137,6 +139,7 @@ byte
 cacao
 cacti
 cadence
+cage
 call
 calla
 callaloo
@@ -156,12 +159,15 @@ caul
 cede
 ceded
 cell
+celli
 cello
 cent
 chai
 chair
+challenge
 chance
 chanced
+change
 changed
 chap
 char
@@ -185,6 +191,7 @@ cite
 cited
 citric
 clack
+clang
 click
 clinic
 cloaca
@@ -323,6 +330,7 @@ eidetic
 eject
 ejected
 elatedly
+elegance
 elegize
 elegized
 eleven
@@ -408,6 +416,7 @@ gage
 gagged
 gaggle
 gala
+galangal
 gale
 gall
 galled
@@ -425,6 +434,7 @@ gelee
 gelid
 gelled
 gene
+ghee
 gigged
 giggle
 giggled
@@ -432,11 +442,15 @@ gild
 gilded
 gill
 gilled
+glace
 glad
 glade
+glance
 glaze
 glazed
+glean
 glee
+glen
 glia
 glide
 glided
@@ -444,6 +458,7 @@ gnaw
 gnawing
 habit
 habitat
+haggle
 hair
 halal
 hale
