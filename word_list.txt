@@ -616,10 +616,8 @@ accidia
 accidias
 accidie
 accidies
-accinge
 accinged
 accinges
-accinging
 accipiter
 accite
 accited
@@ -867,8 +865,6 @@ acierates
 aciform
 acinar
 acing
-acini
-acinic
 acinose
 acinous
 acinus
@@ -884,7 +880,6 @@ aclinic
 acmatic
 acme
 acmes
-acmic
 acmite
 acmites
 acne
@@ -1472,7 +1467,6 @@ adzuki
 adzukis
 aechmea
 aechmeas
-aecia
 aecial
 aecidia
 aecidial
@@ -1826,7 +1820,6 @@ agamas
 agamete
 agametes
 agami
-agamic
 agamically
 agamid
 agamids
@@ -3530,9 +3523,7 @@ amiantus
 amias
 amicable
 amicably
-amice
 amices
-amici
 amicus
 amid
 amidase
@@ -3560,7 +3551,6 @@ amildars
 amin
 amine
 amines
-aminic
 aminities
 aminity
 amino
@@ -3629,7 +3619,6 @@ amnesics
 amnesties
 amnesty
 amnia
-amnic
 amnio
 amnion
 amnionic
@@ -3833,7 +3822,6 @@ anadems
 anadyomene
 anaemia
 anaemias
-anaemic
 anaerobe
 anaerobes
 anaestheses
