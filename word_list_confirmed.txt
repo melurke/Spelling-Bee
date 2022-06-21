@@ -101,6 +101,8 @@ beefed
 been
 beet
 befell
+beget
+begged
 belatedly
 belay
 belayed
@@ -394,9 +396,12 @@ ethane
 ethanol
 excel
 excellence
+excellent
+excellently
 exec
 expel
 expellee
+extent
 eyeball
 eyeballed
 eyed
@@ -645,6 +650,7 @@ legalize
 legalized
 legged
 lenience
+lent
 lethal
 lexicon
 lice
@@ -677,6 +683,7 @@ lope
 lotion
 lump
 lumpy
+lynx
 mace
 macing
 madam
@@ -765,6 +772,9 @@ need
 needed
 nene
 neocon
+nettle
+netty
+next
 niacin
 nice
 niece
@@ -919,10 +929,14 @@ teatime
 teddy
 teem
 teemed
+teen
+teeny
 teeth
 teethe
 telehealth
 telethon
+tenet
+tent
 tenth
 than
 thane
@@ -992,6 +1006,7 @@ wringing
 yarn
 yell
 yelled
+yente
 your
 yuca
 yucca
