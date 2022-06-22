@@ -10595,7 +10595,6 @@ beleap
 beleaped
 beleaps
 beleapt
-belee
 beleed
 beleeing
 belees
@@ -10766,7 +10765,6 @@ bemoans
 bemock
 bemocked
 bemocks
-bemoil
 bemoiled
 bemoils
 bemouth
