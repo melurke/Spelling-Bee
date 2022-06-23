@@ -1477,7 +1477,6 @@ aedile
 aediles
 aedine
 aefald
-aefauld
 aegirine
 aegirines
 aegirite
@@ -3261,10 +3260,7 @@ altricial
 altruist
 altruists
 alts
-aludel
 aludels
-alula
-alulae
 alular
 alum
 alumin
@@ -7326,7 +7322,6 @@ aucuba
 aucubas
 audacious
 audacity
-audad
 audads
 audial
 audible
@@ -7385,11 +7380,9 @@ augusts
 auklet
 auklets
 auks
-aula
 aularian
 aularians
 aulas
-auld
 aulder
 auldest
 aulic
@@ -28570,11 +28563,8 @@ daubing
 daubry
 daubs
 dauby
-daud
-dauded
 dauding
 dauds
-dault
 daults
 daunder
 daundered
@@ -28595,8 +28585,6 @@ daur
 daured
 dauring
 daurs
-daut
-dauted
 dautie
 dauties
 dauting
@@ -29332,7 +29320,6 @@ deed
 deeded
 deeder
 deedest
-deedful
 deedier
 deediest
 deedily
