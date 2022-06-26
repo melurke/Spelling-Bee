@@ -80,7 +80,6 @@ abatures
 abaxial
 abaxile
 abayas
-abba
 abbacies
 abbacy
 abbas
@@ -172,7 +171,6 @@ abides
 abiding
 abidings
 abies
-abigail
 abigails
 abilities
 ability
@@ -214,7 +212,6 @@ ables
 ablest
 ablet
 ablets
-abling
 ablings
 ablins
 abloom
@@ -432,10 +429,8 @@ absurds
 abthane
 abthanes
 abubble
-abulia
 abulias
 abulic
-abuna
 abunas
 abundance
 abundancy
@@ -2486,7 +2481,6 @@ alation
 alations
 alaying
 alays
-alba
 albacore
 albarelli
 albarello
@@ -2507,7 +2501,6 @@ albertite
 alberts
 albescence
 albescences
-albinal
 albiness
 albinesses
 albinic
@@ -2718,7 +2711,6 @@ aliasings
 alibi
 alibied
 alibies
-alibiing
 alibis
 alible
 alicant
@@ -8057,7 +8049,6 @@ azyms
 baaed
 baaing
 baaings
-baal
 baalim
 baalism
 baalisms
@@ -8142,14 +8133,12 @@ baboos
 baboosh
 babooshes
 babouche
-babu
 babuche
 babuches
 babudom
 babudoms
 babuism
 babuisms
-babul
 babuls
 babus
 babushka
@@ -8435,7 +8424,6 @@ bahuts
 bahuvrihi
 baidarka
 baidarkas
-baigan
 baigans
 baignet
 bail
@@ -8454,7 +8442,6 @@ bailiff
 bailiffs
 bailing
 bailiwick
-bailli
 bailliage
 bailliages
 baillie
@@ -8465,7 +8452,6 @@ bailors
 bailout
 bails
 bailsman
-bainin
 bainins
 bainite
 bainites
