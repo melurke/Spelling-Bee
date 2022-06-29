@@ -1738,7 +1738,6 @@ affrontee
 affronts
 affusion
 affusions
-affy
 affyde
 affying
 afghan
@@ -16703,17 +16702,14 @@ cafards
 cafe
 cafes
 cafeteria
-caff
 caffein
 caffeine
 caffeines
 caffeins
 caffeism
 caffeisms
-caffila
 caffilas
 caffs
-cafila
 cafilas
 caftan
 caftaned
@@ -16777,7 +16773,6 @@ cairns
 cairny
 caisson
 caissons
-caitiff
 caitiffs
 caitive
 caitives
@@ -16868,7 +16863,6 @@ calcic
 calcicole
 calcicoles
 calcicolous
-calcific
 calcified
 calcifies
 calcifugal
@@ -16950,7 +16944,6 @@ calicoes
 calicos
 calid
 calidity
-calif
 califate
 califs
 caligo
@@ -18687,7 +18680,6 @@ cates
 catface
 catfaces
 catfacing
-catfall
 catfalls
 catfight
 catfish
