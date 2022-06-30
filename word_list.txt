@@ -2623,7 +2623,6 @@ ales
 alethic
 aleuron
 aleurone
-alevin
 alevins
 alew
 alewashed
@@ -3289,7 +3288,6 @@ alveole
 alveoles
 alveoli
 alveolus
-alvine
 alway
 always
 alyssum
@@ -7607,16 +7605,13 @@ avail
 availability
 available
 availably
-availe
 availed
 availes
 availful
 availing
 availingly
 avails
-aval
 avalanche
-avale
 avaled
 avales
 avaling
@@ -7633,8 +7628,6 @@ avaunt
 avaunted
 avaunting
 avaunts
-avellan
-avellane
 avenge
 avenged
 avengement
@@ -7727,7 +7720,6 @@ avifaunal
 avifaunas
 aviform
 avigator
-avine
 avion
 avionic
 avionics
@@ -9664,7 +9656,6 @@ bausond
 bauxite
 bauxitic
 bavardage
-bavin
 bavins
 bawbee
 bawbees
