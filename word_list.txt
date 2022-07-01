@@ -36461,7 +36461,6 @@ eightieths
 eights
 eightvo
 eighty
-eigne
 eiked
 eiking
 eikon
@@ -37944,7 +37943,6 @@ engineries
 enginers
 enginery
 engines
-engining
 enginous
 engird
 engirded
@@ -39997,7 +39995,6 @@ eucyclic
 eudaemon
 eudemon
 eudemons
-euge
 eugenia
 eugenias
 eugenic
@@ -47955,7 +47952,6 @@ geechees
 geed
 geegaw
 geegaws
-geeing
 geek
 geekier
 geekiest
@@ -47981,7 +47977,6 @@ geisha
 geishas
 geist
 geists
-geit
 geits
 gelable
 gelada
@@ -48127,14 +48122,12 @@ generousnesses
 genes
 geneses
 genesis
-genet
 genetic
 geneticist
 geneticists
 genetics
 genetrix
 genets
-genette
 genettes
 geneva
 genevas
@@ -48173,7 +48166,6 @@ genizah
 genlock
 gennel
 gennels
-gennet
 gennets
 genoa
 genoas
@@ -48247,7 +48239,6 @@ gentrifier
 gentry
 gents
 genty
-genu
 genua
 genual
 genuine
