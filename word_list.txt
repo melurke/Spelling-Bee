@@ -4982,7 +4982,6 @@ apiaries
 apiarist
 apiarists
 apiary
-apical
 apically
 apicals
 apices
@@ -4993,8 +4992,6 @@ apiece
 apimania
 apimanias
 aping
-apio
-apiol
 apiology
 apiols
 apios
@@ -5014,7 +5011,6 @@ aplastic
 aplenty
 aplite
 aplites
-aplitic
 aplomb
 aplombs
 apnea
@@ -5041,7 +5037,6 @@ apocopates
 apocopation
 apocope
 apocopes
-apocopic
 apocrypha
 apod
 apodal
@@ -5064,7 +5059,6 @@ apogeic
 apograph
 apographs
 apolitical
-apollo
 apollonicon
 apollos
 apolog
@@ -5080,7 +5074,6 @@ apomict
 apomictic
 apomixis
 apomorphia
-apoop
 apophases
 apophasis
 apophatic
@@ -5094,7 +5087,6 @@ apoplexes
 apoplexy
 apoptoses
 apoptosis
-apoptotic
 aporia
 aporias
 aport
@@ -5132,7 +5124,6 @@ appair
 appaired
 appairing
 appairs
-appal
 appall
 appalled
 appalling
@@ -5141,8 +5132,6 @@ appalls
 appaloosa
 appaloosas
 appals
-appalti
-appalto
 appanage
 appanaged
 appanages
@@ -5387,7 +5376,6 @@ aptness
 aptnesses
 aptote
 aptotes
-aptotic
 apts
 apyrase
 apyrases
@@ -6905,7 +6893,6 @@ ataman
 atamans
 atamasco
 atamascos
-atap
 ataps
 atar
 ataractic
@@ -7061,7 +7048,6 @@ atonies
 atoning
 atony
 atop
-atopic
 atopies
 atopy
 atoxic
@@ -7127,7 +7113,6 @@ attaintment
 attaintments
 attaints
 attainture
-attap
 attaps
 attar
 attars
@@ -16583,7 +16568,6 @@ cacoon
 cacoons
 cacophonic
 cacophony
-cacotopia
 cacotopian
 cacotopias
 cactaceous
@@ -17033,9 +17017,6 @@ calos
 calotte
 calottes
 caloyer
-calp
-calpa
-calpac
 calpack
 calpacks
 calpacs
@@ -17597,7 +17578,6 @@ canzonette
 canzoni
 caoutchouc
 caoutchoucs
-capa
 capable
 capabler
 capably
@@ -17636,13 +17616,11 @@ capful
 capfuls
 caph
 caphs
-capi
 capias
 capiases
 capillaire
 capillary
 caping
-capita
 capital
 capitalist
 capitalistic
@@ -142938,7 +142916,6 @@ akrasias
 akratic
 akvavit
 akvavits
-alaap
 alaaps
 alabamine
 alabandine
@@ -142980,8 +142957,6 @@ alanui
 alanuis
 alanyl
 alanyls
-alap
-alapa
 alapas
 alaps
 alar
