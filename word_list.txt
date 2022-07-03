@@ -254,7 +254,6 @@ abomasuses
 abomination
 abondance
 abonnement
-aboon
 aboral
 aborally
 abord
@@ -8098,7 +8097,6 @@ babka
 babkas
 bablah
 bablahs
-baboo
 babool
 babools
 baboon
@@ -140570,7 +140568,6 @@ abattis
 abattises
 abattoir
 abattoirs
-abattu
 abature
 abatures
 abaxial
