@@ -2002,12 +2002,10 @@ aglets
 agley
 aglimmer
 aglitter
-agloo
 agloos
 aglossia
 aglossias
 aglow
-aglu
 aglus
 agly
 aglycon
@@ -2157,7 +2155,6 @@ ahold
 aholds
 ahorse
 ahoy
-ahull
 ahungry
 aias
 aiblins
@@ -3229,7 +3226,6 @@ althaea
 althaeas
 althea
 altheas
-altho
 althorn
 although
 altimeter
