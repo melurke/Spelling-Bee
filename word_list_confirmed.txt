@@ -1,3 +1,4 @@
+abaci
 aback
 abbey
 abbot
@@ -96,6 +97,7 @@ atom
 atop
 atria
 attaboy
+attach
 attempt
 attic
 aura
@@ -117,6 +119,7 @@ baboon
 baby
 back
 backfill
+backing
 badly
 bagging
 baht
@@ -130,6 +133,7 @@ ball
 balling
 banal
 banana
+banc
 bang
 banging
 banning
@@ -259,12 +263,16 @@ butt
 button
 buyout
 byte
+cabana
+cabbing
+cabin
 cacao
 cacti
 cadence
 cage
 caging
 caiman
+caking
 calcify
 calf
 call
@@ -292,6 +300,8 @@ carroty
 carry
 carryout
 catalpa
+catch
+catchup
 cathartic
 catty
 caul
@@ -826,7 +836,10 @@ jocular
 kick
 kickback
 kickball
+kicking
 kill
+knack
+knickknack
 labia
 labial
 lack
@@ -1026,6 +1039,8 @@ next
 niacin
 nibbling
 nice
+nick
+nicking
 niece
 ninepin
 nipped

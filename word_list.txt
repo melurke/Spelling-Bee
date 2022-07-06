@@ -4966,7 +4966,6 @@ aphonic
 aphonous
 aphony
 aphotic
-aphtha
 aphthae
 aphthous
 aphylly
@@ -16500,7 +16499,6 @@ cacaos
 cacas
 cacciatora
 cacciatore
-cachaca
 cachacas
 cachaemia
 cachaemias
@@ -16530,7 +16528,6 @@ cacholot
 cacholots
 cachou
 cachous
-cachucha
 cachuchas
 cacique
 caciques
@@ -17608,7 +17605,6 @@ capers
 capes
 capful
 capfuls
-caph
 caphs
 capias
 capiases
@@ -18592,7 +18588,6 @@ catchiest
 catching
 catchment
 catchpoll
-catcht
 catchup
 catchups
 catchweed
