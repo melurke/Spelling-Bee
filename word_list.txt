@@ -3962,14 +3962,9 @@ ancientest
 ancientness
 ancientnesses
 ancients
-ancile
-ancilia
-ancilla
-ancillae
 ancillary
 ancillas
 ancipital
-ancle
 ancles
 ancome
 ancomes
@@ -4011,7 +4006,6 @@ aneath
 anecdota
 anecdote
 anechoic
-anelace
 anelaces
 anele
 aneled
@@ -4137,7 +4131,6 @@ angulous
 anhedonia
 anhedral
 anhingas
-anicca
 aniccas
 aniconic
 aniconism
@@ -4238,7 +4231,6 @@ ankus
 ankuses
 ankush
 ankushes
-anlace
 anlaces
 anlage
 anlagen
@@ -4979,7 +4971,6 @@ apiary
 apically
 apicals
 apices
-apician
 apiculi
 apiculus
 apiece
@@ -5010,7 +5001,6 @@ aplombs
 apnea
 apneal
 apneas
-apneic
 apneuses
 apneusis
 apnoea
@@ -16633,10 +16623,7 @@ caducei
 caduceus
 caducity
 caducous
-caeca
-caecal
 caecally
-caecilian
 caecilians
 caecitis
 caecitises
@@ -16715,7 +16702,6 @@ caid
 caids
 caillach
 caillachs
-caille
 cailleach
 cailleachs
 cailles
@@ -16727,7 +16713,6 @@ caimacams
 caimacs
 caiman
 caimans
-cain
 cains
 caique
 caiques
@@ -16808,10 +16793,6 @@ calathos
 calathus
 calavance
 calavances
-calcanea
-calcaneal
-calcanean
-calcanei
 calcaneum
 calcaneus
 calcar
@@ -16825,7 +16806,6 @@ calced
 calceolaria
 calceolate
 calces
-calcic
 calcicole
 calcicoles
 calcicolous
@@ -16837,7 +16817,6 @@ calcimine
 calcimining
 calcinable
 calcination
-calcine
 calcined
 calcines
 calcining
@@ -16902,7 +16881,6 @@ calibre
 calices
 caliche
 caliches
-calicle
 calicles
 calico
 calicoback
@@ -16918,7 +16896,6 @@ calima
 calimas
 caliology
 calipash
-calipee
 calipees
 caliper
 caliph
@@ -16943,7 +16920,6 @@ callais
 callaises
 callaloo
 callaloos
-callan
 callans
 callant
 callants
@@ -16965,7 +16941,6 @@ calling
 callings
 calliope
 calliopsis
-callipee
 callipees
 calliper
 callose
@@ -17206,7 +17181,6 @@ camwood
 camwoods
 canadas
 canaigre
-canaille
 canailles
 canakin
 canakins
@@ -87727,7 +87701,6 @@ piccadill
 piccadillo
 piccadills
 piccadilly
-piccalilli
 piccalillis
 piccanin
 piccaninnies
@@ -87741,7 +87714,6 @@ piccoloists
 piccolos
 piccy
 pice
-picene
 picenes
 piceous
 pichiciago
@@ -88790,7 +88762,6 @@ plaguey
 plaguily
 plaguing
 plaguy
-plaice
 plaices
 plaid
 plaided
@@ -89163,7 +89134,6 @@ pliant
 pliantly
 plica
 plicae
-plical
 plicate
 plie
 plied
@@ -140998,7 +140968,6 @@ acanthine
 acanthins
 acanths
 acanthus
-acapnia
 acapnias
 acarian
 acariases
@@ -141957,7 +141926,6 @@ adzukis
 aechmea
 aechmeas
 aecia
-aecial
 aecidia
 aecidial
 aecidium
@@ -143027,7 +142995,6 @@ alcade
 alcades
 alcahest
 alcahests
-alcaic
 alcaiceria
 alcaicerias
 alcaics
@@ -143083,7 +143050,6 @@ aldrin
 aldrins
 aleatory
 alebench
-alec
 alecost
 alecosts
 alecs
@@ -143398,7 +143364,6 @@ allegros
 allel
 allele
 alleles
-allelic
 allelism
 allelisms
 allels
@@ -143437,10 +143402,8 @@ allhollown
 alliable
 alliance
 alliances
-allice
 allices
 allicholy
-allicin
 allicins
 allied
 allies
@@ -228312,7 +228275,6 @@ piccadills
 piccadilly
 piccalilli
 piccalillis
-piccanin
 piccaninnies
 piccaninny
 piccanins
@@ -228331,7 +228293,6 @@ pichiciago
 pichiciego
 pichurim
 piciform
-picine
 pick
 pickaback
 pickabacks
@@ -228872,9 +228833,7 @@ pinkroot
 pinks
 pinky
 pinna
-pinnace
 pinnaces
-pinnacle
 pinnacling
 pinnae
 pinnal
@@ -229744,8 +229703,6 @@ pliably
 pliancy
 pliant
 pliantly
-plica
-plicae
 plical
 plicate
 plie

@@ -75,12 +75,15 @@ antonym
 antonymy
 anvil
 anyone
+apace
 apeman
 apemen
 apian
 apianaping
+apiece
 apolitical
 appall
+appliance
 arcana
 arch
 archaic
@@ -281,6 +284,8 @@ callaloo
 callback
 came
 cami
+canal
+canape
 canary
 cancan
 cane
@@ -294,6 +299,7 @@ capital
 capitol
 capo
 capping
+captcha
 carny
 carol
 carroty
@@ -321,6 +327,7 @@ changed
 chap
 char
 chary
+chat
 chia
 chic
 chica
@@ -330,9 +337,11 @@ chip
 chipping
 chit
 chitchat
+chuppah
 church
 churchy
 churn
+chutzpah
 cinema
 circa
 circuit
@@ -750,6 +759,7 @@ handed
 hang
 hanged
 harry
+hatch
 hate
 hath
 hatha
@@ -777,6 +787,8 @@ hull
 hurrah
 hurray
 hurry
+hutch
+huzzah
 iced
 iceman
 icemen
@@ -1114,6 +1126,8 @@ papal
 papilla
 paranoia
 paranoid
+patch
+path
 patio
 pavement
 peed
@@ -1129,6 +1143,7 @@ penne
 penned
 people
 pepped
+phat
 piano
 pica
 piccata
@@ -1227,6 +1242,7 @@ runny
 rutty
 tabby
 taboo
+tach
 tacit
 tactic
 taffeta
@@ -1268,6 +1284,7 @@ tenting
 than
 thane
 that
+thatch
 thee
 then
 theta
