@@ -45,6 +45,7 @@ alive
 alkali
 allay
 allayed
+allaying
 allege
 alleged
 alley
@@ -52,6 +53,7 @@ allot
 allude
 alluded
 ally
+allying
 aloha
 alpaca
 although
@@ -59,6 +61,8 @@ amen
 amid
 ammo
 anal
+anally
+analyzing
 anarchy
 anatomy
 andiron
@@ -484,6 +488,10 @@ divvy
 doff
 doffed
 doobie
+dowel
+down
+downed
+downtown
 drain
 dram
 drama
@@ -491,6 +499,9 @@ drip
 droid
 dupe
 duped
+dwell
+dwelled
+dwelt
 dyad
 dyeable
 dyed
@@ -535,6 +546,7 @@ encage
 encaged
 encaging
 ended
+endow
 enema
 engage
 engaged
@@ -682,6 +694,8 @@ gaga
 gage
 gagged
 gaggle
+gaily
+gainly
 gala
 galangal
 gale
@@ -690,7 +704,9 @@ galled
 ganache
 gang
 ganged
+gangly
 gaping
+gayly
 gaze
 gazed
 gazelle
@@ -716,6 +732,7 @@ gigged
 gigging
 giggle
 giggled
+giggly
 gigue
 gild
 gilded
@@ -728,6 +745,7 @@ glade
 glance
 glaze
 glazed
+glazy
 glean
 glee
 glen
@@ -803,6 +821,7 @@ iffy
 ignite
 igniting
 illegal
+illy
 imam
 imbibe
 imitate
@@ -834,6 +853,8 @@ ingenue
 inject
 inlaid
 inland
+inlay
+inlaying
 inning
 innocence
 inroad
@@ -857,7 +878,10 @@ labial
 lack
 lady
 lagged
+laggy
 laid
+lallygag
+lallygagging
 lama
 land
 landfall
@@ -871,6 +895,9 @@ lava
 lave
 lawn
 layette
+laying
+lazily
+lazy
 leaf
 leaflet
 leave
@@ -897,6 +924,7 @@ life
 lifeblood
 lifeline
 lift
+lily
 lime
 limp
 limply
@@ -932,6 +960,7 @@ lull
 lulu
 lump
 lumpy
+lying
 lynx
 mace
 macing
@@ -1026,12 +1055,15 @@ nabob
 nada
 nadir
 nagged
+naggy
 naiad
 naif
 naive
 name
 nametape
 nana
+nanny
+nannying
 nanobot
 napping
 narc
@@ -1055,6 +1087,7 @@ nick
 nicking
 niece
 ninepin
+ninny
 nipped
 nitwit
 noir
@@ -1416,6 +1449,7 @@ winning
 wiring
 wring
 wringing
+yang
 yarn
 yell
 yelled
@@ -1425,8 +1459,12 @@ yuca
 yucca
 yurt
 zagged
+zanily
+zany
 zigged
 zigzag
 zigzagged
+zigzaggy
+zingy
 zipped
 zombie

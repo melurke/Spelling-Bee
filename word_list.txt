@@ -30989,7 +30989,6 @@ dewclawed
 dewclaws
 dewdrop
 dewdrops
-dewed
 dewfall
 dewfalls
 dewfull
@@ -31008,8 +31007,6 @@ dewlapped
 dewlaps
 dewlapt
 dewless
-dewool
-dewooled
 dewools
 deworm
 dewormed
@@ -34063,7 +34060,6 @@ dowable
 dowager
 dowar
 dowars
-dowd
 dowdier
 dowdies
 dowdiest
@@ -34075,10 +34071,7 @@ dowdy
 dowdyish
 dowdyism
 dowdyisms
-dowed
 dowel
-doweled
-dowelled
 dowels
 dower
 dowered
@@ -34093,12 +34086,9 @@ dowie
 dowier
 dowiest
 dowing
-dowl
 dowlas
 dowlases
-dowle
 dowles
-dowlne
 dowlnes
 dowlney
 dowls
@@ -34168,7 +34158,6 @@ dowses
 dowset
 dowsets
 dowsing
-dowt
 dowts
 doxie
 doxies
@@ -37601,8 +37590,6 @@ endermic
 enderon
 enderons
 enders
-endew
-endewed
 endewing
 endews
 endexine
