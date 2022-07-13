@@ -53,6 +53,7 @@ allayed
 allaying
 allege
 alleged
+allele
 alley
 allot
 allude
@@ -65,6 +66,7 @@ although
 amen
 amid
 ammo
+amyl
 anal
 anally
 analyzing
@@ -287,6 +289,7 @@ cabana
 cabbing
 cabin
 cacao
+cache
 cacti
 cadence
 cage
@@ -299,7 +302,10 @@ call
 calla
 callaloo
 callback
+calm
+calmly
 came
+camel
 cami
 canal
 canape
@@ -336,6 +342,7 @@ cello
 cent
 chai
 chair
+challah
 challenge
 chance
 chanced
@@ -368,8 +375,12 @@ cited
 citify
 citric
 clack
+clam
+clammy
 clang
 clap
+clay
+clayey
 click
 cliff
 clinic
@@ -477,8 +488,11 @@ dejected
 delay
 delayable
 delayed
+dement
+demented
 demit
 demitted
+denim
 depend
 detect
 detected
@@ -518,6 +532,7 @@ dwelt
 dyad
 dyeable
 dyed
+each
 eagle
 eagled
 eave
@@ -789,6 +804,7 @@ hale
 hall
 halo
 halt
+hammy
 hand
 handed
 hang
@@ -895,7 +911,9 @@ knack
 knickknack
 labia
 labial
+lace
 lack
+lacy
 lady
 lagged
 laggy
@@ -903,6 +921,8 @@ laid
 lallygag
 lallygagging
 lama
+lame
+lamely
 land
 landfall
 landlady
@@ -918,6 +938,7 @@ layette
 laying
 lazily
 lazy
+leach
 leaf
 leaflet
 leave
@@ -929,6 +950,7 @@ legal
 legalize
 legalized
 legged
+lemma
 lenience
 lent
 letdown
@@ -997,6 +1019,7 @@ magician
 maid
 maim
 maimed
+male
 mall
 mallard
 mama
@@ -1016,8 +1039,11 @@ mate
 matte
 matted
 maven
+mayhem
 mayo
 mead
+meal
+mealy
 mean
 meant
 meat
@@ -1524,6 +1550,7 @@ wring
 wringing
 yang
 yarn
+yeah
 yell
 yelled
 yente
