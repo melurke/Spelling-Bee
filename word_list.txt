@@ -2415,16 +2415,13 @@ alamode
 alamodes
 alamort
 alamos
-alan
 aland
 alands
-alane
 alangs
 alanin
 alanine
 alanines
 alanins
-alannah
 alannahs
 alans
 alant
@@ -3984,7 +3981,6 @@ anecdota
 anecdote
 anechoic
 anelaces
-anele
 aneled
 aneles
 aneling
