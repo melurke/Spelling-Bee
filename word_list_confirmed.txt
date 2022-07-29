@@ -37,6 +37,7 @@ agaze
 aged
 agenda
 agile
+agog
 ahem
 aimed
 airboat
@@ -110,6 +111,7 @@ apemen
 apian
 apianaping
 apiece
+apogee
 apolitical
 appall
 appliance
@@ -368,6 +370,7 @@ canal
 canape
 canary
 cancan
+cancel
 cane
 caned
 canine
@@ -406,8 +409,10 @@ challah
 challenge
 chance
 chanced
+chancel
 change
 changed
+channel
 chap
 char
 chary
@@ -439,10 +444,13 @@ citric
 clack
 clam
 clammy
+clan
 clang
 clap
 clay
 clayey
+clean
+clench
 click
 client
 clientele
@@ -647,6 +655,7 @@ egging
 eidetic
 eject
 ejected
+elan
 elatedly
 elect
 electee
@@ -679,6 +688,7 @@ encage
 encaged
 encaging
 enchain
+enclave
 ended
 endow
 endowed
@@ -688,6 +698,7 @@ engaged
 engine
 enhance
 enhanced
+enlace
 enliven
 ennead
 ennui
@@ -925,12 +936,14 @@ hatch
 hate
 hath
 hatha
+haven
 heal
 health
 healthy
 heat
 heath
 heathen
+heaven
 heel
 heeled
 heinie
@@ -1070,9 +1083,11 @@ lallygagging
 lama
 lame
 lamely
+lance
 land
 landfall
 landlady
+lane
 laptop
 lard
 lately
@@ -1088,6 +1103,7 @@ lazy
 leach
 leaf
 leaflet
+lean
 leave
 leaven
 lede
@@ -1695,7 +1711,9 @@ uppity
 uptilt
 uric
 vain
+valance
 vale
+valence
 valid
 validly
 valve

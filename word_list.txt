@@ -2029,7 +2029,6 @@ agnominal
 agnosia
 agnosias
 agog
-agoge
 agoges
 agogic
 agogics
@@ -4830,7 +4829,6 @@ apaches
 apadana
 apadanas
 apage
-apagoge
 apagoges
 apagogic
 apagogical
