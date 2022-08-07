@@ -10387,7 +10387,6 @@ behoofs
 behoove
 behooved
 behooves
-behote
 behotes
 behove
 behoved
@@ -11432,7 +11431,6 @@ bhisti
 bhistie
 bhisties
 bhistis
-bhoot
 bhoots
 bhut
 bhuts
@@ -11905,7 +11903,6 @@ biocycle
 biodata
 bioengineer
 bioengineering
-bioethic
 biofuel
 biog
 biogas
