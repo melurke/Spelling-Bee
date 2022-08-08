@@ -256,6 +256,8 @@ binned
 binning
 biome
 biota
+biotech
+biotic
 bite
 bivalve
 blab
@@ -283,6 +285,7 @@ bobbed
 bobble
 bobbled
 bocce
+bocci
 bock
 bode
 boded
@@ -291,6 +294,7 @@ boffo
 bogey
 bogged
 boggy
+boho
 bold
 boll
 bolo
@@ -312,6 +316,7 @@ booby
 boodle
 booed
 boogie
+boohoo
 book
 booked
 boom
@@ -321,10 +326,13 @@ boor
 boot
 booted
 bootee
+booth
 bootie
 booty
 booze
 botany
+botch
+both
 botnet
 bottom
 bottomed
@@ -438,6 +446,7 @@ chip
 chipping
 chit
 chitchat
+choice
 chuppah
 church
 churchy
@@ -483,6 +492,7 @@ cocoa
 coconut
 cocoon
 coffin
+coho
 coil
 coin
 cola
@@ -508,10 +518,13 @@ cookbook
 cool
 coop
 coopt
+coot
+cootie
 copilot
 coral
 corolla
 corral
+cote
 cotillion
 cotton
 cranny
@@ -649,6 +662,8 @@ eave
 ebbed
 ebon
 echinacea
+echo
+echoic
 eclectic
 edamame
 eddied
@@ -979,13 +994,17 @@ hennaed
 hill
 hilled
 hitch
+hobbit
+hobo
 hold
 hole
 holed
 holt
 hone
+hooch
 hoot
 hotel
+hottie
 huff
 hull
 hurrah
@@ -1407,6 +1426,7 @@ obit
 oboe
 occipital
 occur
+octet
 octillion
 octopi
 ocular
@@ -1719,6 +1739,7 @@ tooth
 topcoat
 topic
 topical
+tote
 totem
 tough
 tout
@@ -1884,5 +1905,8 @@ zigzagged
 zigzaggy
 zingy
 zipped
-biotech
-biotic
+affray
+airy
+array
+arty
+fairy

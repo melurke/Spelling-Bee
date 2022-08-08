@@ -1939,7 +1939,6 @@ aggrieves
 aggrieving
 aggro
 aggros
-aggry
 aghas
 aghast
 agila
@@ -5731,7 +5730,6 @@ argyle
 argyles
 argyll
 argylls
-argyria
 argyrias
 argyrite
 arhat
@@ -41139,7 +41137,6 @@ faggoting
 faggotry
 faggots
 faggoty
-faggy
 fagin
 fagins
 fagot
