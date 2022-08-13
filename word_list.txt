@@ -3587,7 +3587,6 @@ amoebic
 amoeboid
 amok
 amoks
-amole
 amoles
 amomum
 amomums
@@ -37130,7 +37129,6 @@ empeached
 empeaches
 empennage
 empennages
-empeople
 empeopled
 empeoples
 emperce
@@ -37176,7 +37174,6 @@ empleach
 emplectum
 emplonge
 employ
-employe
 employed
 employee
 employees
@@ -38991,7 +38988,6 @@ epodic
 eponym
 eponyms
 eponymy
-epopee
 epopees
 epopoeia
 epopoeias
