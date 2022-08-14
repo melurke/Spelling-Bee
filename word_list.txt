@@ -1334,7 +1334,6 @@ adoze
 adpress
 adpressed
 adpresses
-adrad
 adread
 adreaded
 adreading
@@ -1902,7 +1901,6 @@ aggracing
 aggrade
 aggraded
 aggrades
-aggrading
 aggrandising
 aggrandizing
 aggrate
@@ -4820,13 +4818,11 @@ aoudads
 apace
 apache
 apaches
-apadana
 apadanas
 apage
 apagoges
 apagogic
 apagogical
-apaid
 apanage
 apanaged
 apanages
@@ -5065,7 +5061,6 @@ apotropaic
 apotropous
 apozem
 apozems
-appaid
 appair
 appaired
 appairing
@@ -5607,7 +5602,6 @@ ardor
 ardors
 ardour
 ardours
-ardri
 ardrigh
 ardrighs
 ardris
@@ -5678,7 +5672,6 @@ argali
 argalis
 argals
 argan
-argand
 argands
 argans
 argemone
@@ -5996,7 +5989,6 @@ arriba
 arride
 arrided
 arrides
-arriding
 arriere
 arriero
 arrieros
@@ -27783,7 +27775,6 @@ dactyli
 dactylic
 dactylically
 dactyls
-dada
 dadaism
 dadaisms
 dadaist
@@ -27792,7 +27783,6 @@ dadaists
 dadas
 dadded
 daddies
-dadding
 daddle
 daddled
 daddles
@@ -27843,7 +27833,6 @@ daftness
 daftnesses
 dagaba
 dagabas
-dagga
 daggas
 dagged
 dagger
@@ -27853,7 +27842,6 @@ daggering
 daggers
 daggier
 daggiest
-dagging
 daggings
 daggle
 daggled
@@ -27916,7 +27904,6 @@ daimyos
 daine
 dained
 daines
-daining
 daint
 daintier
 dainties
@@ -28136,7 +28123,6 @@ danger
 dangered
 dangering
 dangers
-danging
 dangle
 dangled
 dangler
@@ -28212,13 +28198,10 @@ darer
 darers
 dares
 daresay
-darg
-darga
 dargas
 dargle
 dargles
 dargs
-dari
 daric
 darics
 daring
@@ -28267,16 +28250,12 @@ darners
 darning
 darnings
 darns
-darraign
 darraigne
 darraigned
-darraigning
 darraigns
-darrain
 darraine
 darrained
 darraines
-darraining
 darrains
 darrayn
 darrayned
@@ -28285,7 +28264,6 @@ darrayns
 darre
 darred
 darres
-darring
 darshan
 darshans
 dart
@@ -31056,7 +31034,6 @@ diagrammed
 diagramming
 diagrams
 diagraph
-diagrid
 diagrids
 diakineses
 diakinesis
@@ -31131,7 +31108,6 @@ diaper
 diapered
 diapers
 diaphysis
-diapir
 diapiric
 diapirism
 diapirisms
@@ -31144,7 +31120,6 @@ diarchal
 diarchic
 diarchy
 diarial
-diarian
 diaries
 diarise
 diarised
