@@ -59,6 +59,7 @@ alga
 algae
 algal
 alibi
+alien
 alive
 alkali
 allay
@@ -629,8 +630,12 @@ dillydally
 dime
 dimmed
 dinar
+ding
+dinging
+dining
 dino
 dipped
+dipping
 diva
 divan
 divvy
@@ -656,10 +661,15 @@ dowel
 down
 downed
 downtown
+drag
+dragging
 drain
+draining
 dram
 drama
+draping
 drip
+dripping
 droid
 dugong
 dugout
@@ -891,6 +901,7 @@ full
 gabbing
 gabbling
 gadded
+gadding
 gaga
 gage
 gagged
@@ -941,6 +952,8 @@ gilded
 gill
 gilled
 ginning
+gird
+girding
 glace
 glad
 glade
@@ -969,6 +982,16 @@ goop
 goopy
 goth
 gout
+grad
+grading
+grand
+grandad
+granddad
+grandpa
+grandpapa
+grid
+grind
+grinding
 guff
 gulf
 gull
@@ -1508,6 +1531,7 @@ owlet
 owned
 pacing
 pact
+padding
 pagan
 pageboy
 paging
@@ -1525,6 +1549,7 @@ pall
 palp
 pampa
 panama
+panda
 pang
 panic
 panini
@@ -1535,6 +1560,7 @@ papally
 papaya
 papilla
 pappy
+parading
 paranoia
 paranoid
 patch
@@ -1570,6 +1596,7 @@ piccata
 piccolo
 picnic
 picot
+pidgin
 pied
 pigging
 pill
@@ -1631,6 +1658,7 @@ pope
 poppa
 poppy
 potato
+priding
 prior
 puli
 pull
@@ -1657,6 +1685,7 @@ radii
 radio
 radon
 raid
+raiding
 rain
 raindrop
 raita
@@ -1672,6 +1701,10 @@ raunch
 raunchy
 ribbit
 rich
+ridding
+ridging
+riding
+rigid
 rind
 riparian
 road
