@@ -498,6 +498,9 @@ cocci
 cocoa
 coconut
 cocoon
+code
+coded
+coed
 coffin
 coho
 coil
@@ -511,6 +514,9 @@ colon
 colonel
 colonic
 color
+come
+comet
+commode
 compel
 complex
 concoct
@@ -1142,6 +1148,11 @@ iota
 iron
 itch
 item
+javelin
+javelina
+jean
+jell
+jive
 jocular
 journo
 juror
@@ -1227,6 +1238,7 @@ lick
 lidded
 lied
 liege
+lien
 life
 lifeblood
 lifeline
@@ -1238,6 +1250,9 @@ lily
 lime
 limp
 limply
+line
+lineal
+linen
 lint
 lion
 lipo
