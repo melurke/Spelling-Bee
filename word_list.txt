@@ -8,8 +8,6 @@ aardwolf
 aargh
 aasvogel
 aasvogels
-abac
-abaca
 abacas
 abaci
 aback
@@ -80,7 +78,6 @@ abbacies
 abbacy
 abbas
 abbatial
-abbe
 abbes
 abbess
 abbesses
@@ -91,7 +88,6 @@ abbotcy
 abbots
 abbreviate
 abbs
-abcee
 abcees
 abcoulomb
 abdabs
@@ -115,7 +111,6 @@ abears
 abed
 abegging
 abeigh
-abele
 abeles
 abelia
 abelian
@@ -539,7 +534,6 @@ acauline
 acaulose
 acaulous
 acausal
-accable
 accede
 acceded
 accedences
@@ -2459,11 +2453,9 @@ albas
 albata
 albatas
 albatross
-albe
 albedo
 albedoes
 albedos
-albee
 albeit
 albergo
 albert
@@ -2891,7 +2883,6 @@ allhallond
 allhallonds
 allhallowen
 allhallown
-allheal
 allheals
 allhollown
 alliable
@@ -7984,7 +7975,6 @@ babblier
 babbliest
 babbling
 babblings
-babbly
 babe
 babel
 babeldom
@@ -8016,7 +8006,6 @@ babirussa
 babirussas
 babka
 babkas
-bablah
 bablahs
 babool
 babools
@@ -8054,8 +8043,6 @@ babysit
 babysits
 bacalao
 bacalaos
-bacca
-baccae
 baccara
 baccaras
 baccarat
@@ -8081,8 +8068,6 @@ baccies
 bacco
 baccoes
 baccos
-baccy
-bach
 bacharach
 bacharachs
 bached
@@ -8235,7 +8220,6 @@ badnesses
 bads
 baedeker
 baedekers
-bael
 baels
 baetyl
 baetyls
@@ -8520,7 +8504,6 @@ ballated
 ballating
 ballats
 ballcarrier
-ballclay
 ballclays
 ballcock
 ballcocks
@@ -8583,7 +8566,6 @@ ballup
 ballups
 ballute
 ballutes
-bally
 ballyhoo
 ballyhoos
 ballyrag
@@ -9604,11 +9586,9 @@ bayard
 bayards
 bayberries
 bayberry
-baye
 bayed
 bayes
 baying
-bayle
 bayles
 bayman
 baymen

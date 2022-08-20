@@ -1,7 +1,9 @@
 abaci
 aback
+abbacy
 abbey
 abbot
+able
 ably
 abort
 about
@@ -10,6 +12,8 @@ acacia
 acai
 accede
 acceded
+account
+accountant
 accrual
 accuracy
 aced
@@ -155,6 +159,7 @@ attempt
 attic
 aura
 aurora
+auto
 autocracy
 avail
 available
@@ -169,7 +174,10 @@ axman
 axon
 baaing
 baba
+babble
 babbling
+babe
+babel
 babka
 baboon
 baby
@@ -184,6 +192,7 @@ bailing
 bait
 balalaika
 baldly
+bale
 baling
 balk
 ball
@@ -205,6 +214,8 @@ baton
 batty
 bayed
 bayou
+beach
+beachy
 beady
 bebop
 beck
@@ -404,9 +415,15 @@ caning
 canna
 canned
 canning
+cannon
+cannot
+canon
+canto
+canton
 capital
 capitol
 capo
+capon
 capping
 captcha
 carny
@@ -490,7 +507,9 @@ cloaca
 clomp
 clone
 clop
+coact
 coal
+coat
 cobble
 cobbled
 coca
@@ -527,6 +546,7 @@ cone
 confit
 conflict
 conic
+contact
 cookbook
 cool
 coop
@@ -534,12 +554,16 @@ coopt
 coot
 cootie
 copilot
+copout
 coral
 corolla
 corral
 cote
 cotillion
 cotton
+count
+coup
+coupon
 cranny
 critic
 croc
@@ -550,6 +574,7 @@ curacao
 curacy
 curl
 curry
+cutout
 daddy
 daily
 dally
@@ -1492,6 +1517,7 @@ noon
 notation
 notion
 nought
+noun
 nubbin
 nubby
 nugget
@@ -1501,7 +1527,9 @@ obey
 obit
 oboe
 occipital
+occupant
 occur
+octant
 octet
 octillion
 octopi
@@ -1540,6 +1568,7 @@ outcry
 outfought
 outgo
 outgun
+output
 outthought
 owed
 owlet
@@ -1667,12 +1696,14 @@ pomelo
 pommel
 pomp
 pompom
+pontoon
 pool
 poop
 pope
 poppa
 poppy
 potato
+pout
 priding
 prior
 puli
@@ -1684,6 +1715,7 @@ pump
 punned
 pupil
 puppy
+putout
 putt
 putty
 queening
@@ -1740,6 +1772,7 @@ taboo
 tabor
 tach
 tacit
+taco
 tactic
 taffeta
 taffy
@@ -1819,6 +1852,7 @@ tint
 tinting
 tippy
 tiptop
+toccata
 tofu
 tomate
 tomb
@@ -1834,6 +1868,7 @@ topic
 topical
 tote
 totem
+toucan
 tough
 tout
 towed
@@ -1881,12 +1916,14 @@ unpenned
 unpin
 unpinned
 unthought
+unto
 untuning
 unzip
 unzipped
 upend
 upended
 uplit
+upon
 upped
 uppity
 uptilt

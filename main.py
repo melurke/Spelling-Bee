@@ -1,15 +1,18 @@
-word_file = open("word_list.txt")
-word_list = []
+with open("word_list.txt", "r") as file:
+    word_list = []
+    for word in file:
+        word_list.append(word.strip())
 
-for word in word_file:
-    word_list.append(word.strip())
-word_file.close()
+with open("word_list_confirmed.txt", "r") as file:
+    word_list_confirmed = []
+    for word in file:
+        word_list_confirmed.append(word.strip())
 
 main_letter = input("Type in the main letter: ")
 letters = []
 
-for i in range(1, 7):
-    letters.append(input("Type in a letter: "))
+for i in range(6):
+    letters.append(input(f"Type in the {i + 1}. letter: "))
 
 possible_words = []
 
@@ -17,7 +20,7 @@ for word in word_list:
     if not main_letter in word:
         word_list.remove(word)
 
-def wordChoice(main_letter, letters, word):
+def WordChoice(main_letter, letters, word):
     letters.append(main_letter)
     if not main_letter in word:
         return False
@@ -26,8 +29,12 @@ def wordChoice(main_letter, letters, word):
             return False
     return True
 
-for word in word_list:
-    if wordChoice(main_letter, letters, word):
-        possible_words.append(word)
+def Main():
+    for word in word_list:
+        if WordChoice(main_letter, letters, word) and not word in word_list_confirmed:
+            possible_words.append(word)
 
-print(possible_words)
+    print(possible_words)
+
+if __name__ == "__main__":
+    Main()
