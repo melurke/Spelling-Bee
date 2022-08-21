@@ -1063,6 +1063,7 @@ heal
 healable
 health
 healthy
+heap
 heat
 heath
 heathen
@@ -1075,6 +1076,7 @@ hell
 hellhole
 hello
 heme
+hemp
 hence
 henchman
 henchmen
@@ -1620,6 +1622,7 @@ parading
 paranoia
 paranoid
 patch
+pate
 path
 patio
 patly
@@ -1627,6 +1630,7 @@ patty
 pavement
 payee
 payola
+peat
 peaty
 peed
 peel
@@ -1795,6 +1799,7 @@ tame
 tamed
 tamp
 tapa
+tape
 tapioca
 tarry
 tatami
@@ -1814,6 +1819,7 @@ teem
 teemed
 teen
 teeny
+teepee
 teeth
 teethe
 telegenic
@@ -1824,6 +1830,7 @@ telethon
 teletype
 temp
 temped
+tempeh
 tempi
 tempo
 tempt
@@ -1833,6 +1840,7 @@ tenet
 tent
 tenth
 tenting
+tepee
 than
 thane
 that
