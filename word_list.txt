@@ -2121,7 +2121,6 @@ aguti
 agutis
 ahchoo
 ahead
-aheap
 ahed
 aheight
 ahem
@@ -4898,7 +4897,6 @@ aphonic
 aphonous
 aphony
 aphotic
-aphthae
 aphthous
 apian
 apiarian
