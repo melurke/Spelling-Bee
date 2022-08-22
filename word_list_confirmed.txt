@@ -39,6 +39,7 @@ aeon
 afar
 affiant
 affiliate
+affirm
 afflict
 affray
 afoot
@@ -777,6 +778,7 @@ emit
 emitted
 emote
 emotion
+empath
 empathy
 employ
 employee
@@ -841,8 +843,12 @@ fall
 fallacy
 fallback
 fallen
+fang
+fanning
 fantail
 farad
+farina
+faring
 farm
 farmland
 fatal
@@ -895,6 +901,7 @@ final
 finale
 fine
 finial
+fining
 finite
 finito
 fitly
