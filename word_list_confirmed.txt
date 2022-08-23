@@ -37,9 +37,11 @@ adulated
 adult
 aeon
 afar
+affair
 affiant
 affiliate
 affirm
+affirming
 afflict
 affray
 afoot
@@ -669,6 +671,7 @@ dilly
 dillydally
 dime
 dimmed
+dimwit
 dinar
 ding
 dinging
@@ -837,6 +840,7 @@ fact
 facticity
 fail
 faint
+fair
 fairy
 falafel
 fall
@@ -850,6 +854,7 @@ farad
 farina
 faring
 farm
+farming
 farmland
 fatal
 fatality
@@ -886,6 +891,7 @@ field
 fielded
 fife
 fifed
+fifing
 fifteen
 fifty
 file
@@ -904,6 +910,9 @@ finial
 fining
 finite
 finito
+firing
+firm
+firming
 fitly
 fixation
 flack
@@ -944,12 +953,18 @@ fooled
 foot
 fought
 foul
+frag
+fragging
+framing
+friar
+fringing
 fugu
 full
 gabbing
 gabbling
 gadded
 gadding
+gaff
 gaga
 gage
 gagged
@@ -1038,6 +1053,7 @@ granddad
 grandpa
 grandpapa
 grid
+griffin
 grind
 grinding
 guff
@@ -1167,10 +1183,13 @@ infant
 infantile
 infill
 infinite
+infirm
+infirming
 inflate
 inflict
 infliction
 info
+infringing
 ingenue
 initiation
 inject
@@ -1356,6 +1375,7 @@ madam
 madame
 made
 madman
+mafia
 magic
 magician
 maid
@@ -1423,6 +1443,8 @@ mica
 mice
 midi
 mien
+miff
+miffing
 mile
 mime
 mimed
@@ -1471,6 +1493,7 @@ mote
 motet
 motion
 motto
+mown
 multiply
 myeloma
 myna
@@ -1754,6 +1777,7 @@ radian
 radii
 radio
 radon
+raffia
 raid
 raiding
 rain
@@ -1774,6 +1798,9 @@ rich
 ridding
 ridging
 riding
+riff
+riffing
+riffraff
 rigid
 rind
 riparian
