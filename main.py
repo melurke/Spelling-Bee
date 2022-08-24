@@ -44,11 +44,6 @@ def Main():
 
     possibleWords = []
 
-    # Remove the words that don't contain the main letter to speed up the process
-    for word in wordList:
-        if not mainLetter in word:
-            wordList.remove(word)
-
     # Generate all possible words and print them out
     for word in wordList:
         if WordChoice(mainLetter, letters, word) and not word in wordListConfirmed:

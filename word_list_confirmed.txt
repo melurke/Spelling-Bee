@@ -690,11 +690,14 @@ doled
 doll
 dolled
 dollied
+dominion
+domino
 dong
 donor
 doobie
 doodle
 doodled
+doom
 door
 dorado
 dough
@@ -1137,6 +1140,7 @@ icicle
 icing
 icon
 iconic
+idiom
 idle
 idled
 idly
@@ -1229,6 +1233,8 @@ kicking
 kill
 killed
 kilo
+kite
+kith
 knack
 knickknack
 koala
@@ -1442,6 +1448,7 @@ mezzo
 mica
 mice
 midi
+midtown
 mien
 miff
 miffing
@@ -1460,6 +1467,7 @@ mini
 minicam
 minim
 minion
+minnow
 mint
 minted
 mite
@@ -1476,11 +1484,13 @@ molly
 moment
 momma
 mommy
+mondo
 mono
 mononym
 monotone
 monotony
 monte
+mood
 moola
 moon
 moonwalk
@@ -1522,6 +1532,7 @@ naval
 nave
 navel
 neath
+necktie
 need
 needed
 neglect
@@ -1545,6 +1556,7 @@ nicking
 niece
 nine
 ninepin
+nineteen
 ninny
 nipped
 nitwit
@@ -1881,6 +1893,7 @@ that
 thatch
 thee
 then
+thence
 theta
 they
 thong
@@ -1898,6 +1911,7 @@ time
 timed
 timid
 tinct
+tine
 tinfoil
 tinge
 tingeing
