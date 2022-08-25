@@ -481,6 +481,7 @@ chip
 chipping
 chit
 chitchat
+chitin
 choice
 chuppah
 church
@@ -556,6 +557,7 @@ conduction
 cone
 confit
 conflict
+confluence
 conic
 contact
 cookbook
@@ -818,8 +820,11 @@ entombment
 enviable
 epee
 epitome
+etch
 ethane
 ethanol
+ethic
+ethnic
 ethyl
 even
 evil
@@ -1094,6 +1099,7 @@ heat
 heath
 heathen
 heaven
+hectic
 heel
 heeled
 heinie
@@ -1111,7 +1117,9 @@ henna
 hennaed
 hill
 hilled
+hint
 hitch
+hitchhike
 hobbit
 hobo
 hold
@@ -1207,6 +1215,7 @@ innocence
 inroad
 intellect
 intelligence
+intent
 into
 intonation
 intuiting
@@ -1226,6 +1235,8 @@ journo
 juror
 keel
 keeled
+kente
+ketch
 kick
 kickback
 kickball
@@ -1233,10 +1244,15 @@ kicking
 kill
 killed
 kilo
+kinetic
+kitchen
+kitchenette
 kite
 kith
+kitten
 knack
 knickknack
+knit
 koala
 koan
 kohl
@@ -1557,8 +1573,12 @@ niece
 nine
 ninepin
 nineteen
+nineteenth
+ninetieth
 ninny
+ninth
 nipped
+nite
 nitwit
 noir
 nominee
@@ -1859,6 +1879,8 @@ team
 teamed
 teammate
 teatime
+tech
+techie
 teddy
 teeing
 teem
@@ -1896,6 +1918,12 @@ then
 thence
 theta
 they
+thick
+thicken
+thicket
+thin
+thine
+think
 thong
 thou
 though
@@ -1904,8 +1932,11 @@ thoughtful
 thug
 tiara
 tibia
+tick
+ticket
 tidbit
 tiff
+tiki
 tilapia
 time
 timed
@@ -1920,6 +1951,7 @@ tint
 tinting
 tippy
 tiptop
+tithe
 toccata
 tofu
 tomate

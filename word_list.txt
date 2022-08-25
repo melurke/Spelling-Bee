@@ -3574,6 +3574,7 @@ chiseler
 chit
 chitals
 chitchat
+chitin
 chitlin
 chittered
 chivalric
@@ -3950,7 +3951,6 @@ coerces
 coerected
 coevolved
 coextend
-coff
 coffeecakes
 coffeepot
 coffer
@@ -4270,7 +4270,6 @@ convived
 convoked
 convolvuli
 cooccur
-cooee
 cooeying
 cooings
 cookbook
@@ -7026,6 +7025,7 @@ esuriencies
 etageres
 etamines
 etatisms
+etch
 etchant
 etens
 eterne
@@ -7038,9 +7038,11 @@ etherial
 etherify
 etherist
 ethernets
+ethic
 ethicism
 ethinyl
 ethiopses
+ethnic
 ethnos
 eths
 ethyl
@@ -7591,7 +7593,6 @@ fellate
 fellated
 felled
 fellies
-felloe
 fellowly
 fellrunners
 felonies
@@ -7643,7 +7644,6 @@ fennish
 fentanyl
 fenuron
 feodary
-feoffee
 feoffing
 feoffments
 feral
@@ -8157,7 +8157,6 @@ floatage
 floated
 floats
 flocci
-floccule
 flocculus
 flocks
 floe
@@ -8327,7 +8326,6 @@ fonder
 fondled
 fondly
 fondu
-fone
 fons
 font
 fontanelle
@@ -10087,6 +10085,7 @@ hebes
 hebetudes
 heck
 hecogenin
+hectic
 hectometre
 heddle
 hedge
@@ -10277,6 +10276,7 @@ hinderer
 hindheads
 hing
 hinnied
+hint
 hinters
 hipless
 hiply
@@ -10310,6 +10310,7 @@ historic
 history
 hitch
 hitcher
+hitchhike
 hitchier
 hithering
 hitmen
@@ -11241,6 +11242,7 @@ intenible
 intenseness
 intensifiers
 intensitive
+intent
 intentional
 inter
 interbreed
@@ -11771,6 +11773,7 @@ kendos
 kenner
 kenoses
 kenspeck
+kente
 kentias
 kepi
 kepping
@@ -11788,6 +11791,7 @@ kerry
 kerving
 kestrel
 ketamine
+ketch
 ketogeneses
 ketosis
 kettlefuls
@@ -11855,6 +11859,7 @@ kindlier
 kindnesses
 kinema
 kinesthesis
+kinetic
 kinfolks
 kinghood
 kinglet
@@ -11881,10 +11886,13 @@ kismats
 kissagrams
 kissoff
 kistfuls
+kitchen
+kitchenette
 kite
 kith
 kiting
 kitschy
+kitten
 kittenishnesses
 kittled
 kittul
@@ -11916,6 +11924,7 @@ knickknack
 knife
 knifer
 knifings
+knit
 knits
 knive
 knobbier
@@ -12624,7 +12633,6 @@ lockkeeper
 lockpick
 lockup
 loco
-locofoco
 locoisms
 locomote
 locomotor
@@ -12673,7 +12681,6 @@ longhorn
 longleaf
 longsome
 loobier
-loof
 loofas
 looing
 look
@@ -15180,9 +15187,12 @@ ninefold
 ninepenny
 ninepin
 nineteen
+nineteenth
+ninetieth
 ninety
 ninjutsus
 ninny
+ninth
 ninths
 nipa
 nipped
@@ -15194,6 +15204,7 @@ nipter
 niramiais
 nirls
 niseis
+nite
 niter
 nitid
 nitpick
@@ -15281,7 +15292,6 @@ nonfiction
 nonfictions
 nonfissile
 nonfood
-nonfuel
 nonglare
 nongs
 nonhistone
@@ -15566,7 +15576,6 @@ ofay
 offbeat
 offcut
 offed
-offenceful
 offended
 offending
 offense
@@ -23992,6 +24001,8 @@ teated
 teatime
 teazel
 teazles
+tech
+techie
 techiest
 technicist
 teckel
@@ -24259,14 +24270,20 @@ thetches
 thew
 they
 thiazine
+thick
 thicked
+thicken
+thicket
 thicking
 thickskin
 thieves
 thigging
 thill
 thimble
+thin
+thine
 thingiest
+think
 thinker
 thinness
 thiol
@@ -24344,7 +24361,9 @@ tibia
 tibiae
 ticcing
 tichy
+tick
 tickers
+ticket
 tickies
 tickliest
 ticktacked
@@ -24372,6 +24391,7 @@ tighten
 tightishly
 tiglon
 tigroid
+tiki
 tikka
 tilapia
 tilde
@@ -24456,6 +24476,7 @@ titanias
 titanites
 titches
 titfer
+tithe
 tithing
 titians
 titillation
@@ -25328,7 +25349,6 @@ unfixes
 unflagging
 unflexed
 unfold
-unfool
 unfooted
 unforms
 unfounded
