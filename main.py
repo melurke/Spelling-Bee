@@ -36,11 +36,11 @@ def Main():
             wordListConfirmed.append(word.strip())
 
     # Get the letters by input from the user
-    mainLetter = input("Type in the main letter: ")
+    mainLetter = input("Main Letter: ")
     letters = []
 
     for i in range(6):
-        letters.append(input(f"Type in the {i + 1}. letter: "))
+        letters.append(input(f"{i + 1}. Letter: "))
 
     possibleWords = []
 
@@ -53,10 +53,11 @@ def Main():
 
     # Go through all of the possible words and ask the player if the word was accepted by the site (to improve the list of words)
     for word in possibleWords:
+        # For these inputs the user needs to type in either 1 or 0 depending if the statement is correct or not
         print(f"The current word is {word}")
         if not int(input("Can you input this word? ")):
             break
-        isWord = int(input("Is the word correct? (1 or 0) "))
+        isWord = int(input("Is the word correct? "))
         print("")
 
         if isWord:

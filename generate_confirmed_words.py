@@ -3,11 +3,11 @@ with open("word_list_confirmed.txt", "r") as file:
     for word in file:
         wordListConfirmed.append(word.strip())
 
-mainLetter = input("Type in the main letter: ")
+mainLetter = input("Main Letter: ")
 letters = []
 
 for i in range(6):
-    letters.append(input(f"Type in the {i + 1}. letter: "))
+    letters.append(input(f"{i + 1}. Letter: "))
 
 possibleWords = []
 
