@@ -3951,6 +3951,7 @@ coerces
 coerected
 coevolved
 coextend
+coffee
 coffeecakes
 coffeepot
 coffer
@@ -4434,6 +4435,7 @@ cotypes
 couchees
 coudes
 couguar
+coulee
 coulisse
 coulomb
 coumaric
@@ -5060,7 +5062,6 @@ deducible
 deed
 deeded
 deeder
-deedy
 deem
 deemed
 deeming
@@ -5249,7 +5250,6 @@ demurrage
 demurrers
 denary
 denazified
-dene
 denial
 denim
 denitrate
@@ -7595,6 +7595,7 @@ felled
 fellies
 fellowly
 fellrunners
+felon
 felonies
 felony
 felsitic
@@ -8194,6 +8195,7 @@ flota
 flotation
 flotes
 flotsams
+flounce
 floured
 floury
 floush
@@ -12673,6 +12675,7 @@ lologs
 lomed
 lomenta
 loming
+lone
 lonelinesses
 lonesomeness
 longas
@@ -15066,6 +15069,7 @@ neocon
 neogenetic
 neologising
 neomorph
+neon
 neonomian
 neopagans
 neophyte
@@ -15231,6 +15235,7 @@ nodders
 noddling
 nodosity
 nodulous
+noel
 noetic
 noggs
 nointed
@@ -15277,6 +15282,7 @@ nondance
 nondependence
 nondidactic
 nondrinking
+none
 nonedible
 nonemployee
 nonentities
@@ -15420,6 +15426,7 @@ nubecula
 nubuck
 nuchals
 nuclein
+nucleon
 nucleons
 nude
 nudged
@@ -15896,6 +15903,7 @@ ought
 ouglied
 ouistitis
 oulk
+ounce
 ouped
 ouphs
 ourangs
@@ -25268,6 +25276,7 @@ uncommonly
 uncondensed
 unconfounded
 unconsciouses
+uncool
 uncope
 uncorded
 uncouple

@@ -532,6 +532,7 @@ cocoon
 code
 coded
 coed
+coffee
 coffin
 coho
 coil
@@ -574,6 +575,7 @@ corral
 cote
 cotillion
 cotton
+coulee
 count
 coup
 coupon
@@ -883,6 +885,7 @@ fell
 fella
 fellate
 felled
+felon
 felt
 fennel
 feta
@@ -945,6 +948,7 @@ flit
 floe
 flood
 flooded
+flounce
 flout
 fluff
 fobbed
@@ -1370,6 +1374,7 @@ loll
 lolled
 lollipop
 lollop
+lone
 look
 looked
 loom
@@ -1556,6 +1561,7 @@ neglecting
 negligence
 nene
 neocon
+neon
 netting
 nettle
 netty
@@ -1580,9 +1586,11 @@ ninth
 nipped
 nite
 nitwit
+noel
 noir
 nominee
 nonce
+none
 nonfat
 nonfiction
 nonillion
@@ -1596,6 +1604,7 @@ nought
 noun
 nubbin
 nubby
+nucleon
 nugget
 oath
 oaty
@@ -1640,6 +1649,7 @@ orca
 ordain
 ottoman
 ought
+ounce
 outcry
 outfought
 outgo
@@ -2008,6 +2018,7 @@ unbagging
 unban
 unbanning
 unbutton
+uncool
 unguent
 unhung
 uniting
