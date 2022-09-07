@@ -5880,7 +5880,6 @@ doppers
 doppings
 dorado
 dorads
-doridoid
 dorized
 dorm
 dormers
@@ -6012,7 +6011,6 @@ driverless
 drizzlier
 drogues
 droid
-droil
 droles
 drolling
 dromedares
@@ -7788,6 +7786,7 @@ fifth
 fiftieth
 fifty
 figeater
+fight
 fighter
 figment
 figuline
@@ -7842,8 +7841,10 @@ filmy
 filose
 filses
 filterers
+filth
 filthied
 filthily
+filthy
 filum
 fimbles
 fimbriae
@@ -8120,7 +8121,9 @@ flick
 flicker
 flied
 fliest
+flight
 flights
+flighty
 flimflam
 flimflammer
 flimflams
@@ -9233,6 +9236,7 @@ gillflirt
 gillnet
 gilly
 gilpies
+gilt
 giltcup
 gimbaling
 gimel
@@ -10257,6 +10261,7 @@ high
 highbrow
 highers
 highish
+highlight
 highlighting
 highmen
 highspot
@@ -10271,6 +10276,7 @@ hillers
 hillo
 hilloed
 hilltop
+hilt
 hilts
 himation
 himself
@@ -11037,7 +11043,6 @@ indolent
 indoor
 indorsees
 indowed
-indri
 induciae
 indue
 induline
@@ -11442,6 +11447,7 @@ itemizing
 iteration
 itinerary
 itself
+itty
 ivory
 ixodiases
 izar
@@ -12170,11 +12176,9 @@ larders
 lards
 largely
 larges
-lari
 larked
 larkspur
 larmier
-laroid
 larruped
 larum
 larvicidal
@@ -12436,6 +12440,7 @@ ligate
 ligge
 light
 lightful
+lightly
 lightlying
 lightweight
 lignifies
@@ -12451,6 +12456,7 @@ likens
 likewalks
 lilacs
 lilliputian
+lilt
 lilting
 lily
 limacel
@@ -15372,7 +15378,6 @@ noosers
 nopal
 norepinephrine
 norimon
-norland
 normal
 normande
 norming
@@ -15801,7 +15806,6 @@ oracular
 oral
 orang
 orangey
-oraria
 orated
 oratorians
 oratory
@@ -15817,7 +15821,6 @@ orcinol
 ordain
 ordains
 orderers
-ordinand
 ordinee
 ordure
 orecrowe
@@ -24286,6 +24289,7 @@ thicking
 thickskin
 thieves
 thigging
+thigh
 thill
 thimble
 thin
@@ -24395,8 +24399,10 @@ tiffining
 tifoso
 tifts
 tigerlike
+tight
 tighten
 tightishly
+tightly
 tiglon
 tigroid
 tiki
@@ -24404,10 +24410,13 @@ tikka
 tilapia
 tilde
 tileries
+till
 tillage
 tillerless
 tillites
+tilt
 tilters
+tilth
 tiltyard
 timariots
 timber

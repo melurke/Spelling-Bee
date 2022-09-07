@@ -683,6 +683,7 @@ dining
 dino
 dipped
 dipping
+dirndl
 diva
 divan
 divvy
@@ -904,7 +905,9 @@ fife
 fifed
 fifing
 fifteen
+fifth
 fifty
+fight
 file
 filed
 filet
@@ -914,6 +917,8 @@ fill
 filled
 fillet
 filly
+filth
+filthy
 final
 finale
 fine
@@ -943,6 +948,8 @@ flee
 fleet
 flick
 flied
+flight
+flighty
 flint
 flit
 floe
@@ -1016,6 +1023,7 @@ ghoul
 gibe
 gibed
 gibing
+gift
 gigged
 gigging
 giggle
@@ -1026,6 +1034,7 @@ gild
 gilded
 gill
 gilled
+gilt
 ginning
 gird
 girding
@@ -1119,8 +1128,10 @@ henchmen
 henge
 henna
 hennaed
+highlight
 hill
 hilled
+hilt
 hint
 hitch
 hitchhike
@@ -1229,6 +1240,7 @@ iota
 iron
 itch
 item
+itty
 javelin
 javelina
 jean
@@ -1321,6 +1333,7 @@ levee
 level
 lewd
 lexicon
+liar
 libel
 libelee
 lice
@@ -1334,9 +1347,12 @@ life
 lifeblood
 lifeline
 lift
+light
+lightly
 like
 liked
 likelihood
+lilt
 lily
 lime
 limp
@@ -1643,6 +1659,7 @@ opioid
 optic
 optical
 oracular
+oral
 oratory
 orbit
 orca
@@ -1931,6 +1948,7 @@ they
 thick
 thicken
 thicket
+thigh
 thin
 thine
 think
@@ -1946,8 +1964,13 @@ tick
 ticket
 tidbit
 tiff
+tight
+tightly
 tiki
 tilapia
+till
+tilt
+tilth
 time
 timed
 timid
