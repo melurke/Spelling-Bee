@@ -147,6 +147,7 @@ arctic
 ardor
 aria
 arid
+aril
 armada
 around
 array
@@ -693,8 +694,10 @@ doggo
 dole
 doled
 doll
+dollar
 dolled
 dollied
+dolor
 dominion
 domino
 dong
@@ -704,6 +707,7 @@ doodle
 doodled
 doom
 door
+doornail
 dorado
 dough
 doughnut
@@ -719,9 +723,12 @@ draining
 dram
 drama
 draping
+drill
 drip
 dripping
 droid
+droll
+drool
 dugong
 dugout
 dung
@@ -1283,6 +1290,7 @@ lady
 lagged
 laggy
 laid
+lair
 lallygag
 lallygagging
 lama
@@ -1292,6 +1300,7 @@ lance
 land
 landfall
 landlady
+landlord
 lane
 lank
 laptop
@@ -1364,6 +1373,7 @@ lint
 lion
 lipo
 lippy
+lira
 livable
 live
 liveable
@@ -1398,6 +1408,7 @@ loon
 loop
 loopy
 lope
+lord
 lotion
 lout
 lowdown
@@ -1578,6 +1589,7 @@ negligence
 nene
 neocon
 neon
+neophyte
 netting
 nettle
 netty
@@ -1614,6 +1626,7 @@ nonlethal
 nonpaid
 noob
 noon
+nori
 notation
 notion
 nought
@@ -1664,6 +1677,7 @@ oratory
 orbit
 orca
 ordain
+ordinal
 ottoman
 ought
 ounce
@@ -1738,6 +1752,7 @@ pepped
 peppy
 petty
 phat
+phooey
 phyla
 piano
 pica
@@ -1808,6 +1823,8 @@ pope
 poppa
 poppy
 potato
+potent
+potty
 pout
 priding
 prior
@@ -1832,6 +1849,7 @@ rabbi
 rabbit
 racy
 radar
+radial
 radian
 radii
 radio
@@ -1839,6 +1857,8 @@ radon
 raffia
 raid
 raiding
+rail
+railroad
 rain
 raindrop
 raita
@@ -1852,6 +1872,7 @@ rapini
 ratty
 raunch
 raunchy
+rial
 ribbit
 rich
 ridding
@@ -1861,6 +1882,7 @@ riff
 riffing
 riffraff
 rigid
+rill
 rind
 riparian
 road
@@ -1868,6 +1890,8 @@ roan
 roar
 robot
 rococo
+roil
+roll
 rondo
 rood
 rotary
@@ -1993,6 +2017,7 @@ tome
 tomtit
 tong
 tonic
+tony
 toon
 toot
 tooth

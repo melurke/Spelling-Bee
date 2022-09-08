@@ -1091,6 +1091,7 @@ aria
 arid
 aridest
 ariel
+aril
 ariled
 arils
 arise
@@ -5813,6 +5814,7 @@ doleful
 doles
 dolines
 doll
+dollar
 dollars
 dolled
 dollied
@@ -5821,6 +5823,7 @@ dollops
 dolma
 dolmas
 dolomitic
+dolor
 dolors
 dolts
 domal
@@ -5865,6 +5868,7 @@ door
 doorframe
 doorknobs
 doormats
+doornail
 doorposts
 doorsman
 doorsteppers
@@ -5998,6 +6002,7 @@ dricksie
 drift
 driftier
 driftpin
+drill
 drilled
 drillships
 drip
@@ -6012,12 +6017,14 @@ drizzlier
 drogues
 droid
 droles
+droll
 drolling
 dromedares
 dromoi
 dromons
 drongoes
 droogs
+drool
 droolier
 droome
 droopily
@@ -6816,7 +6823,6 @@ enzymic
 eohippuses
 eolithic
 eons
-eothen
 epact
 epagoges
 epanalepsis
@@ -7031,7 +7037,6 @@ eternized
 ethanal
 ethane
 ethanol
-ethephon
 etherial
 etherify
 etherist
@@ -10456,13 +10461,11 @@ hoolachan
 hooligan
 hooped
 hoopla
-hoopoe
 hoops
 hoorahs
 hoosegow
 hoot
 hooter
-hooty
 hooving
 hopdogs
 hopeful
@@ -10512,7 +10515,6 @@ hotfoots
 hotlink
 hotpress
 hotspot
-hottentot
 hottie
 hotting
 houfed
@@ -12067,6 +12069,7 @@ laics
 laid
 laighs
 laiks
+lair
 laired
 lairize
 laitance
@@ -12135,6 +12138,7 @@ landfill
 landings
 landlady
 landline
+landlord
 landman
 landmen
 landslid
@@ -12559,6 +12563,7 @@ liquefy
 liquidised
 liquiduses
 liquory
+lira
 liripipes
 lirks
 lisp
@@ -12718,6 +12723,7 @@ loppered
 lopping
 lopsided
 lorcha
+lord
 lordlike
 lordoma
 loreal
@@ -15102,7 +15108,6 @@ nestfuls
 nestlike
 netballs
 netiquette
-netop
 netted
 netting
 nettle
@@ -15293,7 +15298,6 @@ nonedible
 nonemployee
 nonentities
 nonesuches
-nonetto
 nonexotic
 nonfact
 nonfamilial
@@ -15377,6 +15381,7 @@ noontime
 noosers
 nopal
 norepinephrine
+nori
 norimon
 normal
 normande
@@ -15722,7 +15727,6 @@ oomiaks
 oompahed
 oomph
 ooped
-oophyte
 oops
 oose
 oosperm
@@ -15821,6 +15825,7 @@ orcinol
 ordain
 ordains
 orderers
+ordinal
 ordinee
 ordure
 orecrowe
@@ -16930,7 +16935,6 @@ pennes
 pennies
 pennilessnesses
 penning
-pennon
 pennoncels
 pennycress
 pennyfees
@@ -16990,7 +16994,6 @@ peptidase
 peptidic
 peptises
 peptizer
-peptone
 peptonises
 peraea
 peraeopods
@@ -17267,14 +17270,12 @@ phoenix
 pholidosis
 phonation
 phonemes
-phoney
 phoneys
 phonier
 phoninesses
 phonology
 phonophore
 phonos
-phonotypy
 phooey
 phormium
 phosgenes
@@ -17287,7 +17288,6 @@ phosphoret
 phosphorise
 phosphorism
 phosphorus
-phot
 photism
 photobiotic
 photoed
@@ -17307,8 +17307,6 @@ photosphere
 phototactic
 phototrope
 phototrophs
-phototype
-phototypy
 phrase
 phrasers
 phratral
@@ -17332,7 +17330,6 @@ physicism
 physicky
 physis
 phytoid
-phyton
 phytotomy
 piaffe
 piaffer
@@ -18048,7 +18045,6 @@ pond
 pondered
 ponding
 ponds
-ponent
 pong
 pongee
 pongier
@@ -18080,7 +18076,6 @@ pookas
 pool
 poolhall
 poolrooms
-poon
 poonces
 poop
 poor
@@ -18237,7 +18232,6 @@ potentiation
 potently
 potes
 potfuls
-potheen
 pothered
 potholed
 pothooks
@@ -18250,8 +18244,6 @@ potoroo
 potpourri
 potshops
 potsies
-pott
-potteen
 potterer
 pottery
 pottiness
@@ -19197,7 +19189,6 @@ pylori
 pyned
 pyoid
 pyorrhea
-pyot
 pyralis
 pyramidia
 pyre
@@ -19347,6 +19338,7 @@ radar
 raddest
 raddleman
 radgest
+radial
 radiality
 radian
 radians
@@ -19381,9 +19373,11 @@ raid
 raided
 raiding
 raiks
+rail
 railcards
 railing
 raillinks
+railroad
 rails
 rain
 rainbirds
@@ -20344,6 +20338,7 @@ rhymesters
 rhythm
 rhythmic
 rhythmometer
+rial
 rialto
 riatas
 ribattutas
@@ -20403,6 +20398,7 @@ rigor
 rigour
 rikishi
 riliest
+rill
 rilles
 rima
 rime
@@ -20500,12 +20496,14 @@ rodsmen
 roentgens
 rogering
 rogues
+roil
 roiling
 roist
 roisting
 rokers
 rolag
 rolfer
+roll
 rollaway
 rollerbladed
 rollmop
@@ -24617,7 +24615,6 @@ topcross
 toped
 topeks
 topful
-toph
 tophs
 topiarist
 topic
@@ -25148,7 +25145,6 @@ typeface
 typesetter
 typewrite
 typhlitic
-typhon
 typhose
 typic
 typier
@@ -25156,7 +25152,6 @@ typifier
 typify
 typings
 typology
-typto
 typy
 tyrannesses
 tyranting
