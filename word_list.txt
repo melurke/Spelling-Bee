@@ -4210,7 +4210,6 @@ congees
 congers
 congo
 congrees
-coni
 conic
 conics
 conidium
@@ -4707,7 +4706,6 @@ culvers
 cumber
 cumbers
 cumin
-cummin
 cums
 cumuli
 cumulus
@@ -7255,6 +7253,7 @@ eyeshot
 eyesome
 eyestalks
 eyeteeth
+eyetooth
 eyewaters
 eyliads
 eyrie
@@ -10437,8 +10436,10 @@ homotypy
 hond
 hone
 honesties
+honey
 honeybun
 honeymooned
+honeypot
 honging
 honkers
 honor
@@ -10450,6 +10451,7 @@ hoodiest
 hoodlum
 hoodmold
 hoods
+hooey
 hoofbeat
 hoofers
 hoofrot
@@ -10459,6 +10461,7 @@ hooklike
 hooktips
 hoolachan
 hooligan
+hoop
 hooped
 hoopla
 hoops
@@ -10468,6 +10471,7 @@ hoot
 hooter
 hooving
 hopdogs
+hope
 hopeful
 hopelessnesses
 hophead
@@ -10475,6 +10479,7 @@ hoplitic
 hoppers
 hoppings
 hoppling
+hoppy
 hopsacks
 hoptoads
 horded
@@ -10513,6 +10518,7 @@ hotel
 hotelmen
 hotfoots
 hotlink
+hotpot
 hotpress
 hotspot
 hottie
@@ -10663,6 +10669,7 @@ hypna
 hypnoid
 hypnoses
 hypnums
+hypo
 hypodiploid
 hypogea
 hypoing
@@ -11319,7 +11326,6 @@ intuitionism
 intuitivism
 intwine
 inukshuk
-inunction
 inure
 inurement
 inusitate
@@ -13770,7 +13776,6 @@ miched
 miching
 mickeyed
 mickler
-mico
 micrifies
 microbe
 microcars
@@ -13790,7 +13795,6 @@ microscopic
 microsome
 microtomic
 microvilli
-miction
 midbrain
 midden
 middle
@@ -13989,7 +13993,6 @@ minutest
 minuting
 miny
 miombo
-miotic
 mirabelle
 miracidia
 mirador
@@ -15194,8 +15197,6 @@ nimblesses
 nimbuses
 nimbys
 nimmed
-nimonic
-nincom
 nincompoops
 nine
 ninefold
@@ -15298,6 +15299,7 @@ nonedible
 nonemployee
 nonentities
 nonesuches
+nonet
 nonexotic
 nonfact
 nonfamilial
@@ -15316,7 +15318,6 @@ nonillion
 nonimage
 noninert
 noninterest
-nonionic
 nonjoinder
 nonlabor
 nonlethal
@@ -15380,6 +15381,7 @@ noonings
 noontime
 noosers
 nopal
+nope
 norepinephrine
 nori
 norimon
@@ -15402,6 +15404,7 @@ notal
 notates
 notation
 notcher
+note
 notecases
 notepad
 nothings
@@ -15461,7 +15464,6 @@ numismatist
 nummulary
 numnah
 numskulls
-nuncio
 nunhood
 nunnishness
 nuptial
@@ -15741,6 +15743,7 @@ opalesces
 opals
 opaques
 opeidoscope
+open
 opened
 openhanded
 openminded
@@ -15771,6 +15774,7 @@ opopanax
 opossum
 oppilant
 opponency
+opponent
 opposable
 opposer
 opposite
@@ -15898,7 +15902,6 @@ ostomy
 ostraka
 otalgy
 otherwhere
-otitic
 otolithic
 otorrhoeas
 otoscopy
@@ -16964,8 +16967,10 @@ pentylenes
 penuchi
 penults
 penwomen
+peon
 peones
 peonism
+peony
 people
 peopleless
 peopling
@@ -17201,6 +17206,7 @@ petunia
 petuntzes
 pewits
 pewterers
+peyote
 peyotist
 peyse
 peytral
@@ -17242,6 +17248,7 @@ phenixes
 phenom
 phenomenon
 phenoms
+phenotype
 phenylene
 pheons
 phese
@@ -17269,13 +17276,16 @@ phoebe
 phoenix
 pholidosis
 phonation
+phone
 phonemes
 phoneys
 phonier
 phoninesses
+phono
 phonology
 phonophore
 phonos
+phony
 phooey
 phormium
 phosgenes
@@ -17289,12 +17299,14 @@ phosphorise
 phosphorism
 phosphorus
 photism
+photo
 photobiotic
 photoed
 photofits
 photogen
 photograph
 photomaps
+photon
 photons
 photophilic
 photophobes
@@ -17888,6 +17900,7 @@ podzolic
 poechore
 poem
 poesies
+poet
 poetasters
 poeticise
 poetise
@@ -18045,6 +18058,7 @@ pond
 pondered
 ponding
 ponds
+pone
 pong
 pongee
 pongier
@@ -18061,6 +18075,7 @@ pontonier
 pontoon
 pontooned
 pontoons
+pony
 ponying
 pooched
 poodle
@@ -18070,6 +18085,7 @@ pooftah
 poofter
 poofy
 poogyes
+pooh
 poohs
 poojahs
 pookas
@@ -18102,6 +18118,7 @@ poppa
 poppadom
 poppadum
 popper
+poppet
 poppets
 poppiest
 poppits
@@ -19210,6 +19227,7 @@ pyroxene
 pyrrhous
 pyrrolic
 pythium
+python
 pyurias
 pyxidia
 pyxing
@@ -24133,6 +24151,7 @@ tenet
 tenges
 tennantite
 tennises
+tenon
 tenoner
 tenorites
 tenotomies
@@ -24577,6 +24596,7 @@ tompon
 tomponing
 tomtit
 tondini
+tone
 toneless
 toneme
 tonetic
@@ -24588,6 +24608,7 @@ tonic
 tonies
 tonishnesses
 tonks
+tonne
 tonneau
 tonnish
 tonometers
@@ -24607,11 +24628,13 @@ toothfuls
 toothlessly
 toothpick
 toothsome
+toothy
 tooting
 tootsed
 topaz
 topcoat
 topcross
+tope
 toped
 topeks
 topful
@@ -24992,7 +25015,6 @@ tubists
 tubulator
 tubulously
 tuckered
-tucutuco
 tuff
 tuffets
 tufftaffeties
@@ -25145,12 +25167,14 @@ typeface
 typesetter
 typewrite
 typhlitic
+typhoon
 typhose
 typic
 typier
 typifier
 typify
 typings
+typo
 typology
 typy
 tyrannesses
@@ -25275,7 +25299,6 @@ uncloses
 unclutch
 uncoerced
 uncoils
-uncomic
 uncommonly
 uncondensed
 unconfounded
@@ -26880,6 +26903,7 @@ yomp
 yomping
 yoni
 yoofs
+yoohoo
 yoppers
 yorkies
 youks

@@ -21,8 +21,10 @@ def Main():
             wordList.append(word)
     
     wordList.sort()
+    wordListConfirmed.sort()
 
     WriteToFile(wordList, "word_list.txt")
+    WriteToFile(wordListConfirmed, "word_list_confirmed.txt")
 
 if __name__ == '__main__':
     Main()
