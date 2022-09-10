@@ -594,6 +594,7 @@ curl
 curry
 cutout
 daddy
+dahlia
 daily
 dally
 dame
@@ -1130,6 +1131,7 @@ held
 hell
 hellhole
 hello
+help
 heme
 hemp
 hence
