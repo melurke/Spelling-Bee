@@ -364,6 +364,7 @@ agrology
 agryzing
 agueweeds
 aguizes
+ahead
 ahem
 ahold
 aidances
@@ -436,6 +437,7 @@ aldern
 aldoses
 alefs
 alehouses
+aleph
 alephs
 alert
 ales
@@ -541,6 +543,7 @@ along
 aloofness
 alpaca
 alpeen
+alpha
 alphas
 alphyls
 alpinism
@@ -912,6 +915,7 @@ aphasias
 aphelian
 aphesis
 aphetize
+aphid
 aphidian
 aphis
 aphonic
@@ -4968,6 +4972,8 @@ deadened
 deadenings
 deadeye
 deadfalls
+deadhead
+deadheaded
 deadlier
 deadlines
 deadly
@@ -5080,7 +5086,6 @@ deepness
 deerberries
 deerlet
 deeryard
-deeve
 defaceable
 defaces
 defalcate
@@ -5401,7 +5406,6 @@ devilwood
 deviser
 devitrified
 devolve
-devot
 devotement
 devours
 devvels
@@ -5752,9 +5756,7 @@ dived
 diverse
 diversifier
 diverter
-divi
 dividend
-dividivi
 divineness
 diving
 divinify
@@ -5921,7 +5923,6 @@ dour
 dourine
 dousers
 douts
-doved
 dovelike
 doves
 dowar
@@ -9861,6 +9862,8 @@ hagiology
 hags
 hahniums
 haikai
+hail
+hailed
 hailier
 hain
 hains
@@ -10047,8 +10050,10 @@ hazel
 hazes
 hazmat
 hazzanim
+head
 headages
 headcases
+headed
 headers
 headfishes
 headgears
@@ -10064,6 +10069,7 @@ headstands
 headword
 heal
 healable
+healed
 healer
 healsome
 health
@@ -10071,6 +10077,7 @@ healthlessness
 healthy
 heame
 heap
+heaped
 heapers
 heaps
 heards
@@ -10103,6 +10110,8 @@ hedge
 hedgehopped
 hedgepigs
 hedgings
+heed
+heeded
 heeders
 heedless
 heehawing
@@ -10129,6 +10138,7 @@ helical
 helicoid
 helilifted
 heliology
+helipad
 helipilot
 hell
 hellbent
@@ -10144,6 +10154,7 @@ helmet
 helming
 helmsman
 help
+helped
 helpers
 helpfully
 helplessness
@@ -10255,8 +10266,10 @@ hiccups
 hickish
 hidalgas
 hidder
+hide
 hideout
 hidlins
+hied
 hiemal
 hierarchize
 hies
@@ -10293,6 +10306,7 @@ hiply
 hipparchs
 hippiatric
 hippic
+hippie
 hippiedom
 hippienesses
 hippiness
@@ -17219,6 +17233,7 @@ phaenomena
 phagedaena
 phalangal
 phalarope
+phalli
 phallin
 phallism
 phalloid
@@ -17252,6 +17267,7 @@ phenylene
 pheons
 phese
 phew
+phial
 phialling
 philhellenic
 philippina
@@ -26163,7 +26179,6 @@ vodous
 vogiest
 voguier
 voiceovers
-voidee
 voids
 vola
 volatic
