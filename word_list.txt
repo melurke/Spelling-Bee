@@ -5395,6 +5395,8 @@ deuddarn
 deuterides
 devalled
 devastate
+devein
+deveined
 deveining
 develop
 developes
@@ -5405,8 +5407,13 @@ devilism
 devilwood
 deviser
 devitrified
+devoid
 devolve
+devote
+devoted
+devotee
 devotement
+devotion
 devours
 devvels
 dewars
@@ -5752,11 +5759,16 @@ diuresis
 diva
 divagated
 divan
+dive
 dived
 diverse
 diversifier
 diverter
+divide
+divided
 dividend
+divine
+divined
 divineness
 diving
 divinify
@@ -5764,7 +5776,9 @@ divinity
 divisim
 divisively
 divorcer
+divot
 divulse
+divvied
 divvy
 diwan
 dizain
@@ -5923,6 +5937,7 @@ dour
 dourine
 dousers
 douts
+dove
 dovelike
 doves
 dowar
@@ -6634,6 +6649,7 @@ endemism
 enderon
 endgames
 enditing
+endive
 endlessness
 endoderm
 endogen
@@ -6814,6 +6830,7 @@ envelop
 envelopes
 envenomed
 enviable
+envied
 envies
 environs
 envisions
@@ -7092,9 +7109,11 @@ evangel
 evaporator
 evection
 even
+evened
 eveners
 evenhandednesses
 evensongs
+event
 eventing
 eventuate
 eversible
@@ -7102,6 +7121,7 @@ everts
 everymen
 evhoe
 evicts
+evident
 evil
 evildoer
 evils
@@ -9225,7 +9245,6 @@ gigaflop
 gigantisms
 gigged
 gigging
-giggit
 giggle
 giggled
 giggles
@@ -9285,8 +9304,6 @@ girshes
 girtline
 gism
 gismos
-gite
-gitting
 giveable
 givens
 gizmos
@@ -11348,7 +11365,11 @@ invariance
 invasivenesses
 invectives
 inveigler
+invent
+invented
 inventers
+invention
+inventive
 inventivenesses
 invernesses
 invert
@@ -11356,6 +11377,9 @@ inverts
 inveterate
 invious
 invital
+invite
+invited
+invitee
 invitement
 invitingnesses
 invoicing
@@ -11468,6 +11492,7 @@ iteration
 itinerary
 itself
 itty
+ivied
 ivory
 ixodiases
 izar
@@ -15313,6 +15338,7 @@ nonemployee
 nonentities
 nonesuches
 nonet
+nonevent
 nonexotic
 nonfact
 nonfamilial
@@ -16053,6 +16079,7 @@ ouvrier
 oval
 ovaries
 ovates
+oven
 ovenable
 ovenwoods
 overall
@@ -16148,8 +16175,10 @@ overwide
 overworn
 overzeal
 oviform
+ovine
 oviposition
 oviposits
+ovoid
 ovoids
 ovular
 owed
@@ -24403,7 +24432,6 @@ thyrsus
 tiara
 tibia
 tibiae
-ticcing
 tichy
 tick
 tickers
@@ -25971,6 +25999,7 @@ veil
 veiliest
 veily
 vein
+veined
 veining
 veinstone
 velamina
@@ -25984,7 +26013,9 @@ velveted
 velvetlike
 venal
 venation
+vend
 vendange
+vended
 vendettas
 vendises
 vendues
@@ -26000,7 +26031,9 @@ vennel
 venomed
 venomous
 venousnesses
+vent
 ventayle
+vented
 ventilative
 ventral
 venturer
@@ -26051,6 +26084,8 @@ vestral
 vestures
 veteran
 vetkoeks
+veto
+vetoed
 vetted
 vexednesses
 vexillum
@@ -26075,9 +26110,11 @@ vicomte
 victimize
 victrix
 videlicet
+video
 videoed
 videttes
 vidimuses
+vied
 vielle
 viewed
 viewings
@@ -26179,6 +26216,8 @@ vodous
 vogiest
 voguier
 voiceovers
+void
+voided
 voids
 vola
 volatic
@@ -26197,12 +26236,16 @@ vomited
 vomitives
 vomitory
 vomitus
+voodoo
 voodooism
 vooped
 voragoes
 vortex
 votarist
+vote
+voted
 voteless
+votive
 votivenesses
 vouches
 voudous
