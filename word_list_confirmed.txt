@@ -54,6 +54,7 @@ ahead
 ahem
 aiding
 aimed
+aioli
 airboat
 airdrop
 airy
@@ -69,6 +70,7 @@ algae
 algal
 alibi
 alien
+alit
 alive
 alkali
 allay
@@ -158,6 +160,7 @@ array
 arthritic
 arty
 athlete
+atilt
 atom
 atop
 atria
@@ -409,6 +412,7 @@ caiman
 caking
 calcify
 calf
+calico
 call
 calla
 callable
@@ -451,6 +455,7 @@ catalpa
 catch
 catchup
 cathartic
+cattail
 catty
 caul
 cede
@@ -493,6 +498,8 @@ church
 churchy
 churn
 chutzpah
+ciao
+cilia
 cinema
 circa
 circuit
@@ -527,10 +534,13 @@ clop
 coact
 coal
 coat
+coati
+coattail
 cobble
 cobbled
 coca
 cocci
+cocktail
 cocoa
 coconut
 cocoon
@@ -542,6 +552,7 @@ coffin
 coho
 coil
 coin
+coital
 cola
 colic
 collar
@@ -557,6 +568,7 @@ commode
 commotion
 compel
 complex
+conch
 concoct
 concoction
 conduct
@@ -1234,6 +1246,7 @@ idyll
 iffy
 ignite
 igniting
+iliac
 illegal
 illicit
 illy
@@ -1306,6 +1319,7 @@ invitee
 ionic
 iota
 iron
+italic
 itch
 item
 itty
@@ -1329,6 +1343,7 @@ kicking
 kill
 killed
 kilo
+kilt
 kinetic
 kitchen
 kitchenette
@@ -1347,10 +1362,13 @@ labia
 labial
 lace
 lack
+lactic
 lacy
 lady
 lagged
 laggy
+laic
+laical
 laid
 lair
 lallygag
@@ -1423,6 +1441,7 @@ lightly
 like
 liked
 likelihood
+lilac
 lilt
 lily
 lime
@@ -1996,10 +2015,15 @@ tach
 tacit
 taco
 tactic
+tactical
 taffeta
 taffy
+tail
+tailcoat
 tailfin
 tailwind
+tali
+tallit
 tally
 tame
 tamed
@@ -2076,11 +2100,13 @@ tiara
 tibia
 tick
 ticket
+ticktock
 tidbit
 tiff
 tight
 tightly
 tiki
+tikka
 tilapia
 till
 tilt
@@ -2101,6 +2127,7 @@ tiptop
 tithe
 toccata
 tofu
+toil
 tomate
 tomb
 tome
@@ -2110,6 +2137,7 @@ tong
 tonic
 tonne
 tony
+toolkit
 toon
 toot
 tooth

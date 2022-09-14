@@ -377,6 +377,7 @@ aimed
 aimers
 aimfully
 aimlessness
+aioli
 aiolis
 airboat
 airbrush
@@ -3271,6 +3272,7 @@ catnapper
 catneps
 catskin
 catsup
+cattail
 cattaloes
 cattiest
 cattlemen
@@ -3660,6 +3662,7 @@ chylde
 chymics
 chymous
 ciabatte
+ciao
 ciboule
 cicale
 cicatrix
@@ -3669,6 +3672,7 @@ cicorees
 cidery
 cienega
 cigars
+cilia
 ciliated
 cimar
 cimetidine
@@ -3889,8 +3893,10 @@ coarser
 coastal
 coat
 coated
+coati
 coatis
 coatroom
+coattail
 coattended
 coaxer
 cobalts
@@ -3920,13 +3926,13 @@ cocknify
 cockscombs
 cockshut
 cockspur
+cocktail
 cockup
 cocoa
 cocoas
 cocomposer
 coconut
 cocoon
-cocopan
 cocoplum
 cocoyams
 coculture
@@ -10694,7 +10700,6 @@ hypertrophy
 hyphen
 hyphening
 hyphenless
-hypna
 hypnoid
 hypnoses
 hypnums
@@ -10779,6 +10784,7 @@ ihram
 ikebana
 ileitis
 ilia
+iliac
 ilium
 illapsed
 illations
@@ -11482,6 +11488,7 @@ isthmians
 isthmuses
 itacisms
 italianize
+italic
 itch
 itching
 item
@@ -11901,6 +11908,7 @@ kilo
 kilocycle
 kilomole
 kilowatt
+kilt
 kilters
 kimbo
 kimchee
@@ -12085,6 +12093,7 @@ lacrymal
 lactams
 lactating
 lactescences
+lactic
 lactoses
 lacunas
 lacy
@@ -12106,6 +12115,8 @@ laggins
 laggy
 lagoonal
 lahars
+laic
+laical
 laicise
 laicism
 laics
@@ -12501,6 +12512,7 @@ likelihood
 likeliness
 likens
 likewalks
+lilac
 lilacs
 lilliputian
 lilt
@@ -17371,7 +17383,6 @@ phrenic
 phthalates
 phthises
 phut
-phycocyan
 phyla
 phylar
 phyles
@@ -23839,6 +23850,7 @@ tacksman
 taco
 tacrine
 tactic
+tactical
 tactically
 tactilist
 tactless
@@ -23857,6 +23869,8 @@ tagmemes
 tahas
 tahsils
 taigles
+tail
+tailcoat
 tailed
 tailfin
 tailfins
@@ -23881,6 +23895,7 @@ talcier
 talcum
 taleful
 talers
+tali
 talion
 taliped
 talismans
@@ -23890,6 +23905,7 @@ tallaging
 taller
 talliating
 tallisim
+tallit
 tallithim
 tallols
 tally
@@ -24439,6 +24455,7 @@ ticket
 tickies
 tickliest
 ticktacked
+ticktock
 ticky
 tictocked
 tidbit
@@ -24596,6 +24613,7 @@ togas
 toggeries
 toggling
 tohunga
+toil
 toileted
 toilfully
 toils
@@ -24660,6 +24678,7 @@ tonsures
 tony
 toolbars
 toolhouse
+toolkit
 toolmen
 toomer
 toon
