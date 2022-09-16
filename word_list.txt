@@ -5204,6 +5204,8 @@ deletion
 delfts
 deli
 delice
+delight
+delighted
 delimes
 delimitated
 deliria
@@ -6354,7 +6356,10 @@ egressed
 eidetic
 eidetics
 eigentones
+eight
 eightfoot
+eighth
+eightieth
 eightvo
 eild
 einsteiniums
@@ -9153,6 +9158,7 @@ gelled
 gelosy
 gelsemines
 gelsemiums
+gelt
 gematria
 gemfishes
 gemini
@@ -10130,6 +10136,7 @@ hecogenin
 hectic
 hectometre
 hedge
+hedged
 hedgehopped
 hedgepigs
 hedgings
@@ -10149,6 +10156,7 @@ heftiness
 hefty
 hegumenes
 heifer
+height
 heightens
 heimish
 heinie
@@ -10301,6 +10309,7 @@ highbrow
 highers
 highish
 highlight
+highlighted
 highlighting
 highmen
 highspot
@@ -12370,6 +12379,7 @@ legged
 leggin
 leggy
 legion
+legit
 legitim
 legitimism
 legitimize
@@ -12497,6 +12507,7 @@ lifts
 ligate
 ligge
 light
+lighted
 lightful
 lightly
 lightlying
@@ -15298,7 +15309,6 @@ noddling
 nodosity
 nodulous
 noel
-noetic
 noggs
 nointed
 noir
@@ -24660,7 +24670,6 @@ tondini
 tone
 toneless
 toneme
-tonetic
 tong
 tonged
 tongman

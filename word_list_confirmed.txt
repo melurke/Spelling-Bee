@@ -578,7 +578,9 @@ confit
 conflict
 confluence
 conic
+connect
 contact
+continence
 cookbook
 cool
 coop
@@ -670,6 +672,8 @@ delay
 delayable
 delayed
 deli
+delight
+delighted
 dell
 dement
 demented
@@ -802,6 +806,9 @@ egad
 egged
 egging
 eidetic
+eight
+eighth
+eightieth
 eject
 ejected
 elan
@@ -1061,6 +1068,7 @@ gelded
 gelee
 gelid
 gelled
+gelt
 gene
 genetic
 geni
@@ -1170,10 +1178,13 @@ heath
 heathen
 heaven
 hectic
+hedge
+hedged
 heed
 heeded
 heel
 heeled
+height
 heinie
 held
 helipad
@@ -1192,7 +1203,9 @@ henna
 hennaed
 hide
 hied
+high
 highlight
+highlighted
 hill
 hilled
 hilt
@@ -1412,6 +1425,7 @@ legal
 legalize
 legalized
 legged
+legit
 lemma
 lenience
 lent
@@ -1437,6 +1451,7 @@ lifeblood
 lifeline
 lift
 light
+lighted
 lightly
 like
 liked
