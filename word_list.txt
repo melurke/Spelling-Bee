@@ -4164,6 +4164,7 @@ conational
 concause
 conceal
 conceder
+conceit
 conceits
 concenter
 concentric
@@ -4230,15 +4231,19 @@ conidium
 conima
 coniosis
 conjeeing
+conjoin
+conjoint
 conjunct
 conjurors
 conky
 connect
+connection
 connections
 connes
 conniptions
 connivent
 connotation
+connote
 conns
 conominee
 consciences
@@ -4261,10 +4266,13 @@ contecks
 contemnor
 contempt
 contenements
+content
+contention
 contentions
 contentments
 contested
 continence
+continent
 continua
 continuous
 continuum
@@ -6270,6 +6278,7 @@ economises
 economy
 ecospecific
 ecosystem
+ecotone
 ecotones
 ecphoneses
 ecstasied
@@ -6368,6 +6377,7 @@ eisteddfods
 eject
 ejectamenta
 ejected
+ejection
 ejector
 ekistic
 ekpwele
@@ -9544,7 +9554,6 @@ goujeers
 gourd
 goustrous
 gout
-goutte
 governess
 gowaned
 gowfed
@@ -9801,7 +9810,6 @@ gundog
 gunflint
 gunhouses
 gunlock
-gunnen
 gunning
 gunplay
 gunrunners
@@ -10397,7 +10405,6 @@ hoelike
 hogens
 hoggerel
 hogging
-hogh
 hognoses
 hogtieing
 hohed
@@ -11056,6 +11063,8 @@ incomings
 inconclusions
 inconscious
 inconspicuous
+incontinence
+incontinent
 inconvenienced
 incorrect
 incretion
@@ -11201,6 +11210,7 @@ initially
 initiation
 inject
 injectant
+injection
 injelly
 injunct
 injures
@@ -11225,6 +11235,7 @@ innie
 inning
 innkeepers
 innocence
+innocent
 innocentest
 innovating
 innoxious
@@ -15222,6 +15233,7 @@ nickle
 nickpoint
 nickum
 nicompoops
+nicotine
 nicotines
 nictating
 nictitations
@@ -15469,6 +15481,7 @@ note
 notecases
 notepad
 nothings
+notice
 notification
 notify
 notion
@@ -24103,6 +24116,7 @@ techie
 techiest
 technicist
 teckel
+tectonic
 tectrices
 tectums
 tedding
