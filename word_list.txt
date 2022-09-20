@@ -32,9 +32,7 @@ abled
 ableisms
 ablings
 ably
-abmho
 abode
-abohm
 abolla
 abomas
 abomasum
@@ -595,7 +593,6 @@ amberite
 ambience
 ambits
 ambler
-ambo
 ambos
 ambrettes
 ambrosias
@@ -662,7 +659,6 @@ amoret
 amorettos
 amorisms
 amorosas
-amort
 amotions
 amourette
 amoves
@@ -1643,7 +1639,6 @@ barites
 barkeep
 barkened
 barkless
-barm
 barmbrack
 barmier
 barned
@@ -2086,6 +2081,7 @@ bigot
 bigoted
 bigs
 bigtime
+bigwig
 bike
 biking
 bilabial
@@ -2106,6 +2102,8 @@ billiard
 billing
 billion
 billmen
+billow
+billowing
 billowy
 bilobate
 bimahs
@@ -2275,9 +2273,12 @@ blossom
 blots
 blotty
 blousons
+blow
 blowdown
 blowholes
+blowing
 blowlamp
+blown
 blowpipe
 blowup
 blowzy
@@ -2373,7 +2374,6 @@ bolometer
 bolsons
 boltered
 boltrope
-boma
 bomb
 bombard
 bombards
@@ -2383,7 +2383,6 @@ bombed
 bombers
 bombination
 bomblets
-bombora
 bombproof
 bombsite
 bombyxes
@@ -2521,12 +2520,15 @@ bovines
 bowel
 boweries
 bowfins
+bowing
 bowknots
+bowl
 bowlers
 bowling
 bowmen
 bowpots
 bowses
+bowwow
 bowyang
 boxboards
 boxfish
@@ -2544,7 +2546,6 @@ bracts
 brads
 braggarts
 braggy
-brahma
 braiders
 brailler
 brainbox
@@ -2648,7 +2649,6 @@ bromic
 bromidrosis
 brominism
 bromisms
-bromo
 bromoforms
 broncs
 bronzer
@@ -9410,7 +9410,9 @@ glossologies
 glottic
 glouting
 glovings
+glow
 glowfly
+glowing
 glowlamp
 glozing
 glucinum
@@ -9559,6 +9561,8 @@ gowaned
 gowfed
 gowfs
 gowling
+gown
+gowning
 gownmen
 goyim
 grab
@@ -9988,7 +9992,6 @@ hankies
 hanseled
 hansom
 hanuman
-haoma
 haphazardry
 haphtarahs
 hapless
@@ -12767,6 +12770,7 @@ lone
 lonelinesses
 lonesomeness
 longas
+longbow
 longer
 longhorn
 longleaf
@@ -12836,6 +12840,7 @@ lowbred
 lowdown
 lowed
 lowered
+lowing
 lowish
 lowlifer
 lown
@@ -12936,7 +12941,6 @@ lysogens
 lysosomal
 lysozymes
 lytic
-maar
 mabe
 macaco
 macadamias
@@ -16222,6 +16226,7 @@ owlet
 owlier
 ownable
 owned
+owning
 owrecome
 owriest
 oxalates
@@ -26672,6 +26677,7 @@ wifty
 wiggier
 wigging
 wiggles
+wiggling
 wighting
 wigwag
 wigwagging
@@ -26690,6 +26696,7 @@ willemite
 willeyed
 willing
 williwaws
+willow
 willowish
 willy
 wilt
@@ -26732,7 +26739,9 @@ winkles
 winner
 winning
 winnle
+winnow
 winnowing
+wino
 winsey
 winsomenesses
 wintering
@@ -26776,6 +26785,7 @@ wizards
 wizzen
 woadwaxes
 wobblers
+wobbling
 wocks
 woeful
 woesome
@@ -26819,6 +26829,7 @@ wooer
 woofer
 woofing
 woofy
+wooing
 wool
 woolders
 woolen
@@ -26863,6 +26874,7 @@ woubit
 wounding
 wowed
 wowfest
+wowing
 wracks
 wrap
 wrapped

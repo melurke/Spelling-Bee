@@ -208,6 +208,7 @@ baling
 balk
 ball
 balling
+bamboo
 banal
 banana
 banc
@@ -221,6 +222,7 @@ barrio
 batboy
 bath
 bathing
+bathroom
 baton
 batty
 bayed
@@ -272,6 +274,7 @@ biggie
 bight
 bigot
 bigoted
+bigwig
 bilabial
 bile
 bilingual
@@ -279,6 +282,8 @@ bilk
 bill
 billfold
 billing
+billow
+billowing
 bind
 bindi
 binging
@@ -310,6 +315,9 @@ blocked
 bloke
 blood
 blooded
+blow
+blowing
+blown
 boar
 boat
 boba
@@ -370,6 +378,10 @@ bottom
 bottomed
 bounty
 bout
+bowing
+bowl
+bowling
+bowwow
 brat
 brava
 bravo
@@ -1121,6 +1133,8 @@ glia
 glib
 glide
 glided
+glow
+glowing
 glug
 glut
 gnaw
@@ -1136,6 +1150,8 @@ goopy
 goth
 gouge
 gout
+gown
+gowning
 grad
 grading
 grand
@@ -1512,6 +1528,7 @@ lolled
 lollipop
 lollop
 lone
+longbow
 look
 looked
 loom
@@ -1524,6 +1541,7 @@ lotion
 lout
 lowdown
 lowed
+lowing
 loyal
 loyally
 lubing
@@ -1543,6 +1561,7 @@ madman
 mafia
 magic
 magician
+mahatma
 maid
 maim
 maimed
@@ -1811,8 +1830,10 @@ oven
 ovine
 ovoid
 owed
+owing
 owlet
 owned
+owning
 pacing
 pact
 padding
@@ -2322,12 +2343,15 @@ wended
 went
 wetted
 wigging
+wiggling
 wigwag
 wigwagging
 wigwarm
 wild
 wildland
 will
+willing
+willow
 wilt
 wind
 wing
@@ -2335,7 +2359,11 @@ winging
 wingman
 wining
 winning
+winnow
+winnowing
+wino
 wiring
+wobbling
 woman
 wont
 wonton
@@ -2343,10 +2371,12 @@ wood
 wooded
 wooden
 wooed
+wooing
 wool
 woolen
 woot
 wowed
+wowing
 wring
 wringing
 yang
