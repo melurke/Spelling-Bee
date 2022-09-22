@@ -38,6 +38,7 @@ adult
 aeon
 afar
 affair
+affect
 affiant
 affiliate
 affirm
@@ -417,6 +418,7 @@ cacti
 cadence
 cadge
 cadged
+cafe
 cage
 caged
 caging
@@ -530,6 +532,8 @@ clap
 clay
 clayey
 clean
+clef
+cleft
 clench
 click
 client
@@ -822,6 +826,8 @@ edged
 edict
 edified
 eely
+efface
+effect
 effete
 egad
 egged
@@ -924,8 +930,13 @@ eyed
 eyelet
 eyeteeth
 eyetooth
+face
+facelift
+facet
 facial
 facially
+facile
+facilitate
 facility
 fact
 facticity
@@ -955,6 +966,7 @@ fatly
 fatten
 fatty
 feat
+fecal
 feeble
 feed
 feel
@@ -1025,6 +1037,7 @@ flay
 flea
 fled
 flee
+fleece
 fleet
 flick
 flied
@@ -1270,6 +1283,7 @@ huzzah
 hype
 hypo
 iced
+icefall
 iceman
 icemen
 icicle

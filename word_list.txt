@@ -202,7 +202,6 @@ admit
 admitted
 admixed
 admonition
-adnoun
 adonised
 adopt
 adopter
@@ -785,7 +784,6 @@ anlage
 annal
 annalises
 annalizing
-annatto
 anneal
 anneals
 annexe
@@ -2897,6 +2895,7 @@ caecum
 caesareans
 caestus
 cafards
+cafe
 caffein
 caffeism
 cafilas
@@ -3791,6 +3790,8 @@ clears
 cleave
 cleeking
 cleeps
+clef
+cleft
 clefted
 clementine
 clems
@@ -5933,7 +5934,6 @@ doser
 dosologies
 dosser
 dossiers
-dotant
 doted
 dotings
 dotterel
@@ -7308,6 +7308,7 @@ fables
 fabric
 fabulate
 facadism
+face
 faced
 facelift
 facemask
@@ -7320,6 +7321,7 @@ facial
 facially
 facials
 facile
+facilitate
 facility
 facing
 facking
@@ -7586,6 +7588,7 @@ featuous
 featurette
 feazes
 febrific
+fecal
 feces
 fechts
 feck
@@ -8137,6 +8140,7 @@ fled
 fledgeling
 fledgling
 flee
+fleece
 fleeced
 fleeces
 fleecier
@@ -10742,6 +10746,7 @@ ibidem
 iceblink
 icecaps
 iced
+icefall
 icefield
 iceman
 icemen
@@ -15219,7 +15224,6 @@ newton
 newwaver
 next
 nexus
-nhandu
 niacin
 nibbed
 nibbling
@@ -15999,7 +16003,6 @@ ourangs
 ourn
 ourself
 ousting
-outadd
 outate
 outbeg
 outblesses
@@ -24057,7 +24060,6 @@ tasswage
 tastelessnesses
 tastier
 tatami
-tath
 tatlers
 tatpurushas
 tattersall
