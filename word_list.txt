@@ -630,7 +630,6 @@ amins
 amirs
 amisses
 amitoses
-amla
 ammeters
 ammiral
 ammo
@@ -1305,6 +1304,7 @@ attaboy
 attach
 attachable
 attack
+attacked
 attacks
 attainers
 attaintment
@@ -2874,6 +2874,8 @@ cached
 cachexias
 cacholong
 caciquism
+cackle
+cackled
 cacodaemon
 cacoepy
 caconymy
@@ -2913,6 +2915,8 @@ cairds
 caitive
 cajoled
 cajuputs
+cake
+caked
 cakey
 caking
 cakras
@@ -5061,7 +5065,10 @@ decimated
 decimetre
 decisioned
 decitizenized
+deck
+decked
 deckel
+deckle
 deckles
 declare
 declassed
@@ -5201,6 +5208,8 @@ deject
 dejected
 dejects
 dekares
+deke
+deked
 dekkos
 delapses
 delay
@@ -6379,6 +6388,7 @@ ejectamenta
 ejected
 ejection
 ejector
+eked
 ekistic
 ekpwele
 elaeolite
@@ -11776,6 +11786,7 @@ kaisers
 kakapos
 kakodyls
 kalamkari
+kale
 kalends
 kalians
 kalinite
@@ -11882,6 +11893,7 @@ ketamine
 ketch
 ketogeneses
 ketosis
+kettle
 kettlefuls
 kewpies
 keyless
@@ -12114,6 +12126,7 @@ lachrymal
 lacings
 lack
 lackaday
+lacked
 lacking
 lacmus
 lacrimal
@@ -12155,6 +12168,7 @@ lair
 laired
 lairize
 laitance
+lake
 laked
 lakes
 laking
@@ -12291,6 +12305,7 @@ lati
 latinities
 latiseptate
 latitude
+latke
 latration
 latten
 lattermath
@@ -12347,6 +12362,8 @@ leafleteer
 leaflets
 leafstalk
 leaguered
+leak
+leaked
 leaker
 leakless
 leamed
@@ -23874,8 +23891,11 @@ tach
 tachiste
 tachylytic
 tacit
+tack
 tacked
 tackier
+tackle
+tackled
 tackler
 tacksman
 taco
@@ -23916,6 +23936,7 @@ taints
 taisch
 taivers
 takahes
+take
 taken
 taker
 takhis
@@ -23930,6 +23951,7 @@ tali
 talion
 taliped
 talismans
+talk
 talked
 talkiest
 tallaging
@@ -24096,9 +24118,11 @@ taxors
 tayassuid
 tazze
 teaberry
+teacake
 teacarts
 teacup
 teagle
+teak
 teakettle
 team
 teamaker
