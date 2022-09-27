@@ -98,6 +98,7 @@ amid
 ammo
 amok
 amoral
+amorally
 amyl
 anal
 anally
@@ -1402,6 +1403,7 @@ jean
 jell
 jive
 jocular
+jolly
 journo
 juror
 kale
@@ -1568,6 +1570,7 @@ look
 looked
 loom
 loon
+loony
 loop
 loopy
 lope
@@ -1626,6 +1629,7 @@ matted
 maven
 mayhem
 mayo
+mayoral
 maypole
 mead
 meal
@@ -1693,6 +1697,7 @@ moat
 mobbed
 mobile
 mobilize
+molar
 mole
 moll
 molly
@@ -1714,6 +1719,8 @@ moot
 mope
 mopey
 moppet
+moral
+morally
 mote
 motet
 motion
@@ -1849,6 +1856,7 @@ optic
 optical
 oracular
 oral
+orally
 oratory
 orbit
 orca
@@ -2061,6 +2069,7 @@ rain
 raindrop
 raita
 raja
+rally
 ramada
 ranch
 rand
@@ -2095,6 +2104,8 @@ rood
 rotary
 rotatory
 round
+royal
+royally
 runaround
 runny
 rutty

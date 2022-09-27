@@ -652,6 +652,7 @@ amok
 amomum
 amoove
 amoral
+amorally
 amorance
 amoret
 amorettos
@@ -2319,7 +2320,6 @@ bobbers
 bobbish
 bobble
 bobbled
-bobby
 bobeche
 bobsledders
 bobwhite
@@ -3890,7 +3890,6 @@ coalesce
 coalfaces
 coalition
 coalman
-coaly
 coappear
 coaptation
 coarctated
@@ -3907,7 +3906,6 @@ coaxer
 cobalts
 cobble
 cobbled
-cobby
 cobra
 cobwebbed
 coca
@@ -11705,6 +11703,7 @@ joled
 jolleys
 jollifies
 jolls
+jolly
 jolter
 jomo
 jonty
@@ -13499,6 +13498,7 @@ mayest
 mayhem
 mayings
 mayo
+mayoral
 mayoralty
 mayos
 maypole
@@ -14411,6 +14411,7 @@ mojoes
 moke
 moko
 mola
+molar
 molars
 mold
 molder
@@ -14614,6 +14615,7 @@ morae
 moral
 moralisms
 morallers
+morally
 moras
 morat
 morats
@@ -15911,6 +15913,7 @@ opuses
 oracled
 oracular
 oral
+orally
 orang
 orangey
 orated
@@ -19517,6 +19520,7 @@ rakehell
 rakery
 rakish
 rales
+rally
 rallyes
 ralphed
 ramada
@@ -20730,6 +20734,7 @@ roweled
 rowings
 rowmes
 rowted
+royal
 royally
 royst
 roysts
