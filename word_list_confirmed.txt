@@ -207,14 +207,17 @@ bail
 bailing
 bait
 balalaika
+balcony
 baldly
 bale
 baling
 balk
 ball
+ballboy
 balling
 bamboo
 banal
+banally
 banana
 banc
 bang
@@ -314,6 +317,7 @@ bling
 blini
 blob
 blobbed
+blobby
 bloc
 block
 blocked
@@ -459,9 +463,11 @@ canned
 canning
 cannon
 cannot
+canny
 canon
 canto
 canton
+canyon
 capital
 capitol
 capo
@@ -509,12 +515,14 @@ chica
 chichi
 chihuahua
 chime
+chinning
 chip
 chipping
 chit
 chitchat
 chitin
 choice
+chugging
 chuppah
 church
 churchy
@@ -556,6 +564,7 @@ cloaca
 clomp
 clone
 clop
+cloy
 coact
 coal
 coat
@@ -586,6 +595,7 @@ collie
 colon
 colonel
 colonic
+colony
 color
 come
 comet
@@ -616,6 +626,7 @@ continence
 continent
 cookbook
 cool
+coolly
 coop
 coopt
 coot
@@ -632,6 +643,7 @@ coulee
 count
 coup
 coupon
+coyly
 cranny
 critic
 croc
@@ -644,6 +656,7 @@ curacy
 curl
 curry
 cutout
+cyan
 daddy
 dahlia
 daily
@@ -1289,6 +1302,7 @@ hotpot
 hottie
 huff
 hull
+hunching
 hung
 hurrah
 hurray
@@ -1552,10 +1566,13 @@ loan
 loath
 loathe
 lobbed
+lobby
 lobe
 lobed
+loblolly
 lobo
 local
+locally
 loci
 loco
 lode
@@ -1789,6 +1806,7 @@ ninth
 nipped
 nite
 nitwit
+nobly
 noel
 noir
 nominee
@@ -1816,6 +1834,7 @@ nubbin
 nubby
 nucleon
 nugget
+nylon
 oath
 oaty
 obey
@@ -1845,6 +1864,8 @@ omnipotent
 once
 onetime
 onion
+onlay
+only
 onto
 ooze
 opal

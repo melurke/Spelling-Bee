@@ -1539,6 +1539,7 @@ bakshishes
 balalaika
 balance
 balases
+balcony
 balded
 baldish
 baldly
@@ -1555,6 +1556,7 @@ ballade
 balladine
 ballans
 ballat
+ballboy
 balled
 ballets
 balling
@@ -1576,6 +1578,7 @@ bammer
 bampot
 banal
 banalises
+banally
 banana
 banausian
 banc
@@ -2252,6 +2255,7 @@ blive
 bloater
 blob
 blobbed
+blobby
 bloc
 block
 blocked
@@ -3056,6 +3060,7 @@ cannonading
 cannonry
 cannot
 cannulate
+canny
 canolas
 canon
 canonicate
@@ -3077,6 +3082,7 @@ cantrap
 cantus
 canvasback
 canvassed
+canyon
 canzona
 caoutchouc
 capacious
@@ -3862,6 +3868,7 @@ clough
 clouter
 cloves
 cloxacillin
+cloy
 cloze
 clubbier
 clubbism
@@ -4041,6 +4048,7 @@ colonelling
 colonic
 colonitis
 colonoscopes
+colony
 colophon
 color
 colorado
@@ -4309,6 +4317,7 @@ cool
 coolamon
 coolers
 coolies
+coolly
 coolth
 coomb
 coomceiled
@@ -4507,6 +4516,7 @@ coxalgic
 coxcombry
 coxinesses
 coyest
+coyly
 coyotillo
 coypus
 cozeners
@@ -4805,6 +4815,7 @@ cutters
 cuttled
 cutup
 cuvette
+cyan
 cyanic
 cyanines
 cyanizing
@@ -10352,7 +10363,6 @@ himation
 himself
 hinderer
 hindheads
-hing
 hinnied
 hint
 hinters
@@ -10759,7 +10769,6 @@ icefield
 iceman
 icemen
 icescape
-iching
 ichthus
 ichthyses
 icicle
@@ -12725,18 +12734,21 @@ loathe
 loathes
 loaved
 lobbed
+lobby
 lobbyers
 lobbyism
 lobe
 lobed
 lobefin
 lobi
+loblolly
 lobo
 lobola
 lobscouse
 lobules
 local
 localisms
+locally
 localness
 locates
 lochans
@@ -15339,6 +15351,7 @@ nobbler
 nobilitation
 noblemen
 noblewomen
+nobly
 nocently
 nockets
 noctule
@@ -15586,6 +15599,7 @@ nuzzled
 nyaffed
 nyanzas
 nyes
+nylon
 nympha
 nymphaea
 nymphean
@@ -15810,8 +15824,10 @@ onfalls
 ongoings
 onion
 oniric
+onlay
 onliest
 onlooker
+only
 onscreen
 onside
 onto
