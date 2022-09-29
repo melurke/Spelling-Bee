@@ -515,6 +515,7 @@ chica
 chichi
 chihuahua
 chime
+chin
 chinning
 chip
 chipping
@@ -522,7 +523,10 @@ chit
 chitchat
 chitin
 choice
+chucking
 chugging
+chunk
+chunking
 chuppah
 church
 churchy
@@ -530,6 +534,8 @@ churn
 chutzpah
 ciao
 cilia
+cinch
+cinching
 cinema
 circa
 circuit
@@ -649,8 +655,10 @@ critic
 croc
 crunch
 crunchy
+cuing
 cull
 cumin
+cunning
 curacao
 curacy
 curl
@@ -1207,6 +1215,7 @@ grinding
 guff
 gulf
 gull
+gunk
 gunning
 gutting
 habit
@@ -1274,9 +1283,11 @@ hied
 high
 highlight
 highlighted
+hiking
 hill
 hilled
 hilt
+hinging
 hint
 hippie
 hitch
@@ -1301,9 +1312,12 @@ hotel
 hotpot
 hottie
 huff
+hugging
 hull
+hunch
 hunching
 hung
+hunk
 hurrah
 hurray
 hurry
@@ -1352,6 +1366,8 @@ impenitent
 imply
 impotent
 inane
+inch
+inching
 incidence
 incident
 incite
@@ -1377,9 +1393,11 @@ infliction
 info
 infringing
 ingenue
+initial
 initiation
 inject
 injection
+inking
 inlaid
 inland
 inlay
@@ -1435,6 +1453,10 @@ killed
 kilo
 kilt
 kinetic
+king
+kinging
+kink
+kinking
 kitchen
 kitchenette
 kite
@@ -1511,6 +1533,7 @@ legit
 lemma
 lenience
 lent
+lentil
 letdown
 lethal
 lethally
@@ -1552,6 +1575,7 @@ lion
 lipo
 lippy
 lira
+lite
 livable
 live
 liveable
@@ -1796,6 +1820,7 @@ nick
 nicking
 nicotine
 niece
+nigh
 nine
 ninepin
 nineteen
@@ -1834,6 +1859,9 @@ nubbin
 nubby
 nucleon
 nugget
+nuking
+nunchuck
+nunchuk
 nylon
 oath
 oaty
@@ -2157,6 +2185,7 @@ tally
 tame
 tamed
 tamp
+tanzanite
 tapa
 tape
 tapioca
@@ -2326,8 +2355,11 @@ unbutton
 uncool
 unction
 unguent
+unhinging
 unhung
 uniting
+unkink
+unkinking
 unpen
 unpenned
 unpin

@@ -3565,6 +3565,7 @@ chimerism
 chimichanga
 chimley
 chimp
+chin
 chinampa
 chincapins
 chinchillas
@@ -3641,6 +3642,7 @@ chromous
 chronotrons
 chubbily
 chuckies
+chucking
 chucky
 chuddy
 chuffed
@@ -3653,6 +3655,8 @@ chummier
 chummy
 chumped
 chumship
+chunk
+chunking
 chunks
 chupati
 chuppah
@@ -3686,6 +3690,8 @@ ciliated
 cimar
 cimetidine
 cimiers
+cinch
+cinching
 cinchings
 cinchonises
 cincinnuses
@@ -4724,6 +4730,7 @@ cuffed
 cuffle
 cuffling
 cuffuffle
+cuing
 cuirasses
 cuisiniers
 cuiters
@@ -4747,6 +4754,7 @@ cumuli
 cumulus
 cuneal
 cunnilinctus
+cunning
 cunnings
 cupcakes
 cupelers
@@ -9836,6 +9844,7 @@ gumwood
 gundog
 gunflint
 gunhouses
+gunk
 gunlock
 gunning
 gunplay
@@ -10350,6 +10359,7 @@ highspot
 highth
 hijack
 hijras
+hiking
 hilding
 hill
 hilled
@@ -10363,6 +10373,7 @@ himation
 himself
 hinderer
 hindheads
+hinging
 hinnied
 hint
 hinters
@@ -10633,6 +10644,7 @@ huffkin
 hugeness
 hugged
 huggermuggers
+hugging
 huipil
 huissier
 hule
@@ -10677,9 +10689,11 @@ humpless
 humpty
 humstrum
 humuses
+hunch
 hunching
 hung
 hunger
+hunk
 hunker
 hunks
 hunters
@@ -10824,7 +10838,6 @@ ignoring
 ihram
 ikebana
 ileitis
-ilia
 iliac
 ilium
 illapsed
@@ -11064,7 +11077,9 @@ incenters
 incept
 inceptive
 incessantnesses
+inch
 incher
+inching
 inchpins
 incidence
 incident
@@ -11241,6 +11256,7 @@ injunct
 injures
 inked
 inkinesses
+inking
 inkling
 inkspots
 inkwoods
@@ -11384,7 +11400,6 @@ intimations
 intimidating
 intimist
 intimities
-intitle
 into
 intombs
 intonation
@@ -11532,7 +11547,6 @@ issued
 isthmians
 isthmuses
 itacisms
-italianize
 italic
 itch
 itching
@@ -11970,11 +11984,15 @@ kinema
 kinesthesis
 kinetic
 kinfolks
+king
 kinghood
+kinging
 kinglet
 kingpin
 kingsides
+kink
 kinked
+kinking
 kinkles
 kinnikinnicks
 kins
@@ -12309,7 +12327,6 @@ lath
 lathe
 lathen
 lathi
-lati
 latinities
 latiseptate
 latitude
@@ -12532,7 +12549,6 @@ liefer
 liege
 liegeless
 lien
-lienal
 liers
 life
 lifeblood
@@ -12699,7 +12715,6 @@ lithotomist
 lithotritists
 litigate
 litmus
-litten
 litters
 littler
 littoral
@@ -15295,6 +15310,7 @@ nigger
 niggerism
 niggler
 niggly
+nigh
 nighnesses
 nightly
 nighttime
@@ -15563,6 +15579,7 @@ nuff
 nuggars
 nugget
 nukes
+nuking
 nullifidian
 nullify
 nullnesses
@@ -15578,6 +15595,8 @@ numismatist
 nummulary
 numnah
 numskulls
+nunchuck
+nunchuk
 nunhood
 nunnishness
 nuptial
@@ -23928,7 +23947,6 @@ tactilist
 tactless
 taddie
 tael
-taeniate
 tafferels
 taffeta
 taffeties
@@ -23952,7 +23970,6 @@ tailpipe
 tailplane
 tailspin
 tailwind
-tailzie
 taints
 taisch
 taivers
@@ -24285,7 +24302,6 @@ tenements
 tenesmic
 tenet
 tenges
-tennantite
 tennises
 tenon
 tenoner
@@ -25558,6 +25574,7 @@ unhearse
 unheeding
 unhelms
 unhewn
+unhinging
 unhip
 unhoard
 unhooded
@@ -25594,6 +25611,8 @@ unkempt
 unkennels
 unkindly
 unkings
+unkink
+unkinking
 unkissing
 unknot
 unknowns
@@ -27146,7 +27165,6 @@ zigs
 zigzag
 zigzagged
 zigzaggy
-zill
 zills
 zimbs
 zimoccas
