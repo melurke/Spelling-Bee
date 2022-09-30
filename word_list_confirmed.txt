@@ -71,6 +71,7 @@ algae
 algal
 alibi
 alien
+alienate
 alit
 alive
 alkali
@@ -125,6 +126,7 @@ annularly
 anoint
 anon
 anoxia
+anti
 antifa
 antitoxin
 antonym
@@ -171,6 +173,7 @@ attaboy
 attach
 attack
 attacked
+attain
 attempt
 attic
 aura
@@ -889,6 +892,7 @@ elicit
 eliciting
 elide
 elided
+elite
 elope
 emanate
 embed
@@ -930,10 +934,12 @@ enlace
 enliven
 ennead
 ennui
+entail
 entente
 entice
 enticed
 enticing
+entitle
 entomb
 entombed
 entombment
@@ -1394,6 +1400,8 @@ info
 infringing
 ingenue
 initial
+initialize
+initiate
 initiation
 inject
 injection
@@ -1402,11 +1410,14 @@ inlaid
 inland
 inlay
 inlaying
+inlet
+innate
 innie
 inning
 innocence
 innocent
 inroad
+intel
 intellect
 intelligence
 intent
@@ -1483,6 +1494,7 @@ laggy
 laic
 laical
 laid
+lain
 lair
 lake
 lallygag
@@ -1490,6 +1502,7 @@ lallygagging
 lama
 lame
 lamely
+lanai
 lance
 land
 landfall
@@ -1532,6 +1545,7 @@ legged
 legit
 lemma
 lenience
+lenient
 lent
 lentil
 letdown
@@ -1570,12 +1584,15 @@ limply
 line
 lineal
 linen
+linnet
 lint
+lintel
 lion
 lipo
 lippy
 lira
 lite
+little
 livable
 live
 liveable
@@ -1780,6 +1797,7 @@ nagged
 naggy
 naiad
 naif
+nail
 naive
 name
 nametape
@@ -1805,6 +1823,7 @@ nene
 neocon
 neon
 neophyte
+netizen
 netting
 nettle
 netty
@@ -2176,6 +2195,8 @@ tail
 tailcoat
 tailfin
 tailwind
+tain
+taint
 take
 tali
 talk
@@ -2185,6 +2206,8 @@ tally
 tame
 tamed
 tamp
+tannin
+tantalize
 tanzanite
 tapa
 tape
@@ -2270,6 +2293,7 @@ tightly
 tiki
 tikka
 tilapia
+tile
 till
 tilt
 tilth
@@ -2286,7 +2310,11 @@ tint
 tinting
 tippy
 tiptop
+titan
 tithe
+titillate
+title
+tittle
 toccata
 tofu
 toil
@@ -2511,5 +2539,8 @@ zigged
 zigzag
 zigzagged
 zigzaggy
+zine
 zingy
+zinnia
 zipped
+ziti

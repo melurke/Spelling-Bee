@@ -459,6 +459,7 @@ alibi
 alibis
 alidads
 alien
+alienate
 alienating
 alienisms
 aliform
@@ -829,6 +830,7 @@ antetype
 anthemed
 anthill
 anthozoans
+anti
 antiaditises
 antianxiety
 antiatom
@@ -1307,6 +1309,7 @@ attachable
 attack
 attacked
 attacks
+attain
 attainers
 attaintment
 attasked
@@ -6452,6 +6455,7 @@ elide
 elided
 eligible
 eliminant
+elite
 elitism
 ellipse
 ellipsoids
@@ -6832,6 +6836,7 @@ ensteeping
 ensues
 enswathe
 enswept
+entail
 entame
 entamed
 entamoebae
@@ -6851,6 +6856,7 @@ enticed
 enticing
 enticings
 entitative
+entitle
 entitlement
 entoiling
 entomb
@@ -11246,7 +11252,9 @@ inhumed
 inions
 initial
 initialising
+initialize
 initially
+initiate
 initiation
 inject
 injectant
@@ -11266,9 +11274,11 @@ inlander
 inlay
 inlayer
 inlaying
+inlet
 inliers
 inmates
 inmeshing
+innate
 innatenesses
 innersole
 innerwear
@@ -11344,6 +11354,7 @@ insuring
 intactly
 intarsia
 integrity
+intel
 intellect
 intelligence
 intelligent
@@ -11706,7 +11717,6 @@ jitterier
 jiujitsus
 jive
 jives
-jnana
 jobber
 jobe
 jobs
@@ -12190,6 +12200,7 @@ laics
 laid
 laighs
 laiks
+lain
 lair
 laired
 lairize
@@ -12247,6 +12258,7 @@ lamps
 lampshells
 lampukas
 lamster
+lanai
 lancado
 lance
 lanceolate
@@ -12467,6 +12479,7 @@ lenes
 lengthen
 lenience
 leniences
+lenient
 lenified
 lenities
 lenos
@@ -12654,10 +12667,12 @@ liniments
 linkboy
 linksman
 linned
+linnet
 linny
 linoleum
 linseys
 lint
+lintel
 lintier
 lintseeds
 linums
@@ -12716,6 +12731,7 @@ lithotritists
 litigate
 litmus
 litters
+little
 littler
 littoral
 lituuses
@@ -15072,13 +15088,13 @@ naiad
 naiades
 naif
 naifs
+nail
 nailers
 nailless
 nainsooks
 naive
 naiver
 naked
-nala
 naloxone
 namaskars
 name
@@ -15238,6 +15254,7 @@ nestfuls
 nestlike
 netballs
 netiquette
+netizen
 netted
 netting
 nettle
@@ -19610,7 +19627,6 @@ rankes
 rankless
 ransacker
 ransoms
-ranula
 ranzelmen
 rape
 rapers
@@ -23970,6 +23986,8 @@ tailpipe
 tailplane
 tailspin
 tailwind
+tain
+taint
 taints
 taisch
 taivers
@@ -24050,10 +24068,12 @@ tankia
 tanky
 tannahs
 tannery
+tannin
 tannoy
 tans
 tantalise
 tantalism
+tantalize
 tantalum
 tantamount
 tantivies
@@ -24578,6 +24598,7 @@ tiki
 tikka
 tilapia
 tilde
+tile
 tileries
 till
 tillage
@@ -24658,6 +24679,7 @@ tiro
 tirrivee
 tisicks
 tiswas
+titan
 titanias
 titanites
 titches
@@ -24665,8 +24687,10 @@ titfer
 tithe
 tithing
 titians
+titillate
 titillation
 titivates
+title
 titleless
 titman
 titmouse
@@ -24674,6 +24698,7 @@ titrated
 titres
 tittering
 tittivated
+tittle
 tittled
 tittuping
 tittups
@@ -27171,12 +27196,14 @@ zimoccas
 zincifies
 zincked
 zincoid
+zine
 zines
 zinged
 zinging
 zingy
 zinkier
 zinkify
+zinnia
 zipless
 zipped
 zippered
@@ -27184,6 +27211,7 @@ zippiest
 zippy
 zirconia
 zithers
+ziti
 zizels
 zizzing
 zlotych
