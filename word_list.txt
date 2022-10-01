@@ -1352,6 +1352,7 @@ aumailed
 aumil
 auntie
 aura
+aural
 aurally
 aurei
 aureolas
@@ -1359,6 +1360,7 @@ auricula
 aurifies
 aurochs
 aurora
+auroral
 aurum
 ausform
 auspices
@@ -11748,6 +11750,7 @@ jots
 jotunn
 joukery
 jounced
+journal
 journo
 jovial
 jowl
@@ -12918,6 +12921,7 @@ loyalist
 loyally
 loys
 lozens
+luau
 lube
 lubing
 lubrical
@@ -12953,6 +12957,8 @@ lumpier
 lumping
 lumpkin
 lumpy
+luna
+lunar
 lunarians
 lunately
 lunches
@@ -12961,6 +12967,7 @@ lunger
 lunging
 lunitidal
 lunts
+lunula
 luny
 lupin
 lupous
@@ -20864,6 +20871,7 @@ runup
 rupee
 rupiahs
 ruptures
+rural
 ruralism
 ruralness
 rurus
@@ -25381,6 +25389,8 @@ ulemas
 ulicons
 ullages
 ulmin
+ulna
+ulnar
 ulnas
 ulpans
 ultimas

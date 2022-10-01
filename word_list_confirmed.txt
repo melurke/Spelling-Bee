@@ -177,7 +177,9 @@ attain
 attempt
 attic
 aura
+aural
 aurora
+auroral
 auto
 autocracy
 avail
@@ -721,6 +723,9 @@ default
 defied
 defile
 defiled
+defined
+definite
+definitive
 deglaze
 deglazed
 deice
@@ -1447,6 +1452,7 @@ jell
 jive
 jocular
 jolly
+journal
 journo
 juror
 kale
@@ -1641,11 +1647,15 @@ lowed
 lowing
 loyal
 loyally
+luau
 lubing
 lull
 lulu
 lump
 lumpy
+luna
+lunar
+lunula
 lying
 lynx
 mace
@@ -2176,6 +2186,7 @@ royal
 royally
 runaround
 runny
+rural
 rutty
 tabby
 taboo
@@ -2375,6 +2386,8 @@ type
 typhoon
 typo
 tyro
+ulna
+ulnar
 unbag
 unbagging
 unban
