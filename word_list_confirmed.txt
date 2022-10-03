@@ -19,6 +19,7 @@ accuracy
 aced
 ache
 achy
+acidic
 acing
 acme
 acne
@@ -32,6 +33,7 @@ adman
 admit
 admitted
 adorn
+adroit
 adulate
 adulated
 adult
@@ -796,6 +798,7 @@ divined
 divot
 divvied
 divvy
+dodo
 doff
 doffed
 doggo
@@ -873,6 +876,7 @@ efface
 effect
 effete
 egad
+eggcup
 egged
 egging
 eidetic
@@ -973,6 +977,7 @@ expellee
 extent
 eyeball
 eyeballed
+eyecup
 eyed
 eyelet
 eyeteeth
@@ -1228,6 +1233,7 @@ gulf
 gull
 gunk
 gunning
+guppy
 gutting
 habit
 habitat
@@ -2007,12 +2013,14 @@ peel
 peen
 peep
 peeped
+pence
 pend
 pended
 penman
 penmen
 penne
 penned
+penny
 pentimento
 peon
 peony
@@ -2111,13 +2119,17 @@ potty
 pout
 priding
 prior
+puce
 puli
 pull
 pulp
 pulpit
 pulpy
 pump
+pungency
 punned
+punny
+puny
 pupil
 puppy
 putout
@@ -2401,6 +2413,7 @@ unhung
 uniting
 unkink
 unkinking
+unpeg
 unpen
 unpenned
 unpin

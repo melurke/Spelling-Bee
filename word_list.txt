@@ -129,7 +129,6 @@ achy
 aciculums
 acidic
 acidify
-acidotic
 acierated
 aciform
 acing
@@ -3156,7 +3155,6 @@ carcel
 carcinoma
 cardamoms
 cardcases
-cardi
 cardies
 carditis
 cardsharps
@@ -3210,7 +3208,6 @@ cars
 cartable
 carter
 cartoon
-cartroad
 carucate
 carvel
 carvies
@@ -3931,7 +3928,6 @@ cocain
 cocainism
 cocaptain
 cocci
-coccidia
 coccineous
 coccos
 cochair
@@ -5538,7 +5534,6 @@ diddlers
 diddly
 didelphic
 didgeridoos
-dido
 didrachma
 didymiums
 died
@@ -5796,7 +5791,6 @@ disubstituted
 disulfids
 disunited
 disused
-dita
 ditching
 ditheletes
 dithers
@@ -6382,6 +6376,7 @@ egalite
 egencies
 egestion
 eggcase
+eggcup
 egged
 eggers
 eggheadednesses
@@ -9859,6 +9854,7 @@ gunplay
 gunrunners
 gunships
 gunters
+guppy
 gups
 gurging
 gurgoyle
@@ -15710,7 +15706,6 @@ ocherous
 ochlophobic
 ochres
 ocotillo
-octadic
 octan
 octant
 octants
@@ -15732,7 +15727,6 @@ odallers
 oddities
 oddments
 oddsman
-odic
 odists
 odonate
 odontocetes
@@ -17103,6 +17097,7 @@ pennies
 pennilessnesses
 penning
 pennoncels
+penny
 pennycress
 pennyfees
 penology
@@ -19129,6 +19124,7 @@ pubes
 pubis
 publics
 puccoons
+puce
 pucelles
 pucked
 puckerers
@@ -19250,11 +19246,13 @@ punkins
 punned
 punnets
 punningly
+punny
 punster
 puntats
 punter
 punto
 puntsmen
+puny
 pupae
 puparium
 pupates
@@ -24936,7 +24934,6 @@ trackage
 trackway
 tractator
 tractor
-trad
 trademarked
 trading
 traducer
@@ -25029,7 +25026,6 @@ trests
 trevis
 treybit
 triacetates
-triadic
 triaged
 trialism
 triallist
@@ -25705,6 +25701,7 @@ unpannel
 unpapered
 unpatented
 unpays
+unpeg
 unpegged
 unpen
 unpenned
