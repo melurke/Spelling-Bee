@@ -12,6 +12,7 @@ acacia
 acai
 accede
 acceded
+accord
 account
 accountant
 accrual
@@ -19,14 +20,17 @@ accuracy
 aced
 ache
 achy
+acid
 acidic
 acing
 acme
 acne
+acrid
 actuary
 adage
 addend
 addenda
+addict
 adding
 adjourn
 adman
@@ -152,6 +156,7 @@ aptly
 arbitrator
 arbor
 arborio
+arcadia
 arcana
 arch
 archaic
@@ -481,8 +486,13 @@ capo
 capon
 capping
 captcha
+card
+cardiac
+cardio
+cardioid
 carny
 carol
+carotid
 carroty
 carry
 carryout
@@ -540,6 +550,7 @@ churchy
 churn
 chutzpah
 ciao
+cicada
 cilia
 cinch
 cinching
@@ -591,6 +602,7 @@ cocktail
 cocoa
 coconut
 cocoon
+coda
 code
 coded
 coed
@@ -612,7 +624,9 @@ colony
 color
 come
 comet
+comic
 commode
+common
 commotion
 compel
 complex
@@ -647,8 +661,11 @@ cootie
 copilot
 copout
 coral
+cord
 corolla
 corral
+corrida
+corridor
 cote
 cotillion
 cotton
@@ -689,6 +706,8 @@ dapping
 daring
 darn
 darning
+dart
+data
 dawn
 daybed
 daylily
@@ -759,9 +778,14 @@ devote
 devoted
 devotee
 devotion
+diacritic
 diadem
 dice
 diced
+dicta
+dictator
+didact
+didactic
 diddle
 diddled
 diddly
@@ -786,6 +810,8 @@ dino
 dipped
 dipping
 dirndl
+dirt
+ditto
 diva
 divan
 dive
@@ -798,6 +824,7 @@ divined
 divot
 divvied
 divvy
+doctor
 dodo
 doff
 doffed
@@ -814,12 +841,14 @@ domino
 dong
 donor
 doobie
+doodad
 doodle
 doodled
 doom
 door
 doornail
 dorado
+dotard
 dough
 doughnut
 dour
@@ -835,6 +864,7 @@ draining
 dram
 drama
 draping
+drat
 drill
 drip
 dripping
@@ -1351,6 +1381,8 @@ icing
 icon
 iconic
 idiom
+idiot
+idiotic
 idle
 idled
 idly
@@ -1784,6 +1816,7 @@ mononym
 monotone
 monotony
 monte
+mooch
 mood
 moola
 moon
@@ -1906,6 +1939,7 @@ oboe
 occipital
 occupant
 occur
+octad
 octant
 octet
 octillion
@@ -1925,6 +1959,7 @@ omen
 omit
 omnipotent
 once
+oncoming
 onetime
 onion
 onlay
@@ -2147,6 +2182,7 @@ racy
 radar
 radial
 radian
+radiator
 radii
 radio
 radon
@@ -2338,6 +2374,7 @@ tithe
 titillate
 title
 tittle
+toad
 toccata
 tofu
 toil
@@ -2359,6 +2396,8 @@ topcoat
 tope
 topic
 topical
+toroid
+torrid
 tote
 totem
 toucan
@@ -2372,6 +2411,8 @@ town
 toxin
 trait
 tray
+triad
+trod
 troy
 tuba
 tubby

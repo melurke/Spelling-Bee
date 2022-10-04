@@ -97,6 +97,7 @@ accoasted
 accommodate
 accompany
 accomptant
+accord
 accordance
 accost
 account
@@ -127,6 +128,7 @@ acholia
 achromic
 achy
 aciculums
+acid
 acidic
 acidify
 acierated
@@ -141,6 +143,7 @@ acosmists
 acquests
 acquit
 acrawl
+acrid
 acridin
 acrobatic
 acromion
@@ -169,6 +172,7 @@ adays
 addend
 addenda
 addends
+addict
 addicting
 adding
 additional
@@ -1052,6 +1056,7 @@ arboreal
 arborio
 arboured
 arbutuses
+arcadia
 arcading
 arcana
 arcanists
@@ -3153,9 +3158,13 @@ carburetter
 carcase
 carcel
 carcinoma
+card
 cardamoms
 cardcases
+cardiac
 cardies
+cardio
+cardioid
 carditis
 cardsharps
 careenages
@@ -3185,6 +3194,7 @@ carnying
 carol
 carols
 caromel
+carotid
 carouser
 carpaccios
 carpals
@@ -3679,6 +3689,7 @@ chymous
 ciabatte
 ciao
 ciboule
+cicada
 cicale
 cicatrix
 cicerones
@@ -3953,6 +3964,7 @@ cocoon
 cocoplum
 cocoyams
 coculture
+coda
 codas
 coddles
 code
@@ -4122,7 +4134,6 @@ commodo
 common
 commonage
 commonest
-commoning
 commonnesses
 commos
 commotion
@@ -4241,7 +4252,6 @@ confuses
 congaing
 congees
 congers
-congo
 congrees
 conic
 conics
@@ -4328,7 +4338,6 @@ coolly
 coolth
 coomb
 coomceiled
-cooming
 coonhound
 coop
 cooperate
@@ -4382,6 +4391,7 @@ coralloid
 coranach
 corbeil
 corbies
+cord
 corded
 cordierite
 cordon
@@ -4426,6 +4436,8 @@ corral
 corrasions
 correctly
 correlate
+corrida
+corridor
 corrival
 corroboreed
 corrodies
@@ -4967,6 +4979,7 @@ darning
 darns
 darrayn
 darshans
+dart
 dartle
 darzis
 dashekis
@@ -4974,6 +4987,7 @@ dashikis
 dassie
 dastards
 dasyurids
+data
 databus
 datarias
 dated
@@ -5478,6 +5492,7 @@ dhurnas
 diabases
 diabolic
 diacids
+diacritic
 diacritical
 diadem
 diademing
@@ -5522,9 +5537,13 @@ dickey
 dicks
 diclinisms
 dicotyl
+dicta
 dictation
+dictator
 dictions
 dicycly
+didact
+didactic
 didactics
 didapper
 diddicoy
@@ -5653,6 +5672,7 @@ dirham
 dirigism
 dirked
 dirndl
+dirt
 dirtiest
 disa
 disabuses
@@ -5796,6 +5816,7 @@ ditheletes
 dithers
 ditsier
 ditties
+ditto
 ditty
 diuresis
 diva
@@ -5837,6 +5858,7 @@ dockage
 dockets
 dockland
 docs
+doctor
 doctoresses
 docusoaps
 dodderiest
@@ -5913,6 +5935,7 @@ donor
 donships
 donutting
 doobie
+doodad
 doodads
 doodle
 doodled
@@ -5959,6 +5982,7 @@ doser
 dosologies
 dosser
 dossiers
+dotard
 doted
 dotings
 dotterel
@@ -6034,6 +6058,7 @@ drapers
 drapets
 draping
 drapping
+drat
 drats
 draw
 drawee
@@ -9476,7 +9501,6 @@ gnawing
 gneiss
 gnomae
 gnomish
-gnomonic
 gnosiology
 goad
 goadsman
@@ -10811,6 +10835,8 @@ ideomotor
 idiogram
 idiom
 idiomatic
+idiot
+idiotic
 idioticon
 idiotisms
 idle
@@ -13916,7 +13942,6 @@ mice
 micell
 micelle
 miched
-miching
 mickeyed
 mickler
 micrifies
@@ -14408,7 +14433,6 @@ mobilize
 mobling
 mobsman
 mocassin
-moch
 mochells
 mochs
 mockage
@@ -15483,7 +15507,6 @@ nonmusics
 nonnatural
 nonnovel
 nonoccurrence
-nonohmic
 nonpagan
 nonpaid
 nonpalatals
@@ -15706,6 +15729,7 @@ ocherous
 ochlophobic
 ochres
 ocotillo
+octad
 octan
 octant
 octants
@@ -19524,6 +19548,7 @@ radiality
 radian
 radians
 radiating
+radiator
 radicals
 radices
 radii
@@ -24713,6 +24738,7 @@ tituled
 tituping
 titupy
 tjanting
+toad
 toadgrass
 toadstool
 toastier
@@ -24852,6 +24878,7 @@ torii
 tormenter
 torments
 tornillos
+toroid
 torosity
 torpedoer
 torpefy
@@ -24859,6 +24886,7 @@ torpor
 torque
 torrefied
 torret
+torrid
 torrified
 torsades
 torsive
@@ -25026,6 +25054,7 @@ trests
 trevis
 treybit
 triacetates
+triad
 triaged
 trialism
 triallist
@@ -25115,6 +25144,7 @@ troaks
 trochal
 trochil
 trochotrons
+trod
 trodden
 troffers
 troika
