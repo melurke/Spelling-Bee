@@ -238,6 +238,7 @@ banning
 banyan
 baobab
 barb
+bard
 barrio
 batboy
 bath
@@ -530,10 +531,13 @@ chia
 chic
 chica
 chichi
+chignon
 chihuahua
 chime
+chiming
 chin
 chinning
+chino
 chip
 chipping
 chit
@@ -602,6 +606,7 @@ cocktail
 cocoa
 coconut
 cocoon
+cocooning
 coda
 code
 coded
@@ -611,6 +616,7 @@ coffin
 coho
 coil
 coin
+coining
 coital
 cola
 colic
@@ -625,6 +631,7 @@ color
 come
 comet
 comic
+coming
 commode
 common
 commotion
@@ -645,12 +652,14 @@ conjoin
 conjoint
 connect
 connection
+conning
 connote
 contact
 content
 contention
 continence
 continent
+cooing
 cookbook
 cool
 coolly
@@ -865,6 +874,7 @@ dram
 drama
 draping
 drat
+drib
 drill
 drip
 dripping
@@ -1234,6 +1244,7 @@ glug
 glut
 gnaw
 gnawing
+gnocchi
 goby
 godhood
 gong
@@ -1345,6 +1356,7 @@ hold
 hole
 holed
 holt
+honcho
 hone
 honey
 honeypot
@@ -1424,6 +1436,7 @@ incited
 inciting
 incline
 inclining
+incoming
 incontinence
 incontinent
 indecent
@@ -1803,6 +1816,7 @@ moat
 mobbed
 mobile
 mobilize
+mochi
 molar
 mole
 moll
@@ -1817,6 +1831,7 @@ monotone
 monotony
 monte
 mooch
+mooching
 mood
 moola
 moon

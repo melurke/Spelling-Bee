@@ -22,7 +22,6 @@ aberrants
 abetments
 abettor
 abfarad
-abid
 abiding
 abiosis
 abjurer
@@ -1537,7 +1536,6 @@ bailor
 bailsman
 bairns
 bait
-baith
 baizes
 bajra
 bake
@@ -1657,7 +1655,6 @@ barnyards
 barograph
 barongs
 barostats
-barra
 barracker
 barracuda
 barrancas
@@ -3559,6 +3556,7 @@ chiefly
 chiefship
 chiels
 chiffons
+chignon
 chigre
 chihuahua
 chikhors
@@ -3575,6 +3573,7 @@ chime
 chimere
 chimerism
 chimichanga
+chiming
 chimley
 chimp
 chin
@@ -3584,6 +3583,7 @@ chinchillas
 chinese
 chinkie
 chinning
+chino
 chins
 chip
 chipmuck
@@ -3961,6 +3961,7 @@ cocoas
 cocomposer
 coconut
 cocoon
+cocooning
 cocoplum
 cocoyams
 coculture
@@ -4025,6 +4026,7 @@ coiled
 coin
 coincided
 coined
+coining
 coins
 coital
 cojoined
@@ -4107,6 +4109,7 @@ comforts
 comfy
 comic
 comice
+coming
 comingling
 comitia
 comix
@@ -4268,6 +4271,7 @@ connect
 connection
 connections
 connes
+conning
 conniptions
 connivent
 connotation
@@ -4323,6 +4327,7 @@ convoked
 convolvuli
 cooccur
 cooeying
+cooing
 cooings
 cookbook
 cookers
@@ -9499,6 +9504,7 @@ gnaw
 gnawed
 gnawing
 gneiss
+gnocchi
 gnomae
 gnomish
 gnosiology
@@ -10548,6 +10554,7 @@ homosex
 homospory
 homotonous
 homotypy
+honcho
 hond
 hone
 honesties
@@ -11129,6 +11136,7 @@ inclipped
 include
 incognito
 income
+incoming
 incomings
 inconclusions
 inconscious
@@ -14434,6 +14442,7 @@ mobling
 mobsman
 mocassin
 mochells
+mochi
 mochs
 mockage
 mockery
@@ -14615,6 +14624,7 @@ monument
 monurons
 mooch
 mooches
+mooching
 mood
 moodier
 moodiness
