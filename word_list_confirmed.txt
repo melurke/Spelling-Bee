@@ -314,6 +314,9 @@ biome
 biota
 biotech
 biotic
+bird
+birdbath
+birth
 bite
 bivalve
 blab
@@ -404,6 +407,8 @@ bowing
 bowl
 bowling
 bowwow
+brad
+braid
 brat
 brava
 bravo
@@ -866,6 +871,7 @@ dowel
 down
 downed
 downtown
+drab
 drag
 dragging
 drain
@@ -1725,6 +1731,7 @@ maim
 maimed
 majorly
 mako
+malaprop
 male
 mall
 mallard
@@ -1739,6 +1746,7 @@ mane
 maniac
 manic
 manna
+manor
 manta
 many
 marm
@@ -1843,6 +1851,7 @@ mopey
 moppet
 moral
 morally
+morn
 mote
 motet
 motion
@@ -1869,6 +1878,7 @@ nana
 nanny
 nannying
 nanobot
+napalm
 napping
 narc
 nary
@@ -1932,6 +1942,7 @@ noob
 noon
 nope
 nori
+normal
 notation
 note
 notice
@@ -2047,6 +2058,7 @@ pappy
 parading
 paranoia
 paranoid
+paranormal
 patch
 pate
 path
@@ -2193,6 +2205,7 @@ quieting
 quitting
 rabbi
 rabbit
+rabid
 racy
 radar
 radial
@@ -2251,6 +2264,7 @@ runaround
 runny
 rural
 rutty
+tabard
 tabby
 taboo
 tabor
