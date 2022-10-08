@@ -19,6 +19,7 @@ accrual
 accuracy
 aced
 ache
+ached
 achy
 acid
 acidic
@@ -28,6 +29,7 @@ acne
 acrid
 actuary
 adage
+added
 addend
 addenda
 addict
@@ -59,6 +61,8 @@ agile
 agog
 ahead
 ahem
+aide
+aided
 aiding
 aimed
 aioli
@@ -440,9 +444,12 @@ cabin
 cable
 cacao
 cache
+cached
 cackle
 cackled
 cacti
+caddie
+caddied
 cadence
 cadge
 cadged
@@ -518,6 +525,7 @@ cellblock
 celli
 cello
 cent
+chad
 chai
 chair
 challah
@@ -536,6 +544,7 @@ chia
 chic
 chica
 chichi
+chickadee
 chignon
 chihuahua
 chime
@@ -703,6 +712,8 @@ curl
 curry
 cutout
 cyan
+dace
+dacha
 daddy
 dahlia
 daily
@@ -725,6 +736,7 @@ data
 dawn
 daybed
 daylily
+dead
 deaden
 deadened
 deadeye
@@ -738,6 +750,7 @@ debited
 debone
 deboned
 debt
+decade
 decadence
 decedent
 deceit
@@ -1284,10 +1297,14 @@ guppy
 gutting
 habit
 habitat
+hack
+hacked
 haggle
 hail
 hailed
 hair
+haka
+hake
 halal
 hale
 hall
@@ -1306,6 +1323,7 @@ hath
 hatha
 haven
 head
+headache
 headed
 heal
 healable
@@ -1398,6 +1416,7 @@ icicle
 icing
 icon
 iconic
+idea
 idiom
 idiot
 idiotic
@@ -1518,6 +1537,7 @@ keeled
 kente
 ketch
 kettle
+khaki
 kick
 kickback
 kickball
@@ -2614,6 +2634,7 @@ wowed
 wowing
 wring
 wringing
+yahoo
 yang
 yappy
 yarn

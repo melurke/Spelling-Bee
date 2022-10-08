@@ -121,6 +121,7 @@ acetum
 acetyls
 achates
 ache
+ached
 achiest
 achinesses
 acholia
@@ -168,6 +169,7 @@ adaptednesses
 adaption
 adaptors
 adays
+added
 addend
 addenda
 addends
@@ -367,6 +369,8 @@ ahead
 ahem
 ahold
 aidances
+aide
+aided
 aiding
 aiglet
 aiguillette
@@ -2898,6 +2902,8 @@ cacotopian
 cacti
 cacuminal
 cadavers
+caddie
+caddied
 caddises
 cadees
 cadence
@@ -3446,7 +3452,6 @@ chank
 channel
 channer
 chanter
-chao
 chap
 chaparral
 chapatti
@@ -3551,6 +3556,7 @@ chicaning
 chicest
 chichi
 chichis
+chickadee
 chickening
 chickweed
 chicons
@@ -3911,7 +3917,6 @@ clyping
 cnidocil
 coachee
 coachloads
-coachy
 coact
 coactor
 coagency
@@ -4888,7 +4893,9 @@ czarina
 czaritza
 dabbing
 dabbling
+dace
 daces
+dacha
 dackered
 dactylar
 dadaistic
@@ -5027,6 +5034,7 @@ daytrader
 dazednesses
 dazzlers
 deaconess
+dead
 deadbeats
 deaden
 deadened
@@ -5077,6 +5085,7 @@ debugged
 debunks
 debutant
 decadal
+decade
 decadence
 decades
 decaffs
@@ -9944,6 +9953,8 @@ habitat
 habiting
 haboobs
 hachure
+hack
+hacked
 hackee
 hackies
 hackman
@@ -9988,6 +9999,7 @@ hairless
 hairpins
 hairweaver
 hajj
+haka
 hake
 hakim
 halachot
@@ -10163,6 +10175,7 @@ hazes
 hazmat
 hazzanim
 head
+headache
 headages
 headcases
 headed
@@ -10838,6 +10851,7 @@ iconizes
 iconomatic
 ictal
 icteruses
+idea
 idealised
 idealism
 idealizer
@@ -11972,6 +11986,7 @@ keypad
 keyset
 keyway
 khadis
+khaki
 khalats
 khalifahs
 khamsin
