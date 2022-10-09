@@ -20,6 +20,7 @@ accuracy
 aced
 ache
 ached
+achoo
 achy
 acid
 acidic
@@ -61,6 +62,7 @@ agile
 agog
 ahead
 ahem
+ahoy
 aide
 aided
 aiding
@@ -116,6 +118,8 @@ anally
 analyzing
 anarchy
 anatomy
+ancho
+anchovy
 andiron
 android
 anemia
@@ -142,6 +146,7 @@ antitoxin
 antonym
 antonymy
 anvil
+anyhoo
 anyone
 apace
 apathy
@@ -607,6 +612,7 @@ clomp
 clone
 clop
 cloy
+coach
 coact
 coal
 coat
@@ -673,6 +679,7 @@ content
 contention
 continence
 continent
+convoy
 cooing
 cookbook
 cool
@@ -1322,6 +1329,7 @@ hate
 hath
 hatha
 haven
+havoc
 head
 headache
 headed
@@ -1884,6 +1892,7 @@ myope
 naan
 nabbing
 nabob
+nacho
 nada
 nadir
 nagged
@@ -1969,6 +1978,7 @@ notice
 notion
 nought
 noun
+nova
 nubbin
 nubby
 nucleon

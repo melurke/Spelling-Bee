@@ -125,6 +125,7 @@ ached
 achiest
 achinesses
 acholia
+achoo
 achromic
 achy
 aciculums
@@ -368,6 +369,7 @@ aguizes
 ahead
 ahem
 ahold
+ahoy
 aidances
 aide
 aided
@@ -738,7 +740,9 @@ anathemas
 anatomists
 anatomy
 anattas
+ancho
 anchor
+anchovy
 anchusins
 ancillas
 ancome
@@ -832,7 +836,6 @@ antefixae
 antemortem
 antennary
 antepasts
-antetype
 anthemed
 anthill
 anthozoans
@@ -888,6 +891,7 @@ anurans
 anuses
 anvil
 anxiety
+anyhoo
 anymore
 anyone
 anyu
@@ -3915,6 +3919,7 @@ cluttery
 clyped
 clyping
 cnidocil
+coach
 coachee
 coachloads
 coact
@@ -4335,6 +4340,7 @@ convictive
 convived
 convoked
 convolvuli
+convoy
 cooccur
 cooeying
 cooing
@@ -10159,6 +10165,7 @@ hauteurs
 haven
 haverels
 haviour
+havoc
 hawkbell
 hawkeys
 hawks
@@ -12545,7 +12552,6 @@ lentos
 leopard
 lepid
 leporine
-leppy
 leproserie
 leprosy
 lepta
@@ -15123,6 +15129,7 @@ nabbing
 nabob
 nabs
 naches
+nacho
 nacres
 nada
 nadir
@@ -15198,7 +15205,6 @@ nasals
 naseberries
 nastaliks
 nasty
-natantly
 natches
 nathemo
 nation
@@ -15616,6 +15622,7 @@ noun
 noup
 noursles
 nousles
+nova
 novalia
 novelette
 novelle
@@ -17937,7 +17944,6 @@ platting
 platys
 platysmas
 play
-playa
 playacts
 playbills
 playbus
@@ -25410,7 +25416,6 @@ typify
 typings
 typo
 typology
-typy
 tyrannesses
 tyranting
 tyro
@@ -27088,7 +27093,6 @@ yang
 yanker
 yantra
 yapok
-yapp
 yappie
 yapping
 yappy
@@ -27114,7 +27118,6 @@ yclad
 ycleped
 yeads
 yeah
-yean
 yearded
 yearner
 yeast
