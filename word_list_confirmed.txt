@@ -156,6 +156,7 @@ aphid
 apian
 apianaping
 apiece
+aplenty
 apogee
 apolitical
 appall
@@ -1526,6 +1527,7 @@ iota
 iron
 italic
 itch
+itching
 item
 itty
 ivied
@@ -1604,6 +1606,7 @@ lank
 laptop
 lard
 lately
+latently
 lath
 lathe
 latke
@@ -1622,6 +1625,7 @@ leaflet
 leak
 leaked
 lean
+leanly
 leave
 leaven
 lede
@@ -1912,10 +1916,12 @@ napping
 narc
 nary
 nation
+natty
 naval
 nave
 navel
 neath
+neatly
 necktie
 need
 needed
@@ -2079,6 +2085,7 @@ pang
 panic
 panini
 panning
+panty
 papa
 papal
 papally
@@ -2091,6 +2098,7 @@ paranoid
 paranormal
 patch
 pate
+patently
 path
 patio
 patly
@@ -2105,6 +2113,8 @@ peel
 peen
 peep
 peeped
+penally
+penalty
 pence
 pend
 pended
@@ -2172,6 +2182,8 @@ plait
 plat
 play
 playlet
+playpen
+plenty
 plop
 plot
 ploy
@@ -2430,6 +2442,7 @@ tippy
 tiptop
 titan
 tithe
+tithing
 titillate
 title
 tittle
@@ -2490,6 +2503,7 @@ tweedled
 tween
 tweet
 tweeted
+twig
 twilit
 twill
 twin
@@ -2628,6 +2642,7 @@ winnow
 winnowing
 wino
 wiring
+with
 wobbling
 woman
 wont
@@ -2652,6 +2667,7 @@ yeah
 yell
 yelled
 yelp
+yenta
 yente
 yoga
 yoohoo

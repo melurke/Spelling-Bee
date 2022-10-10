@@ -939,6 +939,7 @@ apishness
 apism
 aplanatic
 aplastic
+aplenty
 aplomb
 apneas
 apnoeal
@@ -10416,7 +10417,6 @@ highlighted
 highlighting
 highmen
 highspot
-highth
 hijack
 hijras
 hiking
@@ -12393,6 +12393,7 @@ late
 lately
 latence
 latent
+latently
 laterality
 laterize
 latewood
@@ -12467,6 +12468,7 @@ leakless
 leamed
 lean
 leaning
+leanly
 leap
 leaping
 leares
@@ -15213,6 +15215,7 @@ nativenesses
 nativity
 natterers
 nattinesses
+natty
 natured
 naumachia
 nauplius
@@ -15235,6 +15238,7 @@ nearer
 nearshore
 neater
 neath
+neatly
 nebbed
 nebbishes
 nebel
@@ -16621,6 +16625,7 @@ pantings
 pantons
 pantry
 pantsuits
+panty
 panzer
 papa
 papadam
@@ -16888,6 +16893,7 @@ patellae
 paten
 patentable
 patenting
+patently
 pater
 patereroes
 pates
@@ -17108,6 +17114,8 @@ pembroke
 pemmican
 pemphix
 penalises
+penally
+penalty
 penance
 penang
 pence
@@ -17955,6 +17963,7 @@ playlet
 playlist
 playmate
 playoffs
+playpen
 plays
 plea
 plead
@@ -17980,6 +17989,7 @@ plenipo
 plenish
 plenism
 plenties
+plenty
 plenum
 pleonic
 pleroma
@@ -24535,7 +24545,6 @@ thicket
 thicking
 thickskin
 thieves
-thigging
 thigh
 thill
 thimble
@@ -25384,7 +25393,6 @@ twisty
 twit
 twitchily
 twittens
-twitting
 twoccer
 twofers
 twopence
@@ -26832,7 +26840,6 @@ wiggier
 wigging
 wiggles
 wiggling
-wighting
 wigwag
 wigwagging
 wigwarm
@@ -27133,6 +27140,7 @@ yelms
 yelp
 yelpers
 yenning
+yenta
 yente
 yeomanry
 yerds
