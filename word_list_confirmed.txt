@@ -55,6 +55,7 @@ affirming
 afflict
 affray
 afoot
+afoul
 agaze
 aged
 agenda
@@ -1167,6 +1168,7 @@ flit
 floe
 flood
 flooded
+flora
 flounce
 flout
 fluff
@@ -1182,6 +1184,7 @@ foodie
 fool
 fooled
 foot
+form
 fought
 foul
 frag
@@ -1189,6 +1192,7 @@ fragging
 framing
 friar
 fringing
+from
 fugu
 full
 gabbing
@@ -1380,9 +1384,12 @@ hilled
 hilt
 hinging
 hint
+hinting
 hippie
 hitch
 hitchhike
+hitching
+hitting
 hobbit
 hobo
 hold
@@ -1949,6 +1956,7 @@ nicking
 nicotine
 niece
 nigh
+night
 nine
 ninepin
 nineteen
@@ -2297,11 +2305,14 @@ roil
 roll
 rondo
 rood
+room
+roomful
 rotary
 rotatory
 round
 royal
 royally
+rumor
 runaround
 runny
 rural
@@ -2404,7 +2415,9 @@ thicket
 thigh
 thin
 thine
+thing
 think
+thinning
 thong
 thou
 though
@@ -2507,7 +2520,12 @@ twig
 twilit
 twill
 twin
+twinging
+twining
+twinning
 twit
+twitch
+twitching
 type
 typhoon
 typo
@@ -2621,8 +2639,11 @@ wend
 wended
 went
 wetted
+whit
+whiting
 wigging
 wiggling
+wight
 wigwag
 wigwagging
 wigwarm
@@ -2642,7 +2663,11 @@ winnow
 winnowing
 wino
 wiring
+witch
+witching
 with
+within
+witting
 wobbling
 woman
 wont
