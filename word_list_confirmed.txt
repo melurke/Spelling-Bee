@@ -56,6 +56,7 @@ afflict
 affray
 afoot
 afoul
+afro
 agaze
 aged
 agenda
@@ -104,6 +105,7 @@ ally
 allying
 aloe
 aloha
+aloof
 alpaca
 alpha
 although
@@ -113,6 +115,7 @@ ammo
 amok
 amoral
 amorally
+amour
 amyl
 anal
 anally
@@ -178,6 +181,8 @@ aria
 arid
 aril
 armada
+armor
+aroma
 around
 array
 arthritic
@@ -1069,6 +1074,7 @@ fall
 fallacy
 fallback
 fallen
+falloff
 fang
 fanning
 fantail
@@ -1078,6 +1084,7 @@ faring
 farm
 farming
 farmland
+farro
 fatal
 fatality
 fatally
@@ -1168,10 +1175,15 @@ flit
 floe
 flood
 flooded
+floor
 flora
+floral
 flounce
+flour
 flout
 fluff
+foal
+foam
 fobbed
 foible
 fold
@@ -1184,17 +1196,24 @@ foodie
 fool
 fooled
 foot
+fora
 form
+formal
+formula
+forum
 fought
 foul
+four
 frag
 fragging
 framing
 friar
 fringing
 from
+froufrou
 fugu
 full
+furor
 gabbing
 gabbling
 gadded
@@ -1349,6 +1368,7 @@ heat
 heath
 heathen
 heaven
+heck
 hectic
 hedge
 hedged
@@ -1703,6 +1723,7 @@ livid
 lividly
 llama
 llano
+loaf
 loam
 loamy
 loan
@@ -1726,6 +1747,7 @@ lollipop
 lollop
 lone
 longbow
+loofa
 look
 looked
 loom
@@ -1884,6 +1906,7 @@ moola
 moon
 moonwalk
 moony
+moor
 moot
 mope
 mopey
@@ -2016,6 +2039,7 @@ octillion
 octopi
 ocular
 odor
+offal
 offed
 ogee
 oiled
@@ -2297,6 +2321,7 @@ rill
 rind
 riparian
 road
+roam
 roan
 roar
 robot
@@ -2305,6 +2330,7 @@ roil
 roll
 rondo
 rood
+roof
 room
 roomful
 rotary
