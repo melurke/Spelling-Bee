@@ -540,6 +540,8 @@ cent
 chad
 chai
 chair
+chalk
+chalked
 challah
 challenge
 chance
@@ -552,6 +554,9 @@ chap
 char
 chary
 chat
+check
+checked
+cheek
 chia
 chic
 chica
@@ -593,6 +598,7 @@ cited
 citify
 citing
 citric
+citron
 clack
 clacked
 clam
@@ -714,6 +720,7 @@ coyly
 cranny
 critic
 croc
+croci
 crunch
 crunchy
 cuing
@@ -1330,6 +1337,7 @@ habit
 habitat
 hack
 hacked
+hackle
 haggle
 hail
 hailed
@@ -1369,6 +1377,8 @@ heath
 heathen
 heaven
 heck
+heckle
+heckled
 hectic
 hedge
 hedged
@@ -1647,6 +1657,7 @@ laypeople
 lazily
 lazy
 leach
+leached
 leaf
 leaflet
 leak
@@ -1655,8 +1666,11 @@ lean
 leanly
 leave
 leaven
+lech
 lede
 ledge
+leech
+leeched
 leek
 left
 leftie
@@ -2310,12 +2324,14 @@ raunchy
 rial
 ribbit
 rich
+ricin
 ridding
 ridging
 riding
 riff
 riffing
 riffraff
+rift
 rigid
 rill
 rind
@@ -2333,6 +2349,7 @@ rood
 roof
 room
 roomful
+root
 rotary
 rotatory
 round
@@ -2507,6 +2524,7 @@ topcoat
 tope
 topic
 topical
+torii
 toroid
 torrid
 tote

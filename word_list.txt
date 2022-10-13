@@ -3432,6 +3432,8 @@ chais
 chalan
 chalazia
 chalice
+chalk
+chalked
 challah
 challenge
 chalone
@@ -3507,13 +3509,16 @@ cheapjack
 cheapo
 cheated
 chechakoes
+check
 checkable
+checked
 checkered
 checkmark
 checkroom
 checksums
 cheddary
 cheechakoes
+cheek
 cheekful
 cheekpiece
 cheeky
@@ -7890,7 +7895,6 @@ fickling
 ficos
 fiction
 fictionists
-fictor
 fiddious
 fiddle
 fiddled
@@ -8029,7 +8033,6 @@ finnochio
 finnsko
 finocchios
 fins
-fiorin
 fippence
 fipple
 fiques
@@ -8855,7 +8858,6 @@ frons
 fronted
 fronting
 frontman
-frontoon
 frore
 frory
 frostbit
@@ -9971,6 +9973,7 @@ hachure
 hack
 hacked
 hackies
+hackle
 hackman
 hacksaws
 hadding
@@ -10243,6 +10246,8 @@ heavy
 hebes
 hebetudes
 heck
+heckle
+heckled
 hecogenin
 hectic
 hectometre
@@ -11485,7 +11490,6 @@ intombs
 intonation
 intonational
 intoner
-intort
 intoxication
 intranational
 intravitam
@@ -11556,7 +11560,6 @@ iridised
 iridiums
 iridotomy
 irisation
-iritic
 irokos
 iron
 irones
@@ -12455,6 +12458,7 @@ lazy
 lazyish
 leach
 leachates
+leached
 leaded
 leader
 leadfeet
@@ -12491,6 +12495,7 @@ leave
 leaven
 leaver
 leazes
+lech
 lecher
 lechwes
 lectins
@@ -12500,6 +12505,8 @@ lede
 ledge
 ledges
 ledum
+leech
+leeched
 leek
 leeks
 leeps
@@ -15929,7 +15936,6 @@ onetime
 onfalls
 ongoings
 onion
-oniric
 onlay
 onliest
 onlooker
@@ -24758,7 +24764,6 @@ tipuna
 tiramisu
 tiredly
 tires
-tiro
 tirrivee
 tisicks
 tiswas
@@ -25221,7 +25226,6 @@ tropists
 tropophyte
 troppo
 troths
-trottoir
 trough
 troupe
 troupes
