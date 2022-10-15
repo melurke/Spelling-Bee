@@ -101,6 +101,7 @@ allow
 alloy
 allude
 alluded
+alluring
 ally
 allying
 aloe
@@ -130,6 +131,7 @@ anemia
 anemic
 angel
 angle
+angular
 anime
 anion
 annal
@@ -141,6 +143,8 @@ annually
 annul
 annular
 annularly
+annuli
+annulling
 anoint
 anon
 anoxia
@@ -177,6 +181,7 @@ archaic
 arco
 arctic
 ardor
+arguing
 aria
 arid
 aril
@@ -187,6 +192,7 @@ around
 array
 arthritic
 arty
+arugula
 athlete
 atilt
 atom
@@ -199,6 +205,8 @@ attacked
 attain
 attempt
 attic
+augur
+auguring
 aura
 aural
 aurora
@@ -1242,6 +1250,7 @@ gang
 ganged
 gangly
 gaping
+gauging
 gayly
 gaze
 gazed
@@ -1298,6 +1307,8 @@ glided
 glow
 glowing
 glug
+glugging
+gluing
 glut
 gnaw
 gnawing
@@ -1322,16 +1333,22 @@ grandad
 granddad
 grandpa
 grandpapa
+granular
 grid
 griffin
 grind
 grinding
+guar
 guff
+gulag
 gulf
 gull
+gulling
 gunk
 gunning
 guppy
+gurgling
+guru
 gutting
 habit
 habitat
@@ -1475,6 +1492,7 @@ idyll
 iffy
 ignite
 igniting
+iguana
 iliac
 illegal
 illicit
@@ -1498,6 +1516,7 @@ impenitent
 imply
 impotent
 inane
+inaugural
 inch
 inching
 incidence
@@ -1551,6 +1570,9 @@ intent
 into
 intonation
 intuiting
+inuring
+inurn
+inurning
 invalid
 invent
 invented
@@ -1720,6 +1742,7 @@ limply
 line
 lineal
 linen
+linguini
 linnet
 lint
 lintel
@@ -1781,13 +1804,19 @@ loyal
 loyally
 luau
 lubing
+lugging
+luging
 lull
+lulling
 lulu
 lump
 lumpy
 luna
 lunar
+lung
+lunging
 lunula
+luring
 lying
 lynx
 mace
@@ -1900,6 +1929,7 @@ mobbed
 mobile
 mobilize
 mochi
+mohawk
 molar
 mole
 moll
@@ -2035,6 +2065,7 @@ nubby
 nucleon
 nugget
 nuking
+null
 nunchuck
 nunchuk
 nylon
@@ -2355,8 +2386,14 @@ rotatory
 round
 royal
 royally
+ruin
+ruing
+ruining
+ruling
 rumor
 runaround
+rung
+running
 runny
 rural
 rutty
@@ -2507,6 +2544,7 @@ toccata
 tofu
 toil
 tomate
+tomato
 tomb
 tome
 tomtit
@@ -2586,6 +2624,7 @@ unction
 unguent
 unhinging
 unhung
+unilingual
 uniting
 unkink
 unkinking
@@ -2594,6 +2633,8 @@ unpen
 unpenned
 unpin
 unpinned
+unrig
+unrigging
 unthought
 unto
 untuning
@@ -2606,7 +2647,9 @@ upon
 upped
 uppity
 uptilt
+urging
 uric
+urinal
 vain
 valance
 vale
@@ -2683,6 +2726,7 @@ wend
 wended
 went
 wetted
+whammo
 whit
 whiting
 wigging

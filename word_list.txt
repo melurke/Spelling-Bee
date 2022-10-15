@@ -528,6 +528,7 @@ allspices
 allude
 alluded
 allurers
+alluring
 alluvials
 ally
 allying
@@ -774,6 +775,7 @@ anglifying
 angola
 angriness
 anguifaunae
+angular
 angulating
 aniconisms
 anilingus
@@ -812,6 +814,7 @@ annul
 annular
 annularly
 annuli
+annulling
 annunciate
 anodal
 anodising
@@ -1100,6 +1103,7 @@ argle
 argons
 argue
 argufy
+arguing
 argyles
 arhatship
 aria
@@ -1180,6 +1184,7 @@ artless
 artsman
 arty
 arugolas
+arugula
 arums
 aryls
 asar
@@ -1359,7 +1364,9 @@ audiles
 auditee
 aufgabe
 augers
+augur
 augural
+auguring
 august
 augusts
 auldest
@@ -9215,6 +9222,7 @@ gauded
 gauds
 gauffer
 gaufres
+gauging
 gaugings
 gaumier
 gaumy
@@ -9515,6 +9523,7 @@ glucinum
 gluepot
 glug
 glugged
+glugging
 gluing
 glumella
 glummer
@@ -9702,6 +9711,7 @@ granitas
 grannie
 grans
 grantor
+granular
 granum
 graperies
 grapeseeds
@@ -9855,6 +9865,7 @@ guaiacs
 guanas
 guanidin
 guanos
+guar
 guarantor
 guarded
 guardroom
@@ -9881,6 +9892,7 @@ guimping
 guipures
 guisers
 guitguit
+gulag
 gulas
 gules
 gulf
@@ -9889,6 +9901,7 @@ gulfy
 gull
 gullery
 gullible
+gulling
 gullwings
 gulper
 gulpier
@@ -9919,10 +9932,12 @@ gunters
 guppy
 gups
 gurging
+gurgling
 gurgoyle
 gurling
 gurnets
 gurry
+guru
 guruisms
 gushed
 gushinesses
@@ -10914,6 +10929,7 @@ ignitrons
 ignominies
 ignorami
 ignoring
+iguana
 ihram
 ikebana
 ileitis
@@ -11507,6 +11523,9 @@ intwine
 inukshuk
 inure
 inurement
+inuring
+inurn
+inurning
 inusitate
 inutilities
 invaginating
@@ -12738,6 +12757,7 @@ lingerer
 lingier
 lings
 linguine
+linguini
 lingular
 liniments
 linkboy
@@ -13011,8 +13031,11 @@ luff
 luffing
 luges
 luggie
+lugging
+luging
 lugsail
 lull
+lulling
 lulls
 lulu
 lumbang
@@ -13050,6 +13073,7 @@ lupulinic
 lurched
 lurdens
 lurgi
+luring
 luringly
 lurry
 lushes
@@ -14529,7 +14553,6 @@ moistnesses
 moits
 mojoes
 moke
-moko
 molar
 molars
 mold
@@ -14668,7 +14691,6 @@ mood
 moodier
 moodiness
 moodying
-mook
 moola
 moolas
 mooli
@@ -15674,6 +15696,7 @@ nuggars
 nugget
 nukes
 nuking
+null
 nullifidian
 nullify
 nullnesses
@@ -20909,7 +20932,10 @@ rugged
 ruggedly
 ruggings
 rugous
+ruin
 ruiner
+ruing
+ruining
 ruinousnesses
 ruler
 ruling
@@ -20939,9 +20965,11 @@ runaround
 runaway
 rundled
 runelike
+rung
 runic
 runnable
 runnerup
+running
 runnion
 runny
 runovers
@@ -25708,6 +25736,7 @@ unicycling
 unified
 unifilar
 unifyings
+unilingual
 unimmunized
 uninitiate
 unintelligent
@@ -25837,6 +25866,7 @@ unreserved
 unretentive
 unrewarded
 unrig
+unrigging
 unrip
 unripenesses
 unrippings
@@ -26092,8 +26122,10 @@ uresis
 urethane
 uretic
 urgers
+urging
 uric
 uricase
+urinal
 urinaries
 urinemia
 urman
