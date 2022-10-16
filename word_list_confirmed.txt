@@ -1296,6 +1296,7 @@ glade
 glance
 glaze
 glazed
+glazing
 glazy
 glean
 glee
@@ -1449,6 +1450,8 @@ honey
 honeypot
 hooch
 hooey
+hook
+hookah
 hoop
 hoot
 hope
@@ -1632,6 +1635,8 @@ koala
 koan
 kohl
 kola
+kook
+kowtow
 label
 labia
 labial
@@ -1844,6 +1849,7 @@ mama
 mamma
 mammal
 mammon
+mammoth
 manatee
 mandala
 mane
@@ -1960,6 +1966,7 @@ morally
 morn
 mote
 motet
+moth
 motion
 motto
 mown
@@ -2543,6 +2550,7 @@ toad
 toccata
 tofu
 toil
+tomahawk
 tomate
 tomato
 tomb
@@ -2553,6 +2561,7 @@ tong
 tonic
 tonne
 tony
+took
 toolkit
 toon
 toot
@@ -2698,6 +2707,7 @@ vote
 voted
 votive
 wagging
+wahoo
 wail
 wait
 walk
@@ -2729,6 +2739,8 @@ wetted
 whammo
 whit
 whiting
+whoa
+whom
 wigging
 wiggling
 wight
@@ -2764,6 +2776,7 @@ wood
 wooded
 wooden
 wooed
+woohoo
 wooing
 wool
 woolen
@@ -2796,6 +2809,7 @@ zigzag
 zigzagged
 zigzaggy
 zine
+zinging
 zingy
 zinnia
 zipped

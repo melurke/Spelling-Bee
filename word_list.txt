@@ -350,7 +350,6 @@ agloos
 agmas
 agname
 agnations
-agnizing
 agnominal
 agog
 agon
@@ -798,7 +797,6 @@ anklongs
 anlage
 annal
 annalises
-annalizing
 anneal
 anneals
 annexe
@@ -1473,7 +1471,6 @@ ayahuasco
 ayins
 ayword
 azide
-azlon
 azollas
 azotes
 azotizes
@@ -9240,7 +9237,6 @@ gawpus
 gayals
 gayly
 gays
-gazania
 gaze
 gazed
 gazelle
@@ -9518,7 +9514,6 @@ glow
 glowfly
 glowing
 glowlamp
-glozing
 glucinum
 gluepot
 glug
@@ -10633,6 +10628,8 @@ hooey
 hoofbeat
 hoofers
 hoofrot
+hook
+hookah
 hookahs
 hookeys
 hooklike
@@ -12185,6 +12182,7 @@ komatik
 komissar
 komondorock
 konked
+kook
 kookaburra
 kookinesses
 kopeck
@@ -12200,6 +12198,7 @@ koulan
 koumiss
 koumyss
 koussos
+kowtow
 kowtowing
 kraft
 kramerias
@@ -13331,6 +13330,7 @@ mammograms
 mammon
 mammonish
 mammonists
+mammoth
 mammoths
 mamselles
 manacling
@@ -14821,6 +14821,7 @@ mote
 motelier
 motet
 motettists
+moth
 mothball
 motherhood
 mothier
@@ -24867,6 +24868,7 @@ tolt
 toluene
 toluole
 tolzey
+tomahawk
 toman
 tomate
 tomato
@@ -24909,6 +24911,7 @@ tonometers
 tonsilitises
 tonsures
 tony
+took
 toolbars
 toolhouse
 toolkit
@@ -26551,6 +26554,7 @@ wagging
 waggon
 wagonages
 wagsome
+wahoo
 waid
 waifing
 waifts
@@ -26858,8 +26862,10 @@ whitlows
 whittaws
 whittling
 whizzers
+whoa
 wholemeal
 wholism
+whom
 whommle
 whomp
 whomps
@@ -27054,6 +27060,7 @@ wooer
 woofer
 woofing
 woofy
+woohoo
 wooing
 wool
 woolders
@@ -27346,7 +27353,6 @@ zirconia
 zithers
 ziti
 zizels
-zizzing
 zlotych
 zoarium
 zoccolo
