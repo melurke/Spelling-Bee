@@ -354,6 +354,7 @@ agnominal
 agog
 agon
 agonising
+agonizing
 agora
 agoutis
 agraffe
@@ -724,6 +725,7 @@ analcimic
 analgesia
 anally
 analoga
+analogizing
 analogs
 analyser
 analytical
@@ -3706,7 +3708,6 @@ churchy
 churn
 churned
 churro
-chut
 chutnees
 chutzpah
 chylde
@@ -6198,7 +6199,6 @@ dueler
 duelli
 duende
 duets
-duetto
 duffels
 dufferdom
 duffings
@@ -9242,6 +9242,8 @@ gazed
 gazelle
 gazes
 gazier
+gazillion
+gazing
 gazons
 gazpacho
 gazumps
@@ -9600,6 +9602,7 @@ gonk
 gonococcoid
 gonophore
 gonorrhoea
+gonzo
 good
 goodby
 goodies
@@ -11564,6 +11567,7 @@ ionic
 ioniser
 ionium
 ionizes
+ionizing
 ionomer
 iota
 iotacisms
@@ -12471,6 +12475,7 @@ layup
 lazarettes
 lazies
 lazily
+lazing
 lazoes
 lazy
 lazyish
@@ -12775,6 +12780,7 @@ lion
 lioncels
 lionise
 lionization
+lionizing
 lions
 lipases
 lipemia
@@ -15989,6 +15995,7 @@ oospore
 oothecal
 ooze
 ooziest
+oozing
 opacify
 opahs
 opal
@@ -27284,6 +27291,7 @@ zacatons
 zaffars
 zaffirs
 zagged
+zagging
 zags
 zakuska
 zamangs
@@ -27326,10 +27334,13 @@ zhomo
 zibeth
 ziffs
 zigged
+zigging
 zigs
 zigzag
 zigzagged
+zigzagging
 zigzaggy
+zillion
 zills
 zimbs
 zimoccas
@@ -27338,6 +27349,7 @@ zincked
 zincoid
 zine
 zines
+zing
 zinged
 zinging
 zingy
@@ -27362,8 +27374,10 @@ zoiatria
 zoists
 zombify
 zomboruk
+zonal
 zonation
 zoners
+zoning
 zonks
 zonulet
 zoochorous

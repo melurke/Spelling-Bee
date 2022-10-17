@@ -62,6 +62,7 @@ aged
 agenda
 agile
 agog
+agonizing
 ahead
 ahem
 ahoy
@@ -120,6 +121,7 @@ amour
 amyl
 anal
 anally
+analogizing
 analyzing
 anarchy
 anatomy
@@ -905,6 +907,7 @@ door
 doornail
 dorado
 dotard
+douched
 dough
 doughnut
 dour
@@ -1255,6 +1258,8 @@ gayly
 gaze
 gazed
 gazelle
+gazillion
+gazing
 geez
 geld
 gelded
@@ -1317,6 +1322,7 @@ gnocchi
 goby
 godhood
 gong
+gonzo
 good
 gooey
 goon
@@ -1585,6 +1591,7 @@ invite
 invited
 invitee
 ionic
+ionizing
 iota
 iron
 italic
@@ -1682,6 +1689,7 @@ layette
 laying
 laypeople
 lazily
+lazing
 lazy
 leach
 leached
@@ -1752,6 +1760,7 @@ linnet
 lint
 lintel
 lion
+lionizing
 lipo
 lippy
 lira
@@ -2112,6 +2121,7 @@ onlay
 only
 onto
 ooze
+oozing
 opal
 open
 opinion
@@ -2131,6 +2141,7 @@ ottoman
 ought
 ounce
 outcry
+outed
 outfought
 outgo
 outgun
@@ -2510,6 +2521,7 @@ thou
 though
 thought
 thoughtful
+thudded
 thug
 tiara
 tibia
@@ -2577,6 +2589,7 @@ torrid
 tote
 totem
 toucan
+touche
 tough
 tout
 towed
@@ -2596,6 +2609,7 @@ tuft
 tugging
 tulip
 tuning
+tutee
 tutti
 tutting
 tutu
@@ -2802,15 +2816,22 @@ yuca
 yucca
 yurt
 zagged
+zagging
 zanily
 zany
 zigged
+zigging
 zigzag
 zigzagged
+zigzagging
 zigzaggy
+zillion
 zine
+zing
 zinging
 zingy
 zinnia
 zipped
 ziti
+zonal
+zoning
