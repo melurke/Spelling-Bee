@@ -593,6 +593,7 @@ chuppah
 church
 churchy
 churn
+chute
 chutzpah
 ciao
 cicada
@@ -722,10 +723,13 @@ corridor
 cote
 cotillion
 cotton
+couch
+couched
 coulee
 count
 coup
 coupon
+couth
 coyly
 cranny
 critic
@@ -733,6 +737,7 @@ croc
 croci
 crunch
 crunchy
+cued
 cuing
 cull
 cumin
@@ -741,6 +746,7 @@ curacao
 curacy
 curl
 curry
+cute
 cutout
 cyan
 dace
@@ -791,6 +797,10 @@ decided
 deck
 decked
 deckle
+deduce
+deduced
+deduct
+deducted
 deed
 deeded
 deem
@@ -799,6 +809,7 @@ deep
 deepen
 deepened
 default
+defeated
 defied
 defile
 defiled
@@ -829,6 +840,7 @@ denim
 depend
 detect
 detected
+deuce
 devein
 deveined
 devoid
@@ -907,6 +919,7 @@ door
 doornail
 dorado
 dotard
+douche
 douched
 dough
 doughnut
@@ -932,6 +945,12 @@ dripping
 droid
 droll
 drool
+duct
+ducted
+dude
+duded
+duet
+duetted
 dugong
 dugout
 dung
@@ -962,6 +981,8 @@ edge
 edged
 edict
 edified
+educe
+educed
 eely
 efface
 effect
@@ -1053,6 +1074,7 @@ ethanol
 ethic
 ethnic
 ethyl
+etude
 even
 evened
 event
@@ -1073,6 +1095,7 @@ eyed
 eyelet
 eyeteeth
 eyetooth
+fable
 face
 facelift
 facet
@@ -1083,6 +1106,7 @@ facilitate
 facility
 fact
 facticity
+faded
 fail
 faint
 fair
@@ -1122,6 +1146,7 @@ feline
 fell
 fella
 fellate
+fellated
 felled
 felon
 felt
@@ -1174,6 +1199,7 @@ flak
 flan
 flannel
 flat
+flatbed
 flatfeet
 flatline
 flatly
@@ -1466,6 +1492,7 @@ hotdog
 hotel
 hotpot
 hottie
+hued
 huff
 hugging
 hull
@@ -2138,9 +2165,11 @@ orca
 ordain
 ordinal
 ottoman
+ouch
 ought
 ounce
 outcry
+outdo
 outed
 outfought
 outgo
@@ -2521,6 +2550,7 @@ thou
 though
 thought
 thoughtful
+thud
 thudded
 thug
 tiara
@@ -2589,9 +2619,12 @@ torrid
 tote
 totem
 toucan
+touch
 touche
+touched
 tough
 tout
+touted
 towed
 towel
 toweled
@@ -2610,6 +2643,7 @@ tugging
 tulip
 tuning
 tutee
+tutted
 tutti
 tutting
 tutu

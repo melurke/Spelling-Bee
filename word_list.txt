@@ -255,7 +255,6 @@ aerostats
 aesces
 aesthetic
 aestivated
-afald
 afar
 afear
 afears
@@ -1534,7 +1533,6 @@ baetyl
 baffies
 bafflegab
 baffles
-baft
 bagassosis
 bagfuls
 baggies
@@ -1844,7 +1842,6 @@ befell
 beffanas
 befit
 beflag
-befleaed
 beflecks
 beflum
 beflums
@@ -2228,7 +2225,6 @@ blackjacks
 blacktail
 blade
 blading
-blaff
 blags
 blah
 blain
@@ -3708,6 +3704,7 @@ churchy
 churn
 churned
 churro
+chute
 chutnees
 chutzpah
 chylde
@@ -4519,6 +4516,8 @@ cottonmouth
 cottonwoods
 cotwals
 cotypes
+couch
+couched
 couchees
 coudes
 couguar
@@ -4542,6 +4541,7 @@ courser
 courters
 courtroom
 couteaux
+couth
 couthy
 couvade
 covelline
@@ -4771,6 +4771,7 @@ cucumiform
 cuddie
 cuddles
 cudgelled
+cued
 cueist
 cuffed
 cuffle
@@ -4857,6 +4858,7 @@ custard
 custos
 custumals
 cutcherry
+cute
 cuter
 cutesy
 cuticulae
@@ -5159,7 +5161,11 @@ decuple
 decurrent
 dedal
 dedicates
+deduce
+deduced
 deducible
+deduct
+deducted
 deed
 deeded
 deeder
@@ -5486,6 +5492,7 @@ detoxes
 detrain
 detriment
 detuned
+deuce
 deuddarn
 deuterides
 devalled
@@ -6029,6 +6036,7 @@ douar
 doubloons
 doubtful
 doucepere
+douche
 douched
 dough
 doughnut
@@ -6191,14 +6199,20 @@ ducats
 duchy
 duckier
 duckweeds
+duct
+ducted
 ductless
 duddie
+dude
+duded
 dudes
 dudism
 dueler
 duelli
 duende
+duet
 duets
+duetted
 duffels
 dufferdom
 duffings
@@ -6394,6 +6408,8 @@ edified
 edify
 edition
 educate
+educe
+educed
 educing
 eeching
 eeliest
@@ -7188,6 +7204,7 @@ etiology
 etouffees
 etrenne
 ettins
+etude
 etuis
 etymic
 eucains
@@ -7428,7 +7445,6 @@ facular
 fadaises
 faddinesses
 faddism
-faddle
 faddy
 faded
 fadein
@@ -7745,7 +7761,6 @@ felony
 felsitic
 felspars
 felt
-felted
 feltier
 felts
 felwort
@@ -7854,7 +7869,6 @@ fetishism
 fetishists
 fetology
 fetoscope
-fett
 fetter
 fettering
 fettle
@@ -8128,11 +8142,9 @@ fizzled
 fizzling
 fjord
 flabbier
-flabellate
 flaccidly
 flack
 flacket
-flaff
 flaffers
 flagella
 flagellated
@@ -10727,6 +10739,7 @@ huaraches
 hubbubs
 huck
 huddled
+hued
 hueless
 huff
 huffily
@@ -16170,6 +16183,7 @@ ottavino
 ottoman
 ottomans
 oubit
+ouch
 ouchts
 ought
 ouglied
@@ -16195,6 +16209,7 @@ outcompete
 outcrop
 outcry
 outdates
+outdo
 outdodging
 outdoorsy
 outdrop
@@ -24663,6 +24678,7 @@ thru
 thrummers
 thrushes
 thrusts
+thud
 thudded
 thug
 thuggism
@@ -25010,7 +25026,9 @@ totipotent
 totterer
 tottiest
 toucan
+touch
 touche
+touched
 touchups
 tough
 toughie
@@ -25022,6 +25040,7 @@ tourney
 tousers
 tousles
 tout
+touted
 toutier
 touziest
 towages
@@ -25402,6 +25421,7 @@ tutorage
 tutorism
 tutress
 tutsed
+tutted
 tutti
 tutting
 tuttis
