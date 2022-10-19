@@ -46,6 +46,7 @@ adulated
 adult
 aeon
 afar
+affable
 affair
 affect
 affiant
@@ -239,6 +240,8 @@ back
 backfill
 backing
 badly
+baffle
+baffled
 bagging
 baht
 bail
@@ -286,6 +289,7 @@ beef
 beefed
 been
 beet
+befall
 befell
 beget
 begged
@@ -535,6 +539,7 @@ catalpa
 catch
 catchup
 cathartic
+catmint
 cattail
 catty
 caul
@@ -752,6 +757,7 @@ cyan
 dace
 dacha
 daddy
+daft
 dahlia
 daily
 dally
@@ -777,9 +783,11 @@ dead
 deaden
 deadened
 deadeye
+deadfall
 deadhead
 deadheaded
 deadly
+deaf
 dean
 debatably
 debit
@@ -808,7 +816,10 @@ deemed
 deep
 deepen
 deepened
+defat
+defatted
 default
+defeat
 defeated
 defied
 defile
@@ -816,6 +827,9 @@ defiled
 defined
 definite
 definitive
+deflate
+deflated
+deft
 deglaze
 deglazed
 deice
@@ -828,6 +842,7 @@ deked
 delay
 delayable
 delayed
+delft
 deli
 delight
 delighted
@@ -1096,6 +1111,7 @@ eyelet
 eyeteeth
 eyetooth
 fable
+fabled
 face
 facelift
 facet
@@ -1106,6 +1122,7 @@ facilitate
 facility
 fact
 facticity
+fade
 faded
 fail
 faint
@@ -1131,6 +1148,7 @@ fatal
 fatality
 fatally
 fate
+fated
 fatly
 fatten
 fatty
@@ -1154,6 +1172,7 @@ fennel
 feta
 fetal
 fete
+feted
 fettle
 fiat
 fibbed
@@ -1193,6 +1212,7 @@ firm
 firming
 fitly
 fixation
+flab
 flack
 flail
 flak
@@ -1603,6 +1623,7 @@ intel
 intellect
 intelligence
 intent
+intimacy
 into
 intonation
 intuiting
@@ -1721,6 +1742,7 @@ lazy
 leach
 leached
 leaf
+leafed
 leaflet
 leak
 leaked
