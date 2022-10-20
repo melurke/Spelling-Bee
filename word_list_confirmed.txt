@@ -114,6 +114,7 @@ alpha
 although
 amen
 amid
+amity
 ammo
 amok
 amoral
@@ -135,6 +136,7 @@ anemic
 angel
 angle
 angular
+anima
 anime
 anion
 annal
@@ -171,6 +173,8 @@ aplenty
 apogee
 apolitical
 appall
+appeal
+apple
 appliance
 apply
 aptly
@@ -543,6 +547,7 @@ catmint
 cattail
 catty
 caul
+cayman
 cede
 ceded
 ceiling
@@ -1748,6 +1753,7 @@ leak
 leaked
 lean
 leanly
+leap
 leave
 leaven
 lech
@@ -1896,6 +1902,8 @@ mahatma
 maid
 maim
 maimed
+main
+maintain
 majorly
 mako
 malaprop
@@ -1911,6 +1919,7 @@ mammoth
 manatee
 mandala
 mane
+mania
 maniac
 manic
 manna
@@ -1980,10 +1989,13 @@ mined
 mini
 minicam
 minim
+minima
 minion
 minnow
 mint
 minted
+minty
+minyan
 mite
 mitt
 mitten
@@ -2329,6 +2341,7 @@ plat
 play
 playlet
 playpen
+plea
 plenty
 plop
 plot

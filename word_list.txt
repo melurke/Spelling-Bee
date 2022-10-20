@@ -641,6 +641,7 @@ amins
 amirs
 amisses
 amitoses
+amity
 ammeters
 ammiral
 ammo
@@ -779,6 +780,7 @@ angular
 angulating
 aniconisms
 anilingus
+anima
 animalculum
 animalises
 animalist
@@ -3129,7 +3131,6 @@ capitalists
 capitani
 capitation
 capitol
-caple
 caplets
 capnomancy
 capo
@@ -3341,6 +3342,7 @@ caviller
 cavitates
 cavorts
 cawks
+cayman
 caymans
 ceasefire
 ceasings
@@ -3359,7 +3361,6 @@ celebs
 celestas
 celestites
 cell
-cellae
 cellarets
 cellarmen
 cellblock
@@ -6553,7 +6554,6 @@ eloining
 elope
 elopement
 eloping
-elpee
 elsin
 eluates
 eluent
@@ -11711,7 +11711,6 @@ jaggs
 jagless
 jailbait
 jailor
-jalap
 jalapins
 jalops
 jamb
@@ -12006,7 +12005,6 @@ keffiyehs
 kefuffle
 kegging
 keiretsu
-kelep
 kelims
 keloidal
 kelpers
@@ -13265,6 +13263,7 @@ maim
 maimed
 maimedness
 maiming
+main
 mainboom
 mainer
 mainframe
@@ -13273,6 +13272,7 @@ mainlining
 mainmasts
 mains
 mainstays
+maintain
 maintaining
 maintop
 mair
@@ -13406,6 +13406,7 @@ mangos
 mangy
 manhattans
 manhunt
+mania
 maniac
 manias
 manic
@@ -14227,6 +14228,7 @@ minified
 minify
 minilab
 minim
+minima
 minimal
 minimalists
 minimally
@@ -14261,12 +14263,14 @@ mintage
 minted
 mintier
 mints
+minty
 minuet
 minute
 minuteness
 minutest
 minuting
 miny
+minyan
 miombo
 mirabelle
 miracidia
@@ -16568,7 +16572,6 @@ palatial
 palating
 palaverers
 palazzi
-palea
 paled
 palefaces
 palely
@@ -16584,7 +16587,6 @@ paling
 palisades
 palkees
 pall
-palla
 palladous
 pallbearer
 pallescences
@@ -16616,7 +16618,6 @@ palmyras
 palooka
 palp
 palpable
-palpal
 palpating
 palpatory
 palpebras
@@ -17963,7 +17964,6 @@ pizzle
 placard
 placate
 placcat
-place
 placekick
 placemen
 placer
@@ -17998,7 +17998,6 @@ planter
 plantlets
 plantule
 planulate
-plap
 plaque
 plashed
 plashet
