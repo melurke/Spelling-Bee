@@ -2957,7 +2957,6 @@ caking
 cakras
 caladium
 calamari
-calami
 calamite
 calathea
 calcaneus
@@ -2977,7 +2976,6 @@ calf
 calflike
 calico
 califate
-calima
 caliper
 calisayas
 calking
@@ -3794,7 +3792,6 @@ clam
 clamant
 clamberer
 clammed
-clammily
 clammy
 clamorer
 clamp
@@ -3887,7 +3884,6 @@ cliquing
 clitellum
 clitter
 cloaca
-cloacal
 cloaks
 cloches
 clockwork
@@ -4172,7 +4168,6 @@ communing
 communion
 communisms
 commuted
-commy
 comose
 compact
 compacts
@@ -4224,6 +4219,8 @@ conceal
 conceder
 conceit
 conceits
+conceive
+conceived
 concenter
 concentric
 conception
@@ -4299,6 +4296,8 @@ connections
 connes
 conning
 conniptions
+connive
+connived
 connivent
 connotation
 connote
@@ -4342,12 +4341,17 @@ contrite
 controvert
 contusions
 convection
+convene
+convened
 convener
+convenience
 convening
 convergence
 convex
 conveyer
 convictive
+convince
+convinced
 convived
 convoked
 convolvuli
@@ -4546,7 +4550,9 @@ couteaux
 couth
 couthy
 couvade
+cove
 covelline
+coven
 cover
 covers
 coveter
@@ -5124,6 +5130,8 @@ decathlete
 decayers
 decedent
 deceit
+deceive
+deceived
 decelerate
 decennia
 decent
@@ -5515,6 +5523,7 @@ develop
 developes
 deverbal
 deviates
+device
 devildom
 devilism
 devilwood
@@ -7261,10 +7270,14 @@ everts
 everymen
 evhoe
 evicts
+evidence
+evidenced
 evident
 evil
 evildoer
 evils
+evince
+evinced
 evirate
 evitation
 evocate
@@ -11228,6 +11241,7 @@ inconscious
 inconspicuous
 incontinence
 incontinent
+inconvenience
 inconvenienced
 incorrect
 incretion
@@ -11578,6 +11592,8 @@ invited
 invitee
 invitement
 invitingnesses
+invoice
+invoiced
 invoicing
 involved
 inward
@@ -13143,7 +13159,6 @@ lysosomal
 lysozymes
 lytic
 mabe
-macaco
 macadamias
 macadamize
 macahubas
@@ -13290,7 +13305,6 @@ makeready
 makeup
 makimono
 mako
-malacca
 malacoid
 maladapted
 malady
@@ -15710,6 +15724,7 @@ novalia
 novelette
 novelle
 novennial
+novice
 novobiocins
 nowel
 nown
@@ -26414,6 +26429,7 @@ vibrion
 vibrissal
 vicaresses
 vicary
+vice
 vices
 vicinage
 vicomte
@@ -26525,6 +26541,8 @@ vocular
 vodous
 vogiest
 voguier
+voice
+voiced
 voiceovers
 void
 voided

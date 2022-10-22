@@ -504,6 +504,7 @@ calmly
 came
 camel
 cami
+camo
 canal
 canape
 canary
@@ -620,6 +621,7 @@ citify
 citing
 citric
 citron
+civic
 clack
 clacked
 clam
@@ -692,6 +694,8 @@ commotion
 compel
 complex
 conceit
+conceive
+conceived
 conch
 concoct
 concoction
@@ -707,12 +711,19 @@ conjoint
 connect
 connection
 conning
+connive
+connived
 connote
 contact
 content
 contention
 continence
 continent
+convene
+convened
+convenience
+convince
+convinced
 convoy
 cooing
 cookbook
@@ -740,6 +751,8 @@ count
 coup
 coupon
 couth
+cove
+coven
 coyly
 cranny
 critic
@@ -804,6 +817,8 @@ decade
 decadence
 decedent
 deceit
+deceive
+deceived
 decent
 decide
 decided
@@ -863,6 +878,7 @@ detected
 deuce
 devein
 deveined
+device
 devoid
 devote
 devoted
@@ -1098,8 +1114,12 @@ etude
 even
 evened
 event
+evidence
+evidenced
 evident
 evil
+evince
+evinced
 excel
 excellence
 excellent
@@ -1590,6 +1610,8 @@ inclining
 incoming
 incontinence
 incontinent
+inconvenience
+inconvenienced
 indecent
 indict
 indicted
@@ -1643,6 +1665,8 @@ inventive
 invite
 invited
 invitee
+invoice
+invoiced
 ionic
 ionizing
 iota
@@ -2137,6 +2161,7 @@ notion
 nought
 noun
 nova
+novice
 nubbin
 nubby
 nucleon
@@ -2773,6 +2798,7 @@ viand
 vibe
 vibrato
 vibrator
+vice
 video
 videoed
 vied
@@ -2783,6 +2809,8 @@ villanelle
 vine
 vivid
 vividly
+voice
+voiced
 void
 voided
 voodoo
