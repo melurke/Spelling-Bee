@@ -1161,6 +1161,7 @@ fallen
 falloff
 fang
 fanning
+fanny
 fantail
 farad
 farina
@@ -1222,6 +1223,7 @@ filially
 fill
 filled
 fillet
+fillip
 filly
 filth
 filthy
@@ -1243,6 +1245,7 @@ flail
 flak
 flan
 flannel
+flap
 flat
 flatbed
 flatfeet
@@ -1260,6 +1263,7 @@ flied
 flight
 flighty
 flint
+flip
 flit
 floe
 flood
@@ -1618,6 +1622,7 @@ indicted
 indoor
 infant
 infantile
+infantry
 infill
 infinite
 infirm
@@ -2252,6 +2257,7 @@ paging
 paid
 pail
 pain
+painful
 paining
 pair
 palapa
@@ -2334,6 +2340,7 @@ picot
 pidgin
 pied
 pigging
+pilaf
 pill
 pilot
 pimento
@@ -2361,7 +2368,9 @@ pippin
 pita
 pitapat
 pity
+plain
 plait
+plan
 plat
 play
 playlet
@@ -2408,6 +2417,8 @@ pout
 priding
 prior
 puce
+puff
+puffin
 puli
 pull
 pulp
@@ -2418,6 +2429,8 @@ pungency
 punned
 punny
 puny
+pupa
+pupal
 pupil
 puppy
 putout

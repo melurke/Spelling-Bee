@@ -8110,7 +8110,6 @@ firmless
 firmness
 firms
 firrier
-firry
 firstly
 fisc
 fiscs
@@ -8214,6 +8213,7 @@ flanneled
 flannelettes
 flannelly
 flans
+flap
 flapdoodle
 flapless
 flapped
@@ -8326,6 +8326,7 @@ flintier
 flintify
 flintinesses
 flinty
+flip
 flipbook
 flipped
 flippers
@@ -15472,7 +15473,6 @@ nifedipines
 niffer
 niffier
 niffnaffed
-niffy
 niftily
 niger
 nigger
@@ -16553,6 +16553,7 @@ pailletted
 pails
 pain
 painch
+painful
 painims
 paining
 painlessness
@@ -17991,12 +17992,14 @@ plaguer
 plaguing
 plaided
 plaidman
+plain
 plainants
 plainful
 plainly
 plainsman
 plait
 plaits
+plan
 planarian
 planation
 planed
@@ -19297,12 +19300,14 @@ pueblos
 puerilely
 puerperal
 puerperiums
+puff
 puffball
 puffbird
 puffer
 puffers
 puffier
 puffily
+puffin
 puffiness
 puffing
 puffins
@@ -19405,7 +19410,9 @@ punter
 punto
 puntsmen
 puny
+pupa
 pupae
+pupal
 puparium
 pupates
 pupfish
@@ -20720,7 +20727,6 @@ riflery
 riflip
 rift
 riftiest
-rifty
 riggers
 rightening
 rightism
@@ -25131,7 +25137,6 @@ tramps
 tramroads
 tranchet
 trangam
-tranny
 transandean
 transeptate
 transfer
@@ -27228,7 +27233,6 @@ yammers
 yamun
 yang
 yanker
-yantra
 yapok
 yappie
 yapping
