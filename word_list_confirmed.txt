@@ -51,6 +51,7 @@ affair
 affect
 affiant
 affiliate
+affinity
 affirm
 affirming
 afflict
@@ -1060,6 +1061,7 @@ emcee
 emceeing
 emend
 emended
+emetic
 eminence
 eminent
 emit
@@ -1300,7 +1302,10 @@ four
 frag
 fragging
 framing
+fratty
+fray
 friar
+friary
 fringing
 from
 froufrou
@@ -1601,6 +1606,7 @@ impenitent
 imply
 impotent
 inane
+inanity
 inaugural
 inch
 inching
@@ -1625,6 +1631,7 @@ infantile
 infantry
 infill
 infinite
+infinity
 infirm
 infirming
 inflate
@@ -2128,6 +2135,7 @@ nick
 nicking
 nicotine
 niece
+nifty
 nigh
 night
 nine
@@ -2460,6 +2468,7 @@ rail
 railroad
 rain
 raindrop
+rainy
 raita
 raja
 rally
@@ -2469,6 +2478,8 @@ rand
 rani
 rapid
 rapini
+rarity
+ratify
 ratty
 raunch
 raunchy
@@ -2633,6 +2644,7 @@ ticket
 ticktock
 tidbit
 tiff
+tiffany
 tight
 tightly
 tiki
@@ -2651,8 +2663,10 @@ tinfoil
 tinge
 tingeing
 tinging
+tinny
 tint
 tinting
+tiny
 tippy
 tiptop
 titan
@@ -2707,6 +2721,7 @@ toxin
 trait
 tray
 triad
+trinity
 trod
 troy
 tuba
@@ -2741,6 +2756,8 @@ twitching
 type
 typhoon
 typo
+tyranny
+tyrant
 tyro
 ulna
 ulnar
@@ -2812,6 +2829,7 @@ vibe
 vibrato
 vibrator
 vice
+victimize
 video
 videoed
 vied
