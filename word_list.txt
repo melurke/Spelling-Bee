@@ -4246,7 +4246,6 @@ concussing
 condemner
 conder
 condescends
-condign
 condoled
 condominia
 condones
@@ -5692,7 +5691,6 @@ dinged
 dinghy
 dinging
 dingle
-dinic
 dining
 dinkey
 dinkum
@@ -9642,7 +9640,6 @@ gong
 gonia
 goniff
 gonk
-gonococcoid
 gonophore
 gonorrhoea
 gonzo
@@ -10945,7 +10942,6 @@ idiom
 idiomatic
 idiot
 idiotic
-idioticon
 idiotisms
 idle
 idled
@@ -11703,6 +11699,7 @@ itch
 itching
 item
 itemised
+itemize
 itemized
 itemizing
 iteration
@@ -14204,6 +14201,7 @@ mimeo
 mimeoing
 mimes
 mimester
+mimetic
 mimetism
 mimic
 mimickers
@@ -24879,6 +24877,7 @@ titivates
 title
 titleless
 titman
+titmice
 titmouse
 titrated
 titres
@@ -26452,6 +26451,7 @@ vice
 vices
 vicinage
 vicomte
+victim
 victimize
 victrix
 videlicet
