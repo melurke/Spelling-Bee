@@ -289,6 +289,7 @@ afflict
 afflicts
 affluxes
 afforce
+afford
 afforded
 affrap
 affrapping
@@ -1659,6 +1660,7 @@ bareboat
 barefit
 barelegged
 barest
+barf
 barfly
 bargaining
 bargeese
@@ -3864,7 +3866,6 @@ clientele
 clienteles
 cliff
 cliffier
-clift
 clifts
 climactically
 climatical
@@ -7930,7 +7931,6 @@ fibroins
 fibroses
 fibrous
 fibula
-fice
 fichu
 fickle
 fickling
@@ -8357,6 +8357,7 @@ flooding
 floodwall
 flooie
 floor
+floorboard
 floorcloth
 flooring
 floormen
@@ -8587,6 +8588,7 @@ forby
 force
 forceps
 forcers
+ford
 forded
 fordo
 fords
@@ -12629,7 +12631,6 @@ lenities
 lenos
 lensman
 lent
-lenticel
 lentil
 lentos
 leopard
@@ -12689,9 +12690,7 @@ libken
 librairie
 libretti
 lice
-licence
 license
-licente
 lichening
 lichter
 licit
@@ -15917,6 +15916,7 @@ officiary
 officinal
 offish
 offkey
+offload
 offloads
 offprint
 offputs

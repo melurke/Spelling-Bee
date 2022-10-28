@@ -55,6 +55,7 @@ affinity
 affirm
 affirming
 afflict
+afford
 affray
 afoot
 afoul
@@ -273,6 +274,7 @@ banyan
 baobab
 barb
 bard
+barf
 barrio
 batboy
 bath
@@ -1273,6 +1275,7 @@ floe
 flood
 flooded
 floor
+floorboard
 flora
 floral
 flounce
@@ -1294,6 +1297,7 @@ fool
 fooled
 foot
 fora
+ford
 form
 formal
 formula
@@ -1629,6 +1633,7 @@ indecent
 indict
 indicted
 indoor
+inefficient
 infant
 infantile
 infantry
@@ -1638,6 +1643,7 @@ infinity
 infirm
 infirming
 inflate
+inflect
 inflict
 infliction
 info
@@ -2206,6 +2212,7 @@ ocular
 odor
 offal
 offed
+offload
 ogee
 oiled
 ointment
