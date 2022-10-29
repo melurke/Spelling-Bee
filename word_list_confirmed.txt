@@ -1028,6 +1028,7 @@ eely
 efface
 effect
 effete
+efficient
 egad
 eggcup
 egged
@@ -1200,6 +1201,7 @@ fellated
 felled
 felon
 felt
+fence
 fennel
 feta
 fetal
@@ -1475,6 +1477,7 @@ havoc
 head
 headache
 headed
+headphone
 heal
 healable
 healed
@@ -1545,6 +1548,7 @@ hooey
 hook
 hookah
 hoop
+hooped
 hoot
 hope
 hoppy
@@ -1637,6 +1641,7 @@ inefficient
 infant
 infantile
 infantry
+infect
 infill
 infinite
 infinity
@@ -2235,6 +2240,7 @@ ooze
 oozing
 opal
 open
+openhanded
 opinion
 opioid
 opponent

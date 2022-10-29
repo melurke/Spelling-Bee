@@ -6456,6 +6456,7 @@ effete
 effeteness
 efficacity
 efficiencies
+efficient
 effierce
 effigial
 effleurage
@@ -7812,6 +7813,7 @@ femmes
 femoral
 femur
 fenagles
+fence
 fenceless
 fencerow
 fencing
@@ -10392,7 +10394,6 @@ hempweeds
 hence
 henchman
 henchmen
-hended
 henge
 henges
 henleys
@@ -10546,7 +10547,6 @@ hitmen
 hitting
 hiveless
 hizens
-hoaed
 hoarder
 hoarhound
 hoarsenesses
@@ -10563,7 +10563,6 @@ hobodom
 hobs
 hockeys
 hocused
-hodded
 hoddles
 hodmandod
 hodoscopes
@@ -10573,7 +10572,6 @@ hoggerel
 hogging
 hognoses
 hogtieing
-hohed
 hoiden
 hoing
 hoisters
@@ -10651,7 +10649,6 @@ homospory
 homotonous
 homotypy
 honcho
-hond
 hone
 honesties
 honey
@@ -10694,7 +10691,6 @@ hopdogs
 hope
 hopeful
 hopelessnesses
-hophead
 hoplitic
 hoppers
 hoppings
@@ -11314,6 +11310,7 @@ infantry
 infares
 infauna
 infaust
+infect
 infecting
 infecund
 infeftment
@@ -15936,7 +15933,6 @@ oggin
 oghams
 ogles
 ogreism
-ohed
 ohmage
 ohmmeters
 oikists
