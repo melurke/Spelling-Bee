@@ -296,6 +296,7 @@ beef
 beefed
 been
 beet
+beetle
 befall
 befell
 beget
@@ -309,14 +310,17 @@ belie
 belief
 believable
 believe
+belittle
 bell
 belle
 belled
 belly
 bellyache
+belt
 bend
 bent
 bento
+betel
 betide
 bevel
 bezel
@@ -338,6 +342,7 @@ bile
 bilingual
 bilk
 bill
+billet
 billfold
 billing
 billow
@@ -368,6 +373,8 @@ bleed
 blin
 bling
 blini
+blithe
+blithely
 blob
 blobbed
 blobby
@@ -1871,6 +1878,8 @@ lipo
 lippy
 lira
 lite
+lithe
+lithely
 little
 livable
 live
@@ -2300,6 +2309,7 @@ pang
 panic
 panini
 panning
+pant
 panty
 papa
 papal
@@ -2347,6 +2357,7 @@ peppy
 petty
 peyote
 phalli
+phantom
 phat
 phenotype
 phial
@@ -2576,6 +2587,7 @@ tally
 tame
 tamed
 tamp
+tampon
 tannin
 tantalize
 tanzanite
@@ -2615,6 +2627,7 @@ telepathy
 teleplay
 telethon
 teletype
+tell
 temp
 temped
 tempeh
@@ -2957,6 +2970,7 @@ yelled
 yelp
 yenta
 yente
+yeti
 yoga
 yoohoo
 your

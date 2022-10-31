@@ -910,7 +910,6 @@ apaches
 apagogic
 apanages
 apartment
-apathaton
 apathy
 apayd
 aped
@@ -1840,6 +1839,7 @@ beerinesses
 beesome
 beet
 beeting
+beetle
 beetleweed
 beetmasters
 beeyards
@@ -1907,6 +1907,7 @@ belief
 believable
 believe
 belike
+belittle
 belive
 bell
 bellboys
@@ -1921,6 +1922,7 @@ belly
 bellyache
 belonger
 below
+belt
 beltless
 beltmen
 bema
@@ -2030,6 +2032,7 @@ bestuck
 beta
 betatter
 beteems
+betel
 bethel
 beths
 bethump
@@ -2126,6 +2129,7 @@ bilk
 bill
 billabong
 billers
+billet
 billfishes
 billfold
 billiard
@@ -2280,6 +2284,7 @@ blinked
 blintze
 blips
 blissout
+blithe
 blithely
 blive
 bloater
@@ -12862,6 +12867,8 @@ literalisers
 literally
 literatim
 lith
+lithe
+lithely
 litheness
 lithiases
 lithistids
@@ -16094,7 +16101,6 @@ opsomania
 opsonifies
 opsonins
 opsoniums
-optant
 opter
 optic
 optical
@@ -18331,7 +18337,6 @@ polyzoary
 polyzoon
 pomaces
 pomaded
-pomato
 pomatum
 pombe
 pome
@@ -18569,7 +18574,6 @@ pothooks
 pothouses
 potins
 potlatch
-potman
 potometer
 potoroo
 potpourri
@@ -24222,7 +24226,6 @@ tamises
 tammies
 tamp
 tampala
-tampan
 tamped
 tampered
 tamperers
@@ -24445,6 +24448,7 @@ televisers
 telexing
 telferic
 telically
+tell
 tellens
 tellingly
 tellurate
@@ -24933,7 +24937,6 @@ toluene
 toluole
 tolzey
 tomahawk
-toman
 tomate
 tomato
 tomb
@@ -24953,7 +24956,6 @@ tommy
 tommyrot
 tomogram
 tompion
-tompon
 tomponing
 tomtit
 tondini
@@ -27292,6 +27294,7 @@ yersinioses
 yesked
 yest
 yestern
+yeti
 yetis
 yeve
 yexing
