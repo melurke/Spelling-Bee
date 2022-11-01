@@ -883,6 +883,7 @@ dement
 demented
 demit
 demitted
+demoed
 denim
 depend
 detect
@@ -954,6 +955,7 @@ dollar
 dolled
 dollied
 dolor
+dome
 dominion
 domino
 dong
@@ -1069,6 +1071,7 @@ embed
 embedded
 embezzle
 emblem
+embolden
 emcee
 emceeing
 emend
@@ -1917,6 +1920,7 @@ loofa
 look
 looked
 loom
+loomed
 loon
 loony
 loop
@@ -1979,6 +1983,7 @@ mammoth
 manatee
 mandala
 mane
+manhattan
 mania
 maniac
 manic
@@ -1988,6 +1993,7 @@ manta
 many
 marm
 mate
+math
 matte
 matted
 maven
@@ -2010,7 +2016,9 @@ mediated
 meditate
 meditated
 meet
+meld
 melee
+melodeon
 meme
 memed
 memento
@@ -2066,6 +2074,7 @@ mobbed
 mobile
 mobilize
 mochi
+model
 mohawk
 molar
 mole
@@ -2080,6 +2089,7 @@ mononym
 monotone
 monotony
 monte
+month
 mooch
 mooching
 mood
@@ -2127,6 +2137,7 @@ napalm
 napping
 narc
 nary
+natant
 nation
 natty
 naval
@@ -2366,6 +2377,7 @@ phono
 phony
 phooey
 photo
+photomap
 photon
 phyla
 piano

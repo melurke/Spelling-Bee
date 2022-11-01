@@ -2429,7 +2429,6 @@ bonbon
 bonbonniere
 bond
 bonded
-bondmen
 bondwoman
 bone
 boned
@@ -5369,7 +5368,6 @@ demit
 demitasse
 demitted
 demitting
-demobbed
 demoed
 demology
 demonian
@@ -6561,7 +6559,6 @@ elitism
 ellipse
 ellipsoids
 ellipticity
-elmen
 elmwood
 eloge
 eloigned
@@ -6607,7 +6604,6 @@ emblem
 emblements
 emblemises
 emblems
-embloomed
 emblossoms
 embody
 embogs
@@ -12976,7 +12972,6 @@ lollop
 lolloping
 lollygagged
 lologs
-lomed
 lomenta
 loming
 lone
@@ -13423,6 +13418,7 @@ mangled
 mango
 mangos
 mangy
+manhattan
 manhattans
 manhunt
 mania
@@ -13631,6 +13627,7 @@ matelotes
 materiel
 matey
 matgrass
+math
 mathematise
 mathesis
 matier
@@ -13779,7 +13776,6 @@ meditate
 meditated
 meditative
 mediuses
-medled
 medling
 medullae
 medullated
@@ -13830,7 +13826,6 @@ melik
 melilot
 meliorism
 melismata
-melled
 mellites
 mellow
 mellowly
@@ -13876,7 +13871,6 @@ menials
 meningeal
 meningitis
 meninx
-meno
 menomini
 menopomes
 mensa
@@ -14545,7 +14539,6 @@ mizmaze
 mizzens
 mizzles
 mizzlings
-mneme
 mnemonic
 mnemons
 moan
@@ -14556,7 +14549,6 @@ moats
 mobbed
 mobbie
 mobbish
-mobbled
 mobcap
 mobile
 mobiles
@@ -14739,6 +14731,7 @@ montants
 monte
 montem
 montes
+month
 months
 monument
 monurons
@@ -15305,6 +15298,7 @@ nasals
 naseberries
 nastaliks
 nasty
+natant
 natches
 nathemo
 nation
@@ -17625,6 +17619,7 @@ photoed
 photofits
 photogen
 photograph
+photomap
 photomaps
 photon
 photons
