@@ -1292,7 +1292,6 @@ aswarm
 asylum
 asynartetes
 atabeg
-atactic
 ataraxia
 atavism
 ataxics
@@ -1916,6 +1915,7 @@ belled
 belleter
 bellflower
 bellied
+bellmen
 bellow
 bellpulls
 belly
@@ -2303,6 +2303,8 @@ bloodfin
 bloodlessly
 bloodred
 bloodwoods
+bloom
+bloomed
 bloomer
 blooming
 blooper
@@ -2971,7 +2973,6 @@ calceolaria
 calcified
 calcify
 calcinable
-calcitic
 calciums
 calctufas
 calculary
@@ -2992,7 +2993,6 @@ callable
 callaloo
 callback
 callboard
-callid
 calliopsis
 callouses
 callus
@@ -5368,8 +5368,10 @@ demit
 demitasse
 demitted
 demitting
+demo
 demoed
 demology
+demon
 demonian
 demonises
 demonized
@@ -5978,6 +5980,7 @@ dolors
 dolts
 domal
 dome
+domed
 domesday
 domettes
 domicil
@@ -6011,6 +6014,7 @@ doofer
 dooket
 doolees
 doom
+doomed
 doomful
 doomily
 doomsdays
@@ -6609,6 +6613,7 @@ embody
 embogs
 emboil
 embolden
+emboldened
 embolies
 emboluses
 emborders
@@ -10926,7 +10931,6 @@ iconicities
 iconify
 iconizes
 iconomatic
-ictal
 icteruses
 idea
 idealised
@@ -12616,6 +12620,7 @@ lemma
 lemmas
 lemmatize
 lemnisci
+lemon
 lemoning
 lempira
 lemurs
@@ -13753,6 +13758,8 @@ meconopses
 medaka
 medalet
 medals
+meddle
+meddled
 meddlers
 meddlesomeness
 medevaced
@@ -13819,6 +13826,7 @@ melanisms
 melanoma
 melanoses
 meld
+melded
 melding
 melee
 melena
@@ -13835,6 +13843,7 @@ melodies
 melodises
 melodrame
 melomania
+melon
 melphalan
 meltage
 melters
@@ -14565,9 +14574,12 @@ mockup
 mococks
 mocuddum
 modalisms
+mode
 model
+modeled
 modelled
 modello
+modem
 modemed
 modenas
 moderato
@@ -14606,6 +14618,7 @@ moke
 molar
 molars
 mold
+molded
 molder
 molding
 mole
@@ -14742,6 +14755,7 @@ mood
 moodier
 moodiness
 moodying
+mooed
 moola
 moolas
 mooli
@@ -14750,6 +14764,7 @@ moon
 moonballs
 moonbow
 mooncalf
+mooned
 mooner
 mooneyes
 moonfish
