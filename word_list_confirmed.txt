@@ -554,6 +554,7 @@ carroty
 carry
 carryout
 catalpa
+catcall
 catch
 catchup
 cathartic
@@ -637,11 +638,13 @@ citron
 civic
 clack
 clacked
+clad
 clam
 clammy
 clan
 clang
 clap
+claw
 clay
 clayey
 clean
@@ -2453,6 +2456,7 @@ ploy
 plum
 plump
 plumpy
+plural
 podia
 poem
 poet
@@ -2601,6 +2605,7 @@ tacked
 tackle
 tackled
 taco
+tact
 tactic
 tactical
 taffeta
@@ -2612,6 +2617,7 @@ tailwind
 tain
 taint
 take
+talc
 tali
 talk
 talked
@@ -2858,6 +2864,7 @@ uplit
 upon
 upped
 uppity
+uproar
 uptilt
 urging
 uric
@@ -2956,6 +2963,7 @@ wigwag
 wigwagging
 wigwarm
 wild
+wildcat
 wildland
 will
 willing
