@@ -9667,6 +9667,7 @@ goofed
 goofiness
 goofproof
 googlies
+googol
 gooier
 gooley
 goombay
@@ -9688,6 +9689,7 @@ gorcocks
 gorgedly
 gorges
 gorgios
+gorgon
 gorgonising
 gorilla
 goring
@@ -10753,6 +10755,7 @@ houffs
 houghs
 houmuses
 hour
+hourlong
 houseboy
 housefuls
 housekeeps
@@ -12963,9 +12966,11 @@ logicises
 logics
 logion
 logjam
+logo
 logodaedali
 logomach
 logotype
+logroll
 logrollings
 loid
 loin
@@ -12985,6 +12990,7 @@ loming
 lone
 lonelinesses
 lonesomeness
+long
 longas
 longbow
 longer
@@ -16046,6 +16052,7 @@ oogonia
 oolachan
 oolemma
 oological
+oolong
 oomiack
 oomiaks
 oompahed
@@ -16520,7 +16527,6 @@ packly
 packmen
 packsack
 packstaffs
-paco
 pact
 pacta
 pacy
@@ -17154,7 +17160,6 @@ pedocal
 pedophile
 pedreros
 peduncle
-peece
 peed
 peek
 peekabos
@@ -18211,7 +18216,6 @@ pock
 pocketbook
 pockier
 pockpit
-poco
 pocosins
 podagral
 podded
@@ -18265,7 +18269,6 @@ pokeroot
 pokeweed
 pokier
 pokiness
-polacca
 polaron
 poldered
 pole
@@ -20942,6 +20945,7 @@ rottenstoned
 rotulas
 rouble
 rouens
+rough
 roughed
 roughing
 rouging

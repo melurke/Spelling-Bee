@@ -537,6 +537,7 @@ canon
 canto
 canton
 canyon
+cape
 capital
 capitol
 capo
@@ -1434,9 +1435,11 @@ gong
 gonzo
 good
 gooey
+googol
 goon
 goop
 goopy
+gorgon
 goth
 gouge
 gout
@@ -1454,6 +1457,7 @@ grid
 griffin
 grind
 grinding
+grog
 guar
 guff
 gulag
@@ -1577,6 +1581,7 @@ hotdog
 hotel
 hotpot
 hottie
+hourlong
 hued
 huff
 hugging
@@ -1921,13 +1926,17 @@ locally
 loci
 loco
 lode
+logo
+logroll
 loin
 loll
 lolled
 lollipop
 lollop
 lone
+long
 longbow
+longhorn
 loofa
 look
 looked
@@ -2280,6 +2289,7 @@ onion
 onlay
 only
 onto
+oolong
 ooze
 oozing
 opal
@@ -2337,6 +2347,7 @@ palely
 paleo
 pall
 palp
+palpable
 pampa
 panama
 panda
@@ -2449,6 +2460,8 @@ play
 playlet
 playpen
 plea
+pleb
+plebe
 plenty
 plop
 plot
@@ -2580,6 +2593,7 @@ roomful
 root
 rotary
 rotatory
+rough
 round
 royal
 royally
