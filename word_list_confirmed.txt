@@ -76,6 +76,7 @@ aimed
 aioli
 airboat
 airdrop
+airflow
 airy
 ajar
 alack
@@ -199,6 +200,7 @@ armor
 aroma
 around
 array
+arrow
 arthritic
 arty
 arugula
@@ -1188,6 +1190,7 @@ fallacy
 fallback
 fallen
 falloff
+fallow
 fang
 fanning
 fanny
@@ -1199,6 +1202,7 @@ farm
 farming
 farmland
 farro
+farrow
 fatal
 fatality
 fatally
@@ -1282,6 +1286,7 @@ flatfeet
 flatline
 flatly
 flatten
+flaw
 flay
 flea
 fled
@@ -1305,6 +1310,7 @@ floral
 flounce
 flour
 flout
+flow
 fluff
 foal
 foam
@@ -1313,10 +1319,12 @@ foible
 fold
 folded
 folio
+follow
 font
 fontina
 food
 foodie
+foofaraw
 fool
 fooled
 foot
@@ -1329,6 +1337,7 @@ forum
 fought
 foul
 four
+fowl
 frag
 fragging
 framing
@@ -2937,10 +2946,12 @@ voted
 votive
 wagging
 wahoo
+waif
 wail
 wait
 walk
 wall
+wallaroo
 wallow
 wand
 waning
@@ -2951,6 +2962,7 @@ warming
 warn
 warning
 warring
+warrior
 watt
 wedded
 weed
@@ -2999,6 +3011,7 @@ with
 within
 witting
 wobbling
+wolf
 woman
 wont
 wonton
@@ -3006,6 +3019,7 @@ wood
 wooded
 wooden
 wooed
+woof
 woohoo
 wooing
 wool
