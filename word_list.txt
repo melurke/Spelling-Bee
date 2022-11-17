@@ -871,7 +871,6 @@ antimonic
 antinatural
 antinome
 antinomians
-antipapal
 antipastos
 antipathy
 antipope
@@ -940,7 +939,6 @@ apiaries
 apically
 apiculus
 apiece
-apimania
 apiols
 apishness
 apism
@@ -2273,6 +2271,7 @@ blessed
 blesses
 bletherers
 blewit
+blight
 blighty
 blimp
 blimps
@@ -2757,6 +2756,7 @@ bugling
 bugseeds
 buik
 buildup
+built
 buisting
 bulb
 bulbless
@@ -12404,7 +12404,6 @@ lamped
 lampers
 lamphole
 lampion
-lamplit
 lampoons
 lampposts
 lamps
@@ -12737,6 +12736,7 @@ lifts
 ligate
 ligge
 light
+lightbulb
 lighted
 lightful
 lightly
@@ -12790,7 +12790,6 @@ limns
 limonite
 limosis
 limp
-limpa
 limped
 limpers
 limpet
@@ -14278,7 +14277,6 @@ minims
 minimuses
 minion
 minions
-minipill
 miniseries
 minishing
 miniskis
@@ -15537,7 +15535,6 @@ ninjutsus
 ninny
 ninth
 ninths
-nipa
 nipped
 nipperkin
 nippiest
@@ -16663,7 +16660,6 @@ palpable
 palpating
 palpatory
 palpebras
-palpitant
 palpitating
 pals
 palsier
@@ -16717,7 +16713,6 @@ panhandled
 panic
 panicking
 panics
-panim
 panini
 panino
 panisks
@@ -17684,7 +17679,6 @@ phytotomy
 piaffe
 piaffer
 piaffes
-pian
 pianino
 pianism
 pianissimi
@@ -17823,7 +17817,6 @@ pilots
 pilsener
 pilula
 pilules
-pima
 piment
 pimento
 piments
@@ -17910,7 +17903,6 @@ pions
 pioted
 piousnesses
 pioys
-pipal
 pipe
 pipeage
 piped
@@ -18123,7 +18115,6 @@ plexuses
 pliancy
 plie
 plies
-plim
 plimming
 plimsol
 plimsoles
@@ -24242,7 +24233,6 @@ tamings
 tamises
 tammies
 tamp
-tampala
 tamped
 tampered
 tamperers
@@ -24293,7 +24283,6 @@ tapists
 tappable
 tappers
 tappices
-tappit
 taprooms
 tapsieteerie
 tapsman
