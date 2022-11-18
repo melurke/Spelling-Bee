@@ -11147,6 +11147,7 @@ impings
 impis
 impishly
 impishnesses
+implant
 implate
 impleaded
 impledge
@@ -12396,6 +12397,7 @@ laminitis
 lammer
 lammie
 lammings
+lamp
 lampad
 lampads
 lampases
@@ -15648,7 +15650,6 @@ nonlabor
 nonlethal
 nonlevel
 nonliquid
-nonlyric
 nonmeeting
 nonmental
 nonmimetic
@@ -16158,7 +16159,6 @@ orca
 orcas
 orchella
 orchils
-orcinol
 ordain
 ordains
 orderers
@@ -16580,6 +16580,7 @@ painful
 painims
 paining
 painlessness
+paint
 paintball
 paintiest
 paintings
@@ -16638,6 +16639,7 @@ pallidity
 palling
 palliums
 pallors
+palm
 palmary
 palmated
 palmed
@@ -17018,6 +17020,7 @@ pathophobia
 pathway
 patient
 patienting
+patina
 patinae
 patinated
 patinations
@@ -17887,7 +17890,9 @@ pinots
 pinpoints
 pins
 pinstripes
+pint
 pintadas
+pintail
 pintano
 pintles
 pints
@@ -18013,6 +18018,7 @@ plainants
 plainful
 plainly
 plainsman
+plaint
 plait
 plaits
 plan
@@ -18026,7 +18032,9 @@ plankton
 planlessnesses
 planning
 planosols
+plant
 plantable
+plantain
 plantar
 planter
 plantlets
@@ -18113,6 +18121,7 @@ plew
 plexors
 plexuses
 pliancy
+pliant
 plie
 plies
 plimming
@@ -20876,7 +20885,6 @@ rondo
 rondos
 rones
 ronnels
-ronyon
 rood
 roof
 roofer

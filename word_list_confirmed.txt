@@ -1652,6 +1652,7 @@ impediment
 impend
 impended
 impenitent
+implant
 imply
 impotent
 inane
@@ -1810,6 +1811,7 @@ lallygagging
 lama
 lame
 lamely
+lamp
 lanai
 lance
 land
@@ -2354,6 +2356,7 @@ pail
 pain
 painful
 paining
+paint
 pair
 palapa
 palatal
@@ -2361,6 +2364,7 @@ palatial
 palely
 paleo
 pall
+palm
 palp
 palpable
 pampa
@@ -2386,6 +2390,7 @@ patch
 pate
 patently
 path
+patina
 patio
 patly
 patty
@@ -2459,6 +2464,8 @@ pinion
 pinned
 pinning
 pinniped
+pint
+pintail
 pinup
 pipe
 piped
@@ -2469,8 +2476,11 @@ pita
 pitapat
 pity
 plain
+plaint
 plait
 plan
+plant
+plantain
 plat
 play
 playlet
@@ -2479,6 +2489,7 @@ plea
 pleb
 plebe
 plenty
+pliant
 plop
 plot
 ploy
