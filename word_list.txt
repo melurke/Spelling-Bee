@@ -165,6 +165,7 @@ acutes
 adage
 adamant
 adamants
+adapt
 adaptation
 adaptednesses
 adaption
@@ -908,6 +909,7 @@ apace
 apaches
 apagogic
 apanages
+apart
 apartment
 apathy
 apayd
@@ -1331,6 +1333,7 @@ attacks
 attain
 attainers
 attaintment
+attar
 attasked
 attempered
 attempt
@@ -1347,6 +1350,7 @@ atticism
 attics
 attitudes
 attones
+attract
 attractable
 attracters
 attrahent
@@ -2211,7 +2215,6 @@ biteable
 bitingly
 bitmap
 bits
-bitte
 bittering
 bitterroot
 bitties
@@ -2760,7 +2763,6 @@ built
 buisting
 bulb
 bulbless
-bulbul
 bulges
 bulging
 bulgur
@@ -2813,7 +2815,6 @@ bunny
 bunodont
 bunt
 buntals
-buntline
 bunyips
 buoy
 buoyant
@@ -3172,6 +3173,7 @@ carafes
 caramelled
 carapace
 carapaxes
+carat
 carats
 caravaneers
 caravanning
@@ -3222,8 +3224,10 @@ carols
 caromel
 carotid
 carouser
+carp
 carpaccios
 carpals
+carpark
 carpel
 carpenter
 carpeted
@@ -3241,6 +3245,7 @@ carry
 carrycot
 carryout
 cars
+cart
 cartable
 carter
 cartoon
@@ -3293,6 +3298,7 @@ cataphract
 cataplasia
 cataplasm
 catapult
+cataract
 catarrh
 catatonia
 catboats
@@ -4593,6 +4599,7 @@ cozier
 cozy
 crabbed
 crabgrasses
+crack
 crackbrain
 crackjaw
 crackpot
@@ -4616,6 +4623,7 @@ crankle
 crannies
 cranny
 crants
+crap
 crapes
 craples
 crapper
@@ -5023,6 +5031,7 @@ darbies
 dareful
 dargs
 daring
+dark
 darked
 darkey
 darkles
@@ -11510,7 +11519,6 @@ intelligent
 intemerate
 intendeds
 intendment
-intenible
 intenseness
 intensifiers
 intensitive
@@ -11997,13 +12005,16 @@ kantens
 kaoliang
 kaons
 kaphs
+kappa
 kappas
 karaisms
 karaokes
+karat
 karates
 karma
 karosses
 karst
+kart
 karts
 kasbahs
 kashrus
@@ -15362,7 +15373,6 @@ neath
 neatly
 nebbed
 nebbishes
-nebel
 nebs
 nebulises
 necessaire
@@ -16523,6 +16533,7 @@ pacifisms
 pacifistic
 pacify
 pacing
+pack
 package
 packaging
 packet
@@ -16889,6 +16900,7 @@ parings
 parish
 parities
 park
+parka
 parkas
 parker
 parki
@@ -16929,6 +16941,7 @@ parsecs
 parses
 parsleys
 parsnips
+part
 partake
 partakes
 parter
@@ -18670,6 +18683,7 @@ prang
 prank
 prankle
 praos
+prat
 prate
 prates
 pratfalls
@@ -19688,6 +19702,7 @@ rachillae
 racial
 racier
 racisms
+rack
 racketed
 rackets
 rackwork
@@ -19828,6 +19843,7 @@ rappelled
 rappers
 rappinis
 rapports
+rapt
 raptly
 raptorial
 raptures
@@ -24308,6 +24324,7 @@ tariffing
 tarmac
 tarnations
 taros
+tarp
 tarpans
 tarpons
 tarre
@@ -24316,7 +24333,9 @@ tarrowed
 tarry
 tarsals
 tarsioid
+tart
 tartane
+tartar
 tartareous
 tartarising
 tartars
@@ -25129,8 +25148,11 @@ tozies
 traced
 trachea
 trachelate
+track
 trackage
+trackpad
 trackway
+tract
 tractator
 tractor
 trademarked

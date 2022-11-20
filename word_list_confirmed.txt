@@ -30,6 +30,7 @@ acne
 acrid
 actuary
 adage
+adapt
 added
 addend
 addenda
@@ -165,6 +166,7 @@ anvil
 anyhoo
 anyone
 apace
+apart
 apathy
 apeman
 apemen
@@ -176,6 +178,7 @@ aplenty
 apogee
 apolitical
 appall
+apparat
 appeal
 apple
 appliance
@@ -214,8 +217,10 @@ attach
 attack
 attacked
 attain
+attar
 attempt
 attic
+attract
 augur
 auguring
 aura
@@ -548,6 +553,7 @@ capo
 capon
 capping
 captcha
+carat
 card
 cardiac
 cardio
@@ -555,10 +561,14 @@ cardioid
 carny
 carol
 carotid
+carp
+carpark
 carroty
 carry
 carryout
+cart
 catalpa
+cataract
 catcall
 catch
 catchup
@@ -777,7 +787,9 @@ couth
 cove
 coven
 coyly
+crack
 cranny
+crap
 critic
 croc
 croci
@@ -813,6 +825,7 @@ dandy
 dang
 dapping
 daring
+dark
 darn
 darning
 dart
@@ -1659,6 +1672,7 @@ inane
 inanity
 inapt
 inaugural
+inbuilt
 inch
 inching
 incidence
@@ -1756,6 +1770,9 @@ journal
 journo
 juror
 kale
+kappa
+karat
+kart
 keel
 keeled
 kente
@@ -1974,6 +1991,7 @@ lowing
 loyal
 loyally
 luau
+lube
 lubing
 lugging
 luging
@@ -2346,6 +2364,7 @@ owlet
 owned
 owning
 pacing
+pack
 pact
 padding
 pagan
@@ -2386,6 +2405,9 @@ parading
 paranoia
 paranoid
 paranormal
+park
+parka
+part
 patch
 pate
 patently
@@ -2528,6 +2550,7 @@ potato
 potent
 potty
 pout
+prat
 priding
 prior
 puce
@@ -2559,6 +2582,7 @@ quitting
 rabbi
 rabbit
 rabid
+rack
 racy
 radar
 radial
@@ -2584,8 +2608,11 @@ rand
 rani
 rapid
 rapini
+rapt
 rarity
+ratatat
 ratify
+rattrap
 ratty
 raunch
 raunchy
@@ -2675,7 +2702,10 @@ tanzanite
 tapa
 tape
 tapioca
+tarp
 tarry
+tart
+tartar
 tatami
 tattoo
 tatty
@@ -2832,7 +2862,11 @@ toweled
 towelette
 town
 toxin
+track
+trackpad
+tract
 trait
+trap
 tray
 triad
 trinity
