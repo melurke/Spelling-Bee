@@ -301,6 +301,7 @@ bedeck
 bedecked
 beef
 beefed
+beeline
 been
 beet
 beetle
@@ -325,6 +326,7 @@ bellmen
 belly
 bellyache
 belt
+beltline
 bend
 bent
 bento
@@ -368,6 +370,7 @@ bird
 birdbath
 birth
 bite
+bitten
 bivalve
 blab
 blabbing
@@ -398,6 +401,9 @@ bloomed
 blow
 blowing
 blown
+blue
+bluebell
+blunt
 boar
 boat
 boba
@@ -462,6 +468,7 @@ bowing
 bowl
 bowling
 bowwow
+boycotted
 brad
 braid
 brat
@@ -470,6 +477,7 @@ bravo
 briar
 brio
 bubba
+bubble
 bubbling
 bugging
 bugling
@@ -477,6 +485,8 @@ built
 bulb
 bulging
 bull
+bullet
+bulletin
 bung
 bungling
 bunny
@@ -484,6 +494,7 @@ bunt
 buoy
 buoyant
 butt
+butte
 button
 buyout
 byte
@@ -861,6 +872,7 @@ decided
 deck
 decked
 deckle
+decocted
 deduce
 deduced
 deduct
@@ -997,6 +1009,7 @@ door
 doornail
 dorado
 dotard
+doted
 douche
 douched
 dough
@@ -1046,6 +1059,7 @@ eagled
 eave
 ebbed
 ebon
+ebullient
 echinacea
 echo
 echoic
@@ -2231,6 +2245,7 @@ newt
 newton
 next
 niacin
+nibble
 nibbling
 nice
 niche
@@ -2280,7 +2295,9 @@ noun
 nova
 novice
 nubbin
+nubble
 nubby
+nubile
 nucleon
 nugget
 nuking
@@ -2874,6 +2891,8 @@ trod
 troy
 tuba
 tubby
+tube
+tubule
 tuft
 tugging
 tulip
@@ -2913,6 +2932,9 @@ unbag
 unbagging
 unban
 unbanning
+unbelt
+unbent
+unbuilt
 unbutton
 uncool
 unction

@@ -1834,6 +1834,7 @@ beefinesses
 beefsteak
 beefy
 beekeepers
+beeline
 been
 beeper
 beerage
@@ -1927,6 +1928,7 @@ belonger
 below
 belt
 beltless
+beltline
 beltmen
 bema
 bemadams
@@ -2047,7 +2049,6 @@ betrayal
 betrimmed
 betta
 betterness
-betty
 betweentime
 bevel
 bevelers
@@ -2215,6 +2216,7 @@ biteable
 bitingly
 bitmap
 bits
+bitten
 bittering
 bitterroot
 bitties
@@ -2327,7 +2329,9 @@ blowup
 blowzy
 blubbery
 bludger
+blue
 blueball
+bluebell
 blueberry
 bluebooks
 blued
@@ -2342,6 +2346,7 @@ bluidier
 blume
 blunged
 blunks
+blunt
 bluntnesses
 blurbs
 blurted
@@ -2725,6 +2730,7 @@ bryology
 buazes
 bubals
 bubba
+bubble
 bubblegums
 bubblies
 bubbling
@@ -2773,7 +2779,9 @@ bull
 bullace
 bullbats
 bulldust
+bullet
 bulleted
+bulletin
 bullhorn
 bullions
 bullocky
@@ -2864,6 +2872,7 @@ butchest
 butled
 butments
 butt
+butte
 butterball
 butterfat
 butters
@@ -6392,6 +6401,7 @@ ebon
 ebonised
 ebonized
 ebrieties
+ebullient
 eburneous
 ecboles
 ecchymoses
@@ -6413,7 +6423,6 @@ eclectically
 eclipser
 eclipsises
 eclose
-ecod
 economic
 economises
 economy
@@ -15480,6 +15489,7 @@ next
 nexus
 niacin
 nibbed
+nibble
 nibbling
 nibblingly
 niccolite
@@ -15770,8 +15780,10 @@ noysome
 nuancing
 nubbin
 nubbins
+nubble
 nubby
 nubecula
+nubile
 nubuck
 nuchals
 nuclein
@@ -25411,12 +25423,14 @@ tubage
 tubbable
 tubbing
 tubby
+tube
 tubeful
 tubercule
 tubfast
 tubfuls
 tubists
 tubulator
+tubule
 tubulously
 tuckered
 tuff
@@ -25673,7 +25687,9 @@ unbear
 unbedded
 unbegetting
 unbeing
+unbelt
 unbemused
+unbent
 unbereft
 unbeseems
 unbid
@@ -25687,6 +25703,7 @@ unbosom
 unboundednesses
 unbrake
 unbudded
+unbuilt
 unbulky
 unburied
 unbury
