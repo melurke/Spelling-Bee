@@ -416,7 +416,6 @@ aisling
 aizles
 ajar
 ajutage
-akee
 akin
 akrasia
 alabandine
@@ -4381,6 +4380,7 @@ convoked
 convolvuli
 convoy
 cooccur
+cooed
 cooeying
 cooing
 cooings
@@ -4601,6 +4601,7 @@ coxcombry
 coxinesses
 coyest
 coyly
+coyote
 coyotillo
 coypus
 cozeners
@@ -5183,13 +5184,19 @@ deckles
 declare
 declassed
 declined
+deco
+decoct
 decocted
+decode
+decoded
 decoders
 decollate
 decoloured
 decomposed
 decons
 decos
+decoy
+decoyed
 decoyers
 decreeing
 decrepit
@@ -6076,8 +6083,10 @@ dosologies
 dosser
 dossiers
 dotard
+dote
 doted
 dotings
+dotted
 dotterel
 dotting
 dottles
@@ -12380,7 +12389,6 @@ laired
 lairize
 laitance
 lake
-laked
 lakes
 laking
 laky
@@ -15864,6 +15872,7 @@ obelism
 obes
 obesity
 obey
+obeyed
 obia
 obiism
 obit
@@ -16072,6 +16081,7 @@ ontogeneses
 ontologists
 onychia
 oocysts
+oocyte
 ooftish
 oogamies
 oogonia
@@ -24436,6 +24446,7 @@ tedding
 teddy
 tediosities
 tedium
+teed
 teeing
 teem
 teemed
@@ -24949,6 +24960,7 @@ tocos
 toddes
 toddles
 toecap
+toed
 toeier
 toepieces
 toerags
@@ -25031,6 +25043,7 @@ toomer
 toon
 toorie
 toot
+tooted
 tooth
 toothaches
 toothfuls
@@ -25106,6 +25119,7 @@ totalisations
 totalistic
 totalled
 tote
+toted
 totem
 totemic
 totemistic
@@ -25153,6 +25167,7 @@ toxemia
 toxicologic
 toxin
 toxocara
+toyed
 toyings
 toymen
 toyshops

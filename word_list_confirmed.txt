@@ -143,6 +143,7 @@ angular
 anima
 anime
 anion
+ankle
 annal
 anneal
 annotation
@@ -260,6 +261,7 @@ baht
 bail
 bailing
 bait
+bake
 balalaika
 balcony
 baldly
@@ -769,6 +771,7 @@ convenience
 convince
 convinced
 convoy
+cooed
 cooing
 cookbook
 cool
@@ -798,6 +801,7 @@ couth
 cove
 coven
 coyly
+coyote
 crack
 cranny
 crap
@@ -872,7 +876,13 @@ decided
 deck
 decked
 deckle
+deco
+decoct
 decocted
+decode
+decoded
+decoy
+decoyed
 deduce
 deduced
 deduct
@@ -1009,7 +1019,9 @@ door
 doornail
 dorado
 dotard
+dote
 doted
+dotted
 douche
 douched
 dough
@@ -2208,6 +2220,7 @@ naiad
 naif
 nail
 naive
+naked
 name
 nametape
 nana
@@ -2308,6 +2321,7 @@ nylon
 oath
 oaty
 obey
+obeyed
 obit
 oboe
 occipital
@@ -2341,6 +2355,7 @@ onion
 onlay
 only
 onto
+oocyte
 oolong
 ooze
 oozing
@@ -2741,6 +2756,7 @@ tech
 techie
 tectonic
 teddy
+teed
 teeing
 teem
 teemed
@@ -2838,6 +2854,7 @@ titmice
 tittle
 toad
 toccata
+toed
 tofu
 toil
 tomahawk
@@ -2855,6 +2872,7 @@ took
 toolkit
 toon
 toot
+tooted
 tooth
 toothy
 topcoat
@@ -2865,6 +2883,7 @@ torii
 toroid
 torrid
 tote
+toted
 totem
 toucan
 touch
@@ -2879,6 +2898,7 @@ toweled
 towelette
 town
 toxin
+toyed
 track
 trackpad
 tract
