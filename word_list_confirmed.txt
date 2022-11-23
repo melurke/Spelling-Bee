@@ -95,6 +95,8 @@ alienate
 alit
 alive
 alkali
+alkane
+alkene
 allay
 allayed
 allaying
@@ -262,12 +264,14 @@ bail
 bailing
 bait
 bake
+baked
 balalaika
 balcony
 baldly
 bale
 baling
 balk
+balked
 ball
 ballboy
 balling
@@ -278,6 +282,9 @@ banana
 banc
 bang
 banging
+bank
+bankable
+banked
 banning
 banyan
 baobab
@@ -296,6 +303,8 @@ bayou
 beach
 beachy
 beady
+beak
+beaked
 bebop
 beck
 bedded
@@ -380,7 +389,10 @@ blabby
 black
 blackball
 blah
+blank
+blanked
 bleach
+bleak
 bled
 bleed
 blight
@@ -838,6 +850,7 @@ danced
 dandily
 dandy
 dang
+dank
 dapping
 daring
 dark
@@ -1799,8 +1812,13 @@ kale
 kappa
 karat
 kart
+kebab
 keel
 keeled
+keen
+keened
+kennel
+kenneled
 kente
 ketch
 kettle
@@ -1824,6 +1842,15 @@ kite
 kith
 kitten
 knack
+knead
+kneadable
+kneaded
+knee
+kneed
+kneel
+kneeled
+knell
+knelled
 knickknack
 knit
 koala
@@ -1849,6 +1876,7 @@ laid
 lain
 lair
 lake
+lakebed
 lallygag
 lallygagging
 lama
@@ -2224,6 +2252,7 @@ naked
 name
 nametape
 nana
+nankeen
 nanny
 nannying
 nanobot

@@ -487,7 +487,9 @@ alkalies
 alkalinise
 alkalised
 alkaloidal
+alkane
 alkanets
+alkene
 alky
 alkyls
 allamandas
@@ -1560,6 +1562,7 @@ bait
 baizes
 bajra
 bake
+baked
 bakemeat
 bakeware
 baklawa
@@ -1578,6 +1581,7 @@ balibuntal
 baling
 balistas
 balk
+balked
 balkline
 ball
 ballade
@@ -1626,6 +1630,9 @@ bangkoks
 bani
 banishing
 banjulele
+bank
+bankable
+banked
 bankers
 bankroll
 banksman
@@ -1762,6 +1769,8 @@ beadily
 beadlike
 beady
 beagle
+beak
+beaked
 beaker
 beam
 beamier
@@ -2249,6 +2258,8 @@ blameless
 blamer
 blams
 blandnesses
+blank
+blanked
 blankness
 blarney
 blastemal
@@ -2261,6 +2272,7 @@ blawing
 blazer
 bleach
 bleachable
+bleak
 bleakness
 bleareyed
 bleaters
@@ -5028,6 +5040,7 @@ danelagh
 dang
 dangered
 danglings
+dank
 danker
 danseur
 dantoned
@@ -10076,7 +10089,6 @@ hack
 hacked
 hackies
 hackle
-hackman
 hacksaws
 hadding
 hadiths
@@ -10320,7 +10332,6 @@ healsome
 health
 healthlessness
 healthy
-heame
 heap
 heaped
 heapers
@@ -11978,7 +11989,6 @@ justify
 justs
 jutting
 juves
-kaama
 kabaddis
 kabalists
 kabbalas
@@ -12007,7 +12017,6 @@ kalmias
 kalpacs
 kalpis
 kamacite
-kame
 kameezes
 kameraded
 kamichi
@@ -12047,6 +12056,7 @@ kayles
 kazachok
 kazatzkas
 keasar
+kebab
 kebar
 kebbuck
 kebobbing
@@ -12058,6 +12068,8 @@ keel
 keeled
 keelings
 keelman
+keen
+keened
 keener
 keens
 keeperless
@@ -12082,6 +12094,8 @@ kemple
 kemps
 kempy
 kendos
+kennel
+kenneled
 kenner
 kenoses
 kenspeck
@@ -12232,10 +12246,19 @@ knapscal
 knapweed
 knaur
 knawels
+knead
+kneadable
+kneaded
 kneads
+knee
+kneed
 kneehole
+kneel
+kneeled
 kneels
 kneepans
+knell
+knelled
 knells
 knew
 knickknack
@@ -12389,6 +12412,7 @@ laired
 lairize
 laitance
 lake
+lakebed
 lakes
 laking
 laky
@@ -13220,7 +13244,6 @@ mace
 macer
 maceraters
 maces
-machan
 machete
 machine
 machinemen
@@ -13404,7 +13427,6 @@ malvesies
 mama
 mamas
 mamboed
-mamee
 mameluco
 mameyes
 mamilla
@@ -13437,7 +13459,6 @@ mananas
 manatee
 manatees
 manats
-manche
 mancuses
 mandala
 mandalic
@@ -13831,7 +13852,6 @@ medullae
 medullated
 medusan
 medusoids
-meeken
 meeker
 meeknesses
 meercat
@@ -15315,6 +15335,7 @@ nana
 nancys
 nandoos
 nanizations
+nankeen
 nannied
 nanny
 nannygai
@@ -15409,7 +15430,6 @@ needlecord
 needlers
 needliest
 needment
-neem
 neesberry
 neezing
 negaters
@@ -15427,7 +15447,6 @@ nelsons
 nemas
 nemerteans
 nemeses
-nemn
 nemoral
 nene
 nenuphar
