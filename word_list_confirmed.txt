@@ -2079,6 +2079,7 @@ maimed
 main
 maintain
 majorly
+make
 mako
 malaprop
 male
@@ -2127,6 +2128,7 @@ mediate
 mediated
 meditate
 meditated
+meek
 meet
 meld
 melded
@@ -2250,6 +2252,7 @@ nail
 naive
 naked
 name
+namecheck
 nametape
 nana
 nankeen
@@ -2603,16 +2606,20 @@ pony
 pooh
 pool
 poop
+poor
 pope
+poplin
 poppa
 poppet
 poppy
+porno
 potato
 potent
 potty
 pout
 prat
 priding
+prion
 prior
 puce
 puff

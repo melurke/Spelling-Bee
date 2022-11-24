@@ -13186,7 +13186,6 @@ lunitidal
 lunts
 lunula
 luny
-lupin
 lupous
 lupulinic
 lurched
@@ -13370,6 +13369,7 @@ majolica
 majordomo
 majorly
 makars
+make
 makebates
 makefasts
 makeready
@@ -13852,6 +13852,7 @@ medullae
 medullated
 medusan
 medusoids
+meek
 meeker
 meeknesses
 meercat
@@ -15326,6 +15327,7 @@ naloxone
 namaskars
 name
 nameable
+namecheck
 namelessness
 nameplate
 namesake
@@ -16232,7 +16234,6 @@ orifexes
 origan
 origins
 orisons
-orlop
 ormers
 ornamenter
 orneriness
@@ -17939,7 +17940,6 @@ pinnipeds
 pinnula
 pinnule
 pinocytic
-pinon
 pinots
 pinpoints
 pins
@@ -17991,7 +17991,6 @@ pirarucu
 pirates
 piraya
 piriform
-pirn
 pirns
 pirogi
 piroque
@@ -18309,7 +18308,6 @@ pogonotomy
 pogrom
 pogroming
 poignant
-poilu
 poincianas
 poinding
 pointe
@@ -19143,7 +19141,6 @@ programer
 programmer
 progresses
 prohibitor
-proin
 proining
 projet
 proke
@@ -26029,7 +26026,6 @@ unretentive
 unrewarded
 unrig
 unrigging
-unrip
 unripenesses
 unrippings
 unrobes
