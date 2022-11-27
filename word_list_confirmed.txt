@@ -18,6 +18,7 @@ accountant
 accrual
 accuracy
 aced
+acetic
 ache
 ached
 achoo
@@ -211,6 +212,7 @@ arthritic
 arty
 arugula
 athlete
+athletic
 atilt
 atom
 atop
@@ -539,6 +541,7 @@ cake
 caked
 caking
 calcify
+calcite
 calf
 calico
 call
@@ -607,6 +610,7 @@ cede
 ceded
 ceiling
 celeb
+celiac
 cell
 cellblock
 celli
@@ -615,6 +619,7 @@ cent
 chad
 chai
 chair
+chalice
 chalk
 chalked
 challah
@@ -637,8 +642,11 @@ chic
 chica
 chichi
 chickadee
+chicle
 chignon
 chihuahua
+chili
+chill
 chime
 chiming
 chin
@@ -691,6 +699,7 @@ clean
 clef
 cleft
 clench
+cliche
 click
 client
 clientele
@@ -1193,6 +1202,7 @@ etch
 ethane
 ethanol
 ethic
+ethical
 ethnic
 ethyl
 etude
@@ -1547,6 +1557,7 @@ haka
 hake
 halal
 hale
+halite
 hall
 halo
 halt
@@ -1591,6 +1602,8 @@ heeled
 height
 heinie
 held
+heliacal
+helical
 helipad
 hell
 hellhole
@@ -1898,6 +1911,7 @@ latently
 lath
 lathe
 latke
+lattice
 lava
 lave
 lawman
@@ -1985,6 +1999,7 @@ lionizing
 lipo
 lippy
 lira
+litchi
 lite
 lithe
 lithely
@@ -2710,6 +2725,7 @@ roll
 rondo
 rood
 roof
+rook
 room
 roomful
 root
@@ -2744,6 +2760,7 @@ taco
 tact
 tactic
 tactical
+tactile
 taffeta
 taffy
 tail
@@ -3089,6 +3106,7 @@ wand
 waning
 wanna
 want
+warlord
 warm
 warming
 warn
@@ -3150,6 +3168,7 @@ wonton
 wood
 wooded
 wooden
+woodwork
 wooed
 woof
 woohoo
