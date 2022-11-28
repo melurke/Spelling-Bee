@@ -6090,6 +6090,7 @@ doppings
 dorado
 dorads
 dorized
+dork
 dorm
 dormers
 dormins
@@ -9510,7 +9511,6 @@ gimp
 gimpier
 gimping
 gimpy
-gingeli
 ginger
 gingers
 gingiva
@@ -12671,9 +12671,7 @@ legalized
 legalizing
 legates
 legends
-legge
 legged
-leggin
 leggy
 legion
 legit
@@ -12799,7 +12797,6 @@ liftgate
 liftman
 lifts
 ligate
-ligge
 light
 lightbulb
 lighted
@@ -12978,6 +12975,7 @@ lixiviate
 llama
 llanero
 llano
+load
 loaden
 loadstar
 loaf
@@ -16041,6 +16039,7 @@ ointments
 ojime
 okaying
 okimonos
+okra
 oldens
 oldie
 olds
@@ -20896,6 +20895,7 @@ roadeo
 roadless
 roadmaps
 roadsman
+roadwork
 roadworks
 roam
 roamer
@@ -27252,18 +27252,22 @@ woosells
 woot
 wootzes
 wopped
+word
 wordage
 wordish
+work
 workaday
 worker
 workflow
 workforce
 workhours
+workload
 workman
 workshop
 worksome
 workups
 worlded
+worlds
 wormeries
 wormhole
 worming
@@ -27317,7 +27321,6 @@ wysiwyg
 xanthams
 xanthic
 xanthoma
-xenic
 xenogeny
 xenopus
 xerarch

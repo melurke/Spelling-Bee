@@ -1040,6 +1040,7 @@ doomed
 door
 doornail
 dorado
+dork
 dotard
 dote
 doted
@@ -1220,6 +1221,8 @@ excellence
 excellent
 excellently
 exec
+exile
+exiling
 expel
 expellee
 extent
@@ -2012,6 +2015,7 @@ livid
 lividly
 llama
 llano
+load
 loaf
 loam
 loamy
@@ -2387,6 +2391,7 @@ offload
 ogee
 oiled
 ointment
+okra
 oldie
 oleic
 oleo
@@ -2715,6 +2720,7 @@ rill
 rind
 riparian
 road
+roadwork
 roam
 roan
 roar
@@ -3176,6 +3182,10 @@ wooing
 wool
 woolen
 woot
+word
+work
+workload
+worlds
 wowed
 wowing
 wring
