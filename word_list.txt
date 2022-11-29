@@ -2927,7 +2927,6 @@ cabby
 cabin
 cable
 cabled
-cabman
 caboceers
 cabombas
 cabretta
@@ -3113,7 +3112,6 @@ cannabinoid
 cannas
 canned
 cannelure
-cannie
 canning
 cannon
 cannonading
@@ -7362,6 +7360,7 @@ excellence
 excellences
 excellent
 excellently
+excelling
 except
 exceptless
 excerpta
@@ -9377,6 +9376,7 @@ gelid
 gelider
 gelignites
 gelled
+gelling
 gelosy
 gelsemines
 gelsemiums
@@ -12672,6 +12672,7 @@ legalizing
 legates
 legends
 legged
+legging
 leggy
 legion
 legit
@@ -15449,6 +15450,7 @@ negator
 neglect
 neglecting
 negligeable
+negligee
 negligence
 negligible
 negress
@@ -15565,6 +15567,7 @@ nifty
 niger
 nigger
 niggerism
+niggle
 niggler
 niggly
 nigh

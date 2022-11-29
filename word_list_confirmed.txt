@@ -119,6 +119,7 @@ aloof
 alpaca
 alpha
 although
+ambience
 amen
 amid
 amity
@@ -1220,6 +1221,7 @@ excel
 excellence
 excellent
 excellently
+excelling
 exec
 exile
 exiling
@@ -1452,6 +1454,7 @@ gelded
 gelee
 gelid
 gelled
+gelling
 gelt
 gene
 genetic
@@ -1677,6 +1680,7 @@ hutch
 huzzah
 hype
 hypo
+iambic
 iced
 icefall
 iceman
@@ -1949,6 +1953,7 @@ legal
 legalize
 legalized
 legged
+legging
 legit
 lemma
 lemon
@@ -2191,6 +2196,7 @@ minded
 mine
 mined
 mini
+minicab
 minicam
 minim
 minima
@@ -2295,6 +2301,7 @@ need
 needed
 neglect
 neglecting
+negligee
 negligence
 nene
 neocon
@@ -2318,6 +2325,7 @@ nicking
 nicotine
 niece
 nifty
+niggle
 nigh
 night
 nine
