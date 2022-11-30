@@ -605,6 +605,7 @@ ambassadresses
 ambassy
 amber
 amberite
+ambiance
 ambience
 ambits
 ambler
@@ -615,6 +616,7 @@ ambulacra
 ambulate
 ameba
 amebean
+amebic
 ameboid
 ameers
 amelias
@@ -1796,6 +1798,7 @@ beavers
 bebop
 bebopping
 becalm
+became
 becaps
 beccafico
 beck
@@ -2922,6 +2925,7 @@ cabana
 cabarets
 cabbalah
 cabbalisms
+cabbie
 cabbing
 cabby
 cabin

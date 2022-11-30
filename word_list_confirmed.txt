@@ -37,6 +37,7 @@ addend
 addenda
 addict
 adding
+additional
 adjourn
 adman
 admit
@@ -119,7 +120,9 @@ aloof
 alpaca
 alpha
 although
+ambiance
 ambience
+amebic
 amen
 amid
 amity
@@ -309,6 +312,7 @@ beady
 beak
 beaked
 bebop
+became
 beck
 bedded
 bedeck
@@ -518,6 +522,7 @@ byte
 cabal
 cabala
 cabana
+cabbie
 cabbing
 cabby
 cabin
