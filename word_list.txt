@@ -4039,6 +4039,7 @@ coddles
 code
 coded
 codeia
+codeine
 coden
 codependent
 codevelop
@@ -4092,7 +4093,9 @@ coifs
 coil
 coiled
 coin
+coincide
 coincided
+coincidence
 coined
 coining
 coins
@@ -4331,6 +4334,7 @@ conima
 coniosis
 conjeeing
 conjoin
+conjoined
 conjoint
 conjunct
 conjurors
@@ -5438,6 +5442,7 @@ demurrers
 denary
 denazified
 denial
+denied
 denim
 denitrate
 denizening
@@ -5742,6 +5747,8 @@ dimpling
 dimwit
 dinar
 dindle
+dine
+dined
 dinero
 dinful
 ding
@@ -5757,6 +5764,7 @@ dinnerware
 dino
 dins
 diobolons
+diode
 dioecism
 diopside
 dioptre
@@ -5969,6 +5977,8 @@ dizain
 dizzards
 dizzy
 djibbah
+djinn
+djinni
 doab
 doats
 dobbins
@@ -6455,6 +6465,7 @@ eclectically
 eclipser
 eclipsises
 eclose
+ecocide
 economic
 economises
 economy
@@ -6930,6 +6941,8 @@ enhearsed
 enhungers
 enigmas
 enjambement
+enjoin
+enjoined
 enjoinment
 enjoys
 enkindles
@@ -9500,7 +9513,6 @@ gillaroos
 gilled
 gillflirt
 gillnet
-gilly
 gilpies
 gilt
 giltcup
@@ -9600,7 +9612,6 @@ glimpses
 glinting
 gliomas
 glissades
-glit
 glitters
 glitzing
 gloams
@@ -11027,7 +11038,6 @@ idyls
 iffinesses
 iffy
 igarape
-iglu
 ignescents
 ignifying
 ignite
@@ -11321,6 +11331,7 @@ indamines
 indebtedness
 indecent
 indecisions
+indeed
 indefiniteness
 indelibleness
 indemnifier
@@ -11335,6 +11346,7 @@ indiciums
 indict
 indicted
 indictions
+indie
 indifference
 indigenes
 indigenized
@@ -11913,6 +11925,8 @@ jingbangs
 jingling
 jingoists
 jinks
+jinn
+jinni
 jinxed
 jipyapa
 jirds
@@ -11931,6 +11945,8 @@ jodhpur
 joggers
 joggling
 johnnie
+join
+joined
 joineries
 jointer
 joisted
@@ -13205,10 +13221,8 @@ lupous
 lupulinic
 lurched
 lurdens
-lurgi
 luring
 luringly
-lurry
 lushes
 lushy
 luster

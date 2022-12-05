@@ -737,6 +737,7 @@ cocooning
 coda
 code
 coded
+codeine
 codon
 coed
 coffee
@@ -745,6 +746,10 @@ cognition
 coho
 coil
 coin
+coincide
+coincided
+coincidence
+coined
 coining
 coital
 cola
@@ -780,6 +785,7 @@ conflict
 confluence
 conic
 conjoin
+conjoined
 conjoint
 connect
 connection
@@ -960,6 +966,7 @@ demitted
 demo
 demoed
 demon
+denied
 denim
 depend
 detect
@@ -998,10 +1005,13 @@ dime
 dimmed
 dimwit
 dinar
+dine
+dined
 ding
 dinging
 dining
 dino
+diode
 dipped
 dipping
 dirndl
@@ -1019,6 +1029,8 @@ divined
 divot
 divvied
 divvy
+djinn
+djinni
 doctor
 dodo
 doff
@@ -1105,6 +1117,7 @@ echinacea
 echo
 echoic
 eclectic
+ecocide
 ecotone
 edamame
 eddied
@@ -1188,6 +1201,8 @@ engaged
 engine
 enhance
 enhanced
+enjoin
+enjoined
 enlace
 enliven
 ennead
@@ -1489,6 +1504,7 @@ gilt
 ginning
 gird
 girding
+girl
 glace
 glad
 glade
@@ -1753,8 +1769,10 @@ incontinent
 inconvenience
 inconvenienced
 indecent
+indeed
 indict
 indicted
+indie
 indoor
 inefficient
 infant
@@ -1812,6 +1830,7 @@ invited
 invitee
 invoice
 invoiced
+iodine
 ionic
 ionizing
 iota
@@ -1827,8 +1846,12 @@ javelin
 javelina
 jean
 jell
+jinn
+jinni
 jive
 jocular
+join
+joined
 jolly
 journal
 journo
