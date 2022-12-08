@@ -288,6 +288,7 @@ banana
 banc
 bang
 banging
+banjo
 bank
 bankable
 banked
@@ -1520,6 +1521,8 @@ glia
 glib
 glide
 glided
+glop
+gloppy
 glow
 glowing
 glug
@@ -1844,6 +1847,7 @@ itty
 ivied
 javelin
 javelina
+jawbone
 jean
 jell
 jinn
@@ -1852,6 +1856,7 @@ jive
 jocular
 join
 joined
+jojoba
 jolly
 journal
 journo
@@ -2657,6 +2662,7 @@ pommel
 pomp
 pompom
 pone
+pong
 pontoon
 pony
 pooh

@@ -965,7 +965,6 @@ apogamy
 apogee
 apogees
 apolitical
-apologal
 apologs
 apomict
 apomixis
@@ -1633,6 +1632,7 @@ banging
 bangkoks
 bani
 banishing
+banjo
 banjulele
 bank
 bankable
@@ -11856,6 +11856,7 @@ jaups
 javelin
 javelina
 jawans
+jawbone
 jawfalls
 jaybird
 jazerant
@@ -11950,6 +11951,7 @@ joined
 joineries
 jointer
 joisted
+jojoba
 joker
 jokiest
 joled
@@ -15739,13 +15741,11 @@ nonmusics
 nonnatural
 nonnovel
 nonoccurrence
-nonpagan
 nonpaid
 nonpalatals
 nonpar
 nonpast
 nonperformer
-nonplay
 nonplusses
 nonpolar
 nonpossession
@@ -15784,7 +15784,6 @@ noon
 noonings
 noontime
 noosers
-nopal
 nope
 norepinephrine
 nori
@@ -16755,7 +16754,6 @@ palstaves
 palterer
 paltrily
 paludinal
-palynology
 pampa
 pampas
 pampean
@@ -16791,7 +16789,6 @@ panettone
 panfish
 panful
 pang
-panga
 pangamy
 pangene
 pangens
@@ -18394,7 +18391,6 @@ pollman
 polls
 pollusions
 polluter
-pollyanna
 pollywogs
 polo
 poloists
@@ -18408,7 +18404,6 @@ polyact
 polycarpy
 polyclone
 polycotton
-polygala
 polygam
 polyglot
 polyglotts
