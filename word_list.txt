@@ -325,6 +325,7 @@ agamogeneses
 agamy
 agapeic
 agast
+agate
 agatizing
 agaze
 aged
@@ -335,6 +336,7 @@ agemates
 agenda
 ageneses
 agenizing
+agent
 agents
 agger
 aggraced
@@ -350,6 +352,8 @@ agisms
 agists
 agitation
 agitprop
+agleam
+aglet
 agloos
 agmas
 agname
@@ -581,6 +585,8 @@ alumnus
 alveated
 alveoles
 amadou
+amalgam
+amalgamate
 amalgamated
 amalgams
 amanitas
@@ -4933,7 +4939,6 @@ cuttled
 cutup
 cuvette
 cyan
-cyanic
 cyanines
 cyanizing
 cyathus
@@ -6407,6 +6412,7 @@ each
 eagerly
 eagle
 eagled
+eaglet
 eaglets
 eanling
 earbob
@@ -6603,6 +6609,7 @@ electro
 electrolyte
 electrum
 elegance
+elegant
 elegantly
 elegise
 elegize
@@ -6914,6 +6921,7 @@ enfreezes
 enfrozen
 engage
 engaged
+engagement
 engagements
 engaol
 engenderer
@@ -7006,6 +7014,8 @@ entail
 entame
 entamed
 entamoebae
+entangle
+entanglement
 entasia
 entellus
 entente
@@ -9217,11 +9227,13 @@ galdragon
 gale
 galenas
 gales
+galette
 galiongee
 gall
 gallabea
 gallabieh
 gallamine
+gallant
 gallantnesses
 galled
 galleries
@@ -9256,17 +9268,21 @@ gambling
 gambogian
 gambos
 gambusia
+game
 gamed
+gamelan
 gamelans
 gameness
 games
 gamesmen
 gamest
 gametal
+gamete
 gametic
 gamiest
 gaminerie
 gaming
+gamma
 gammadia
 gammation
 gammers
@@ -9336,6 +9352,7 @@ gasted
 gastnesses
 gastric
 gasts
+gate
 gatekeeper
 gateman
 gateway
@@ -9429,10 +9446,13 @@ genoa
 genomes
 genros
 gent
+genteel
 genteelise
 gentes
 gentiles
 gentilitian
+gentle
+gentleman
 gentlemen
 gently
 genty
@@ -9583,6 +9603,7 @@ glaze
 glazed
 glazing
 glazy
+gleam
 gleamed
 gleaming
 glean
@@ -9661,6 +9682,7 @@ glyphs
 gmelinite
 gnarr
 gnashers
+gnat
 gnatling
 gnaw
 gnawed
@@ -12691,6 +12713,8 @@ legalist
 legalize
 legalized
 legalizing
+legate
+legatee
 legates
 legends
 legged
@@ -13331,6 +13355,8 @@ mafiosi
 mafiosos
 maftirs
 magdalen
+mage
+magenta
 magentas
 maggid
 maggot
@@ -13340,8 +13366,10 @@ magic
 magician
 magilp
 magisms
+magma
 magmas
 magnanimity
+magnate
 magneses
 magnet
 magnets
@@ -13483,6 +13511,7 @@ mammoth
 mammoths
 mamselles
 manacling
+manage
 management
 manageress
 managing
@@ -13507,13 +13536,16 @@ maneged
 manehs
 manet
 manfully
+manga
 mangaby
 manganates
 manganic
 manganous
+mange
 mangel
 manges
 manginess
+mangle
 mangled
 mango
 mangos
@@ -13892,6 +13924,7 @@ meet
 meeter
 meetings
 meets
+mega
 megabit
 megadeals
 megadyne
@@ -13916,6 +13949,7 @@ meitnerium
 mekometers
 melamine
 melanaemias
+melange
 melanic
 melanisms
 melanoma
@@ -15362,6 +15396,7 @@ namecheck
 namelessness
 nameplate
 namesake
+nametag
 nametape
 namings
 nana
@@ -15465,6 +15500,7 @@ needliest
 needment
 neesberry
 neezing
+negate
 negaters
 negator
 neglect
@@ -24336,6 +24372,7 @@ tang
 tangent
 tanghins
 tanging
+tangle
 tanglement
 tangoed
 tangrams
@@ -24498,6 +24535,7 @@ teemed
 teemful
 teemless
 teen
+teenage
 teended
 teenful
 teentier
