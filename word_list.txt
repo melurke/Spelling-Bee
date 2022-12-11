@@ -3825,6 +3825,7 @@ citric
 citriculturist
 citron
 citterns
+city
 cityfy
 civic
 civilian
@@ -4959,6 +4960,7 @@ cymbidium
 cymes
 cymogene
 cymose
+cynic
 cynically
 cypher
 cypreses
@@ -10667,7 +10669,6 @@ hobs
 hockeys
 hocused
 hoddles
-hodmandod
 hodoscopes
 hoelike
 hogens
@@ -11653,6 +11654,7 @@ intoner
 intoxication
 intranational
 intravitam
+intricacy
 intricate
 intrince
 intromission
@@ -15868,7 +15870,6 @@ novennial
 novice
 novobiocins
 nowel
-nown
 noxes
 noyau
 noysome

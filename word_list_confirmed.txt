@@ -696,6 +696,7 @@ citify
 citing
 citric
 citron
+city
 civic
 clack
 clacked
@@ -862,6 +863,7 @@ curry
 cute
 cutout
 cyan
+cynic
 dace
 dacha
 daddy
@@ -1844,6 +1846,7 @@ intent
 intimacy
 into
 intonation
+intricacy
 intuiting
 inuring
 inurn
@@ -2301,6 +2304,7 @@ molly
 moment
 momma
 mommy
+monad
 mondo
 mono
 mononym
