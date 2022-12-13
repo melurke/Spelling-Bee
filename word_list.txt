@@ -32,7 +32,6 @@ ableisms
 ablings
 ably
 abode
-abolla
 abomas
 abomasum
 abord
@@ -139,7 +138,6 @@ acing
 ackers
 acme
 acne
-acock
 aconitic
 acosmists
 acquests
@@ -1496,7 +1494,6 @@ baaing
 baalisms
 baaskap
 baba
-babaco
 babbitry
 babble
 babbling
@@ -2385,7 +2382,6 @@ boatful
 boatlift
 boatmen
 boba
-bobac
 bobbed
 bobbers
 bobbish
@@ -12340,7 +12336,6 @@ knurls
 koala
 koalas
 koan
-kobo
 koffs
 koftwork
 kohl
@@ -13048,7 +13043,6 @@ lobefin
 lobi
 loblolly
 lobo
-lobola
 lobscouse
 lobules
 local
@@ -15971,7 +15965,6 @@ obligee
 oblique
 obloquy
 oboe
-obole
 obruk
 obscurer
 observed
@@ -26967,8 +26960,10 @@ weevily
 weftage
 weftes
 weigela
+weigh
 weigher
 weighmen
+weight
 weights
 weimaraner
 weirdie
@@ -27130,6 +27125,7 @@ wifies
 wifty
 wiggier
 wigging
+wiggle
 wiggles
 wiggling
 wight

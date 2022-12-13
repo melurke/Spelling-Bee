@@ -737,6 +737,7 @@ cobble
 cobbled
 coca
 cocci
+cockle
 cocktail
 cocoa
 coconut
@@ -2049,6 +2050,7 @@ light
 lightbulb
 lighted
 lightly
+lightweight
 like
 liked
 likelihood
@@ -3081,6 +3083,7 @@ tween
 tweet
 tweeted
 twig
+twilight
 twilit
 twill
 twin
@@ -3214,6 +3217,8 @@ watt
 wedded
 weed
 weeded
+weigh
+weight
 weld
 welded
 well
@@ -3230,6 +3235,7 @@ whiting
 whoa
 whom
 wigging
+wiggle
 wiggling
 wight
 wigwag
