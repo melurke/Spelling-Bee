@@ -5279,8 +5279,11 @@ defected
 defeminize
 defenceless
 defencemen
+defend
 defendable
+defended
 defender
+defending
 defense
 defenselessness
 defenseman
@@ -5300,9 +5303,11 @@ defilades
 defile
 defiled
 defilers
+define
 defined
 defines
 definiendum
+defining
 definite
 definitive
 defis
@@ -5315,7 +5320,10 @@ deflowered
 defoamed
 defoams
 defocussed
+defog
+defogged
 defogger
+defogging
 deforce
 deforces
 deforesters
@@ -5455,7 +5463,6 @@ denouncer
 densest
 densifies
 dentals
-dentel
 dentiled
 dentist
 dentures
@@ -5714,6 +5721,7 @@ digitation
 digitize
 digits
 diglot
+dignified
 dignifying
 digraph
 dihedra
@@ -7827,6 +7835,7 @@ feed
 feedback
 feedboxes
 feedholes
+feeding
 feedlots
 feedyard
 feel
@@ -7842,6 +7851,8 @@ feetless
 feezing
 fehm
 fehmic
+feign
+feigned
 feignedness
 feigning
 feijoada
@@ -7902,8 +7913,11 @@ fence
 fenceless
 fencerow
 fencing
+fend
+fended
 fender
 fendier
+fending
 fendy
 fenestrae
 fenis
@@ -8041,6 +8055,7 @@ field
 fielded
 fielding
 fieldvole
+fiend
 fiendishnesses
 fierce
 fiercer
@@ -8128,7 +8143,9 @@ finals
 financial
 financings
 finch
+find
 finder
+finding
 findram
 fine
 fined
@@ -8156,6 +8173,7 @@ finjans
 finks
 finnac
 finnan
+finned
 finners
 finnier
 finnochio
@@ -8560,9 +8578,12 @@ fogash
 fogbows
 fogeydom
 foggages
+fogged
 foggier
 fogginesses
+fogging
 foghorns
+fogie
 fogles
 fogman
 fogram
@@ -8604,6 +8625,7 @@ follying
 fomented
 foments
 fomite
+fond
 fondant
 fonder
 fondled
@@ -9753,8 +9775,10 @@ goodmen
 goodwife
 gooey
 gooeynesses
+goof
 goofed
 goofiness
+goofing
 goofproof
 googlies
 googol
@@ -16038,6 +16062,7 @@ offal
 offbeat
 offcut
 offed
+offend
 offended
 offending
 offense
@@ -16050,6 +16075,7 @@ officer
 official
 officiary
 officinal
+offing
 offish
 offkey
 offload
@@ -24530,7 +24556,6 @@ teemful
 teemless
 teen
 teenage
-teended
 teenful
 teentier
 teeny
