@@ -987,9 +987,12 @@ demoed
 demon
 denied
 denim
+dent
+dented
 depend
 detect
 detected
+detente
 deuce
 devein
 deveined
@@ -1533,6 +1536,7 @@ genii
 gent
 genteel
 gentle
+gentled
 gentleman
 gentlemen
 genuine
@@ -2046,12 +2050,16 @@ legalize
 legalized
 legate
 legatee
+legend
 legged
 legging
 legit
 lemma
 lemon
+lend
+length
 lengthen
+lengthened
 lenience
 lenient
 lent
@@ -2409,6 +2417,8 @@ neatly
 necktie
 need
 needed
+needle
+needled
 negate
 neglect
 neglecting
@@ -2610,6 +2620,7 @@ papally
 papaya
 papilla
 pappy
+papyri
 parading
 paranoia
 paranoid
@@ -2617,6 +2628,7 @@ paranormal
 park
 parka
 part
+partita
 patch
 pate
 patently
@@ -2767,6 +2779,7 @@ prat
 priding
 prion
 prior
+priory
 puce
 puff
 puffin
@@ -2968,11 +2981,13 @@ tempi
 tempo
 tempt
 tempted
+tend
 tended
 tenement
 tenet
 tenon
 tent
+tented
 tenth
 tenting
 tepee
@@ -3071,6 +3086,7 @@ topic
 topical
 torii
 toroid
+torpor
 torrid
 tote
 toted

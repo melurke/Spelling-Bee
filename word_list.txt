@@ -5462,7 +5462,9 @@ denotement
 denouncer
 densest
 densifies
+dent
 dentals
+dented
 dentiled
 dentist
 dentures
@@ -5571,6 +5573,7 @@ detainment
 detect
 detected
 detectivist
+detente
 detention
 deterge
 deterging
@@ -9472,6 +9475,7 @@ gentes
 gentiles
 gentilitian
 gentle
+gentled
 gentleman
 gentlemen
 gently
@@ -12737,6 +12741,7 @@ legalizing
 legate
 legatee
 legates
+legend
 legends
 legged
 legging
@@ -12766,8 +12771,11 @@ lemon
 lemoning
 lempira
 lemurs
+lend
 lenes
+length
 lengthen
+lengthened
 lenience
 leniences
 lenient
@@ -15514,7 +15522,9 @@ needcessities
 needed
 needful
 needfuls
+needle
 needlecord
+needled
 needlers
 needliest
 needment
@@ -17054,7 +17064,6 @@ parousia
 parpanes
 parpends
 parping
-parr
 parrals
 parramattas
 parrhesia
@@ -17062,7 +17071,6 @@ parridge
 parries
 parrocks
 parroter
-parroty
 pars
 parsecs
 parses
@@ -17072,7 +17080,6 @@ part
 partake
 partakes
 parter
-parti
 partiality
 participate
 partier
@@ -18074,7 +18081,6 @@ piragua
 pirana
 pirarucu
 pirates
-piraya
 piriform
 pirns
 pirogi
@@ -18116,7 +18122,6 @@ pitier
 pitiful
 pitilessly
 pitmans
-pitprop
 pitsaws
 pitted
 pittering
@@ -18568,7 +18573,6 @@ poop
 poor
 poorhouses
 poorlier
-poort
 poorwill
 pooted
 poots
@@ -18727,7 +18731,6 @@ pothouses
 potins
 potlatch
 potometer
-potoroo
 potpourri
 potshops
 potsies
@@ -18812,7 +18815,6 @@ pratfalls
 praties
 pratted
 prattler
-praty
 pravity
 prawn
 prawning
@@ -19291,7 +19293,6 @@ prophetess
 prophies
 propine
 propitiate
-propitiatory
 propman
 propodeum
 proponed
@@ -20939,7 +20940,6 @@ rippliest
 ripply
 riprapping
 ripsawn
-ript
 risen
 risible
 riskers
@@ -21039,7 +21039,6 @@ roomies
 roominesses
 rooms
 rooped
-roopit
 roorbacks
 rooses
 root
@@ -24647,6 +24646,7 @@ temulence
 tenaces
 tenails
 tenantries
+tend
 tended
 tender
 tenderfoot
@@ -24673,6 +24673,7 @@ tensimeters
 tensions
 tent
 tentation
+tented
 tentered
 tenth
 tenths
@@ -25427,7 +25428,6 @@ trinket
 trinkum
 triols
 trioxid
-tripart
 tripartisms
 tripemen
 tripey
@@ -25445,7 +25445,6 @@ tripplers
 trips
 triptote
 tripudia
-tripy
 trisceles
 triseme
 trismus
@@ -25482,14 +25481,12 @@ tromps
 trons
 trooper
 troops
-trop
 troped
 trophotropic
 tropin
 tropism
 tropists
 tropophyte
-troppo
 troths
 trough
 troupe
