@@ -84,6 +84,7 @@ aioli
 airboat
 airdrop
 airflow
+airport
 airy
 ajar
 alack
@@ -187,6 +188,7 @@ apemen
 aphid
 apian
 apianaping
+apiary
 apiece
 aplenty
 apogee
@@ -599,6 +601,7 @@ card
 cardiac
 cardio
 cardioid
+carnal
 carny
 carol
 carotid
@@ -631,6 +634,7 @@ cello
 cent
 chad
 chai
+chain
 chair
 chalice
 chalk
@@ -845,6 +849,7 @@ coven
 coyly
 coyote
 crack
+cranial
 cranny
 crap
 critic
@@ -2625,10 +2630,15 @@ parading
 paranoia
 paranoid
 paranormal
+paratroop
+parity
 park
 parka
+parrot
+parry
 part
 partita
+party
 patch
 pate
 patently
@@ -2636,6 +2646,7 @@ path
 patina
 patio
 patly
+patriot
 patty
 pavement
 payee
@@ -2771,15 +2782,21 @@ poppa
 poppet
 poppy
 porno
+port
+portrait
+portray
 potato
 potent
 potty
 pout
 prat
+pray
 priding
 prion
 prior
+priority
 priory
+prop
 puce
 puff
 puffin
@@ -2800,6 +2817,7 @@ puppy
 putout
 putt
 putty
+pyro
 python
 queening
 queueing
@@ -2809,6 +2827,7 @@ quitting
 rabbi
 rabbit
 rabid
+racial
 rack
 racy
 radar
@@ -2835,7 +2854,9 @@ rand
 rani
 rapid
 rapini
+rapport
 rapt
+raptor
 rarity
 ratatat
 ratify
@@ -2874,6 +2895,7 @@ rook
 room
 roomful
 root
+ropy
 rotary
 rotatory
 rough
@@ -2935,6 +2957,8 @@ tanzanite
 tapa
 tape
 tapioca
+tapir
+taproot
 tarp
 tarry
 tart
@@ -3082,6 +3106,7 @@ tooth
 toothy
 topcoat
 tope
+topiary
 topic
 topical
 torii
@@ -3113,7 +3138,10 @@ trap
 tray
 triad
 trinity
+trip
+trippy
 trod
+troop
 troy
 tuba
 tubby

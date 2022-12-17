@@ -405,6 +405,7 @@ airmailed
 airmen
 airpark
 airplays
+airport
 airposts
 airproofs
 airshafts
@@ -946,6 +947,7 @@ aphthous
 apian
 apianaping
 apiaries
+apiary
 apically
 apiculus
 apiece
@@ -3234,7 +3236,6 @@ carful
 cargos
 cariamas
 carices
-carinal
 carious
 carjacks
 carle
@@ -3474,7 +3475,6 @@ chain
 chainsaw
 chair
 chais
-chalan
 chalazia
 chalice
 chalk
@@ -4655,7 +4655,6 @@ cramped
 crampier
 crampon
 cramps
-cranch
 cranial
 cranium
 crankle
@@ -11320,7 +11319,6 @@ inanimateness
 inanity
 inapparent
 inapt
-inarch
 inarming
 inaugural
 inbound
@@ -17004,6 +17002,7 @@ parasitism
 parasols
 parataxes
 paratheses
+paratroop
 paratroops
 paravant
 parazoa
@@ -17036,6 +17035,7 @@ paries
 parings
 parish
 parities
+parity
 park
 parka
 parkas
@@ -17070,7 +17070,9 @@ parrhesia
 parridge
 parries
 parrocks
+parrot
 parroter
+parry
 pars
 parsecs
 parses
@@ -17090,6 +17092,7 @@ partlet
 partnered
 partook
 partway
+party
 partyers
 parve
 parvis
@@ -17180,6 +17183,7 @@ patooties
 patriarch
 patriates
 patriciate
+patriot
 patriotic
 patrol
 patronal
@@ -18630,6 +18634,7 @@ porpoised
 porrect
 porrengers
 porrigos
+port
 portae
 portapack
 portases
@@ -18646,7 +18651,9 @@ portlasts
 portman
 portoises
 portouses
+portrait
 portraits
+portray
 portrays
 portresses
 posable
@@ -18819,6 +18826,7 @@ pravity
 prawn
 prawning
 praxises
+pray
 prayerless
 prays
 preach
@@ -19158,6 +19166,7 @@ prion
 prior
 prioress
 prioritise
+priority
 priorly
 priory
 prised
@@ -19275,6 +19284,7 @@ proofreader
 proofroom
 proofrooms
 prootics
+prop
 propagator
 propages
 propaled
@@ -19690,6 +19700,7 @@ pyrexia
 pyridine
 pyriform
 pyritise
+pyro
 pyrogallol
 pyrolas
 pyrolyses
@@ -19812,7 +19823,6 @@ rabbiter
 rabbled
 rabic
 rabid
-raca
 racecards
 racehorses
 racemed
@@ -19964,9 +19974,11 @@ rappee
 rappelled
 rappers
 rappinis
+rapport
 rapports
 rapt
 raptly
+raptor
 raptorial
 raptures
 rarebit
@@ -20859,7 +20871,6 @@ ricin
 ricker
 rickeys
 ricksha
-ricrac
 ridded
 ridding
 riddlers
@@ -21052,6 +21063,7 @@ roperies
 ropeway
 ropier
 ropinesses
+ropy
 roquelaure
 rore
 rorquals
@@ -24425,12 +24437,14 @@ tapestries
 tapetis
 tapetum
 tapioca
+tapir
 tapirs
 tapists
 tappable
 tappers
 tappices
 taprooms
+taproot
 tapsieteerie
 tapsman
 tapstry
@@ -25165,6 +25179,7 @@ topeks
 topful
 tophs
 topiarist
+topiary
 topic
 topical
 topkick
@@ -25428,6 +25443,7 @@ trinket
 trinkum
 triols
 trioxid
+trip
 tripartisms
 tripemen
 tripey
@@ -25442,6 +25458,7 @@ tripperish
 trippets
 trippings
 tripplers
+trippy
 trips
 triptote
 tripudia
@@ -25479,6 +25496,7 @@ tromp
 tromped
 tromps
 trons
+troop
 trooper
 troops
 troped
