@@ -1116,6 +1116,7 @@ argue
 argufy
 arguing
 argyles
+arhat
 arhatship
 aria
 arid
@@ -1314,6 +1315,7 @@ atheromata
 athetizes
 athlete
 athletic
+athwart
 atilt
 atlases
 atmans
@@ -10321,6 +10323,7 @@ harpers
 harpins
 harpooneer
 harpy
+harrow
 harrowed
 harrumph
 harry
@@ -10367,6 +10370,7 @@ hawkeys
 hawks
 hawms
 hawsepipe
+hawthorn
 hayband
 hayey
 hayloft
@@ -10675,6 +10679,7 @@ hitmen
 hitting
 hiveless
 hizens
+hoar
 hoarder
 hoarhound
 hoarsenesses
@@ -10809,6 +10814,7 @@ hoop
 hooped
 hoopla
 hoops
+hoorah
 hoorahs
 hoosegow
 hoot
@@ -10825,9 +10831,11 @@ hoppling
 hoppy
 hopsacks
 hoptoads
+hora
 horded
 horehound
 hormone
+horn
 horned
 hornier
 hornists
@@ -10837,6 +10845,7 @@ horography
 horoscope
 horrible
 horrified
+horror
 hors
 horsefleshes
 horsemen
@@ -15722,6 +15731,7 @@ nodosity
 nodulous
 noel
 noggs
+nohow
 nointed
 noir
 noiseless
@@ -15856,6 +15866,7 @@ normal
 normande
 norming
 norsels
+north
 northered
 northing
 nosebag
@@ -16026,7 +16037,6 @@ ocelli
 ocherous
 ochlophobic
 ochres
-ocotillo
 octad
 octan
 octant
@@ -24786,6 +24796,7 @@ that
 thatch
 thatcher
 thatchy
+thaw
 thawier
 theater
 theave
@@ -24855,6 +24866,7 @@ tholeiites
 tholus
 thong
 thorax
+thorn
 thorned
 thoro
 thorp
@@ -24887,7 +24899,9 @@ throb
 thrombi
 thropple
 throttles
+throw
 throwe
+thrown
 thru
 thrummers
 thrushes
@@ -25106,7 +25120,6 @@ tollable
 tolled
 tollings
 tollmen
-tolt
 toluene
 toluole
 tolzey
@@ -25200,6 +25213,7 @@ topsmen
 topspins
 topwork
 tora
+torah
 torbernite
 torches
 torcular
@@ -25505,6 +25519,7 @@ tropin
 tropism
 tropists
 tropophyte
+troth
 troths
 trough
 troupe
@@ -26749,10 +26764,8 @@ vola
 volatic
 voled
 volitant
-volitive
 volleyer
 volpinos
-volte
 volume
 voluspas
 volvas
@@ -27054,7 +27067,9 @@ whangams
 whapped
 whaps
 wharfie
+what
 whatness
+whatnot
 whatsits
 whaurs
 wheaten
@@ -27369,6 +27384,7 @@ worrit
 worrywart
 worsens
 worships
+worth
 worthed
 wosbirds
 woubit
@@ -27401,6 +27417,7 @@ writher
 wrizled
 wronged
 wrongs
+wroth
 wrung
 wryness
 wulling
