@@ -320,7 +320,6 @@ agalactia
 agamete
 agamid
 agamogeneses
-agamy
 agapeic
 agast
 agate
@@ -967,7 +966,6 @@ apocopes
 apode
 apodosis
 apogamic
-apogamy
 apogee
 apogees
 apolitical
@@ -6292,6 +6290,7 @@ drums
 drunks
 drupels
 druthers
+dryad
 dryasdust
 dryings
 drys
@@ -9279,8 +9278,6 @@ galopping
 galowses
 galumph
 galyac
-gama
-gamay
 gambade
 gambados
 gambeers
@@ -9330,7 +9327,6 @@ gangway
 gannets
 ganoine
 gantlet
-gaol
 gape
 gapes
 gaping
@@ -9760,7 +9756,6 @@ gombeens
 gombroon
 gomeral
 gomers
-gompa
 gomphoses
 gomutis
 gondola
@@ -10269,6 +10264,7 @@ handmaiden
 handplay
 handsels
 handstaff
+handy
 hanepoot
 hang
 hangdogs
@@ -10296,16 +10292,19 @@ haptera
 harambee
 harasser
 harborer
+hard
 hardasses
 hardboot
 hardener
 hardgrasses
+hardhat
 hardhead
 hardies
 hardness
 hardparts
 hardships
 hardwired
+hardy
 hareem
 harems
 harijans
@@ -10991,6 +10990,8 @@ huzzas
 hyaena
 hyaloid
 hydatids
+hydra
+hydrant
 hydrarch
 hydria
 hydrilla
@@ -13854,7 +13855,6 @@ maximite
 maximizer
 maximum
 maxixe
-maya
 mayapples
 maybush
 mayest
@@ -13865,7 +13865,6 @@ mayoral
 mayoralty
 mayos
 maypole
-maypop
 mayst
 mayvins
 mazaedium
@@ -15120,7 +15119,6 @@ mowas
 mower
 mown
 moxa
-moya
 moyl
 moyling
 mozed
@@ -15345,7 +15343,6 @@ muzzinesses
 muzzlers
 mvule
 myalgias
-myall
 mycele
 mycelium
 mycologic
@@ -18479,7 +18476,6 @@ polyact
 polycarpy
 polyclone
 polycotton
-polygam
 polyglot
 polyglotts
 polygons
@@ -19960,6 +19956,7 @@ rancored
 rand
 randed
 randinesses
+randy
 ranee
 ranged
 ranging
@@ -24465,6 +24462,7 @@ tarantisms
 taratantaras
 tarcel
 tardive
+tardy
 targed
 targets
 tariffing
@@ -27459,6 +27457,7 @@ yappie
 yapping
 yappy
 yaps
+yard
 yardage
 yardarm
 yardman

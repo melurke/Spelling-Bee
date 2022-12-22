@@ -1113,6 +1113,7 @@ dram
 drama
 draping
 drat
+dray
 drib
 drill
 drip
@@ -1120,6 +1121,7 @@ dripping
 droid
 droll
 drool
+dryad
 duct
 ducted
 dude
@@ -1664,9 +1666,13 @@ halt
 hammy
 hand
 handed
+handy
 hang
 hanged
 happy
+hard
+hardhat
+hardy
 harrow
 harry
 hart
@@ -1781,6 +1787,8 @@ hurray
 hurry
 hutch
 huzzah
+hydra
+hydrant
 hype
 hypo
 iambic
@@ -2239,6 +2247,7 @@ mallow
 mama
 mamma
 mammal
+mammalogy
 mammon
 mammoth
 manage
@@ -2622,6 +2631,7 @@ palely
 paleo
 pall
 palm
+palmy
 palp
 palpable
 pampa
@@ -2865,6 +2875,7 @@ rally
 ramada
 ranch
 rand
+randy
 rani
 rapid
 rapini
@@ -2973,6 +2984,7 @@ tape
 tapioca
 tapir
 taproot
+tardy
 tarp
 tarry
 tart
@@ -3400,6 +3412,7 @@ wroth
 yahoo
 yang
 yappy
+yard
 yarn
 yeah
 yell
