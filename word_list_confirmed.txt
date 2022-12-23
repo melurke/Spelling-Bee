@@ -138,6 +138,7 @@ amok
 amoral
 amorally
 amour
+amply
 amyl
 anal
 anally
@@ -172,6 +173,7 @@ annulling
 anoint
 anon
 anoxia
+anthill
 anti
 antifa
 antitoxin
@@ -193,6 +195,7 @@ apiece
 aplenty
 apogee
 apolitical
+apology
 appall
 apparat
 appeal
@@ -1513,10 +1516,13 @@ galette
 gall
 gallant
 galled
+gallop
+galop
 game
 gamelan
 gamete
 gamma
+gamy
 ganache
 gang
 ganged
@@ -1601,6 +1607,7 @@ gnat
 gnaw
 gnawing
 gnocchi
+goal
 goby
 godhood
 gong
@@ -1881,6 +1888,7 @@ infliction
 info
 infringing
 ingenue
+inhalant
 initial
 initialize
 initiate
@@ -2174,6 +2182,7 @@ loll
 lolled
 lollipop
 lollop
+lollygag
 lone
 long
 longbow
@@ -2786,6 +2795,7 @@ political
 politico
 poll
 polo
+polygamy
 polyp
 pome
 pomelo

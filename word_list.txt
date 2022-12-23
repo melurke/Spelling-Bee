@@ -700,6 +700,7 @@ amplenesses
 amplest
 amplify
 amplosomes
+amply
 ampoule
 ampul
 ampules
@@ -970,6 +971,7 @@ apogee
 apogees
 apolitical
 apologs
+apology
 apomict
 apomixis
 apophatic
@@ -7293,7 +7295,6 @@ etchant
 etens
 eterne
 eternized
-ethanal
 ethane
 ethanol
 etherial
@@ -9269,10 +9270,12 @@ gallisizes
 galliwasp
 gallnuts
 gallooned
+gallop
 gallopaded
 gallops
 gallowses
 galoche
+galop
 galoped
 galopping
 galowses
@@ -9313,6 +9316,7 @@ gammons
 gamogeneses
 gampish
 gamut
+gamy
 gamynesses
 ganache
 gandered
@@ -9715,6 +9719,7 @@ gnomish
 gnosiology
 goad
 goadsman
+goal
 goaled
 goalposts
 goatee
@@ -10187,7 +10192,6 @@ haikai
 hail
 hailed
 hailier
-hain
 hains
 hair
 hairband
@@ -12631,8 +12635,6 @@ laterize
 latewood
 lath
 lathe
-lathen
-lathi
 latinities
 latiseptate
 latitude
@@ -13025,7 +13027,6 @@ lite
 literalisers
 literally
 literatim
-lith
 lithe
 lithely
 litheness
@@ -13135,6 +13136,7 @@ lolled
 lollipop
 lollop
 lolloping
+lollygag
 lollygagged
 lologs
 lomenta
@@ -18476,6 +18478,7 @@ polyact
 polycarpy
 polyclone
 polycotton
+polygamy
 polyglot
 polyglotts
 polygons
@@ -24782,7 +24785,6 @@ textuary
 texturize
 thaim
 thalamic
-thalli
 thalweg
 than
 thanahs
@@ -24840,7 +24842,6 @@ thicking
 thickskin
 thieves
 thigh
-thill
 thimble
 thin
 thine
