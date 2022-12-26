@@ -4034,6 +4034,7 @@ cocoas
 cocomposer
 coconut
 cocoon
+cocooned
 cocooning
 cocoplum
 cocoyams
@@ -4270,6 +4271,8 @@ comuses
 conational
 concause
 conceal
+concede
+conceded
 conceder
 conceit
 conceits
@@ -4288,6 +4291,7 @@ concinnous
 concised
 concisions
 concoct
+concocted
 concocter
 concoction
 concocts
@@ -4299,14 +4303,19 @@ concussing
 condemner
 conder
 condescends
+condo
 condoled
 condominia
+condone
+condoned
 condones
 conducer
 conduct
+conducted
 conduction
 conductus
 cone
+coned
 conepate
 confect
 confer
@@ -4345,8 +4354,10 @@ conjunct
 conjurors
 conky
 connect
+connected
 connection
 connections
+conned
 connes
 conning
 conniptions
@@ -4355,6 +4366,7 @@ connived
 connivent
 connotation
 connote
+connoted
 conns
 conominee
 consciences
@@ -4376,8 +4388,11 @@ contains
 contecks
 contemnor
 contempt
+contend
+contended
 contenements
 content
+contented
 contention
 contentions
 contentments
@@ -4573,6 +4588,7 @@ cottages
 cottered
 cottised
 cotton
+cottoned
 cottonmouth
 cottonwoods
 cotwals
@@ -4588,6 +4604,7 @@ coulomb
 coumaric
 counselee
 count
+counted
 countercurrent
 country
 coup
@@ -5460,6 +5477,8 @@ denitrate
 denizening
 denotates
 denotement
+denounce
+denounced
 denouncer
 densest
 densifies
@@ -5999,6 +6018,7 @@ doats
 dobbins
 doblas
 dobs
+docent
 dochmii
 dockage
 dockets
@@ -6353,6 +6373,7 @@ dumpish
 dumpled
 dumps
 dunams
+dunce
 dunching
 dune
 dung
@@ -6868,6 +6889,8 @@ encircled
 enclave
 enclaved
 encloser
+encode
+encoded
 encodement
 encomendero
 encounter
@@ -15899,7 +15922,6 @@ noun
 noursles
 nousles
 nova
-novalia
 novelette
 novelle
 novennial
@@ -25861,6 +25883,7 @@ uncape
 uncapped
 uncarts
 uncaught
+unceded
 unchaining
 unchecked
 unchosen
@@ -25879,10 +25902,12 @@ uncommon
 uncommonly
 uncondensed
 unconfounded
+unconnected
 unconsciouses
 uncool
 uncope
 uncorded
+uncounted
 uncouple
 uncrazy
 unction
@@ -25921,6 +25946,7 @@ undertint
 underwire
 undeservedness
 undesigning
+undetected
 undiffused
 undine
 undisguised
