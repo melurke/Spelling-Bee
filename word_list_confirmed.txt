@@ -2457,6 +2457,7 @@ nametag
 nametape
 nana
 nankeen
+nannied
 nanny
 nannying
 nanobot
@@ -2707,6 +2708,7 @@ patriot
 patty
 pavement
 pavilion
+pavlova
 payee
 payola
 peat
@@ -3309,6 +3311,7 @@ vandal
 vane
 vanilla
 vanillin
+vanpool
 veal
 veil
 vein
@@ -3339,13 +3342,17 @@ villa
 villain
 villanelle
 vine
+viol
+viola
 violet
+violin
 vivid
 vividly
 voice
 voiced
 void
 voided
+voila
 voodoo
 vote
 voted

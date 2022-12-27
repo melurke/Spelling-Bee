@@ -6006,7 +6006,6 @@ divot
 divulse
 divvied
 divvy
-diwan
 dizain
 dizzards
 dizzy
@@ -10660,7 +10659,6 @@ himself
 hinderer
 hindheads
 hinging
-hinnied
 hint
 hinters
 hinting
@@ -26514,6 +26512,7 @@ vanilla
 vanillin
 vanitied
 vanner
+vanpool
 vant
 vapid
 vapor
@@ -26712,8 +26711,11 @@ vinifying
 vinous
 vintner
 vinylidene
+viol
+viola
 violation
 violet
+violin
 violoncelli
 viperine
 viraginian
@@ -26785,6 +26787,7 @@ voiceovers
 void
 voided
 voids
+voila
 vola
 volatic
 voled
@@ -26831,7 +26834,6 @@ wackoes
 wadded
 waddle
 waddy
-wadi
 wadmals
 wadmoll
 wadsetter
@@ -26850,13 +26852,11 @@ waggon
 wagonages
 wagsome
 wahoo
-waid
 waif
 waifing
 waifts
 wail
 wailfully
-wained
 waistboat
 waistings
 wait
@@ -27119,7 +27119,6 @@ whet
 whetting
 whewellites
 wheyish
-whid
 whids
 whiffers
 whiffiest
