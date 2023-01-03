@@ -1368,7 +1368,6 @@ attractable
 attracters
 attrahent
 attraps
-attrit
 attrits
 attuition
 attunes
@@ -1499,7 +1498,6 @@ baaing
 baalisms
 baaskap
 baba
-babbitry
 babble
 babbling
 babe
@@ -1757,7 +1755,6 @@ batteries
 battiks
 battings
 battlers
-battuta
 batty
 batwoman
 baudric
@@ -3826,6 +3823,7 @@ citron
 citterns
 city
 cityfy
+civet
 civic
 civilian
 civilist
@@ -6550,6 +6548,7 @@ efface
 effacer
 effect
 effectible
+effective
 effectivities
 effectors
 effectuated
@@ -7385,6 +7384,8 @@ eversible
 everts
 everymen
 evhoe
+evict
+evictee
 evicts
 evidence
 evidenced
@@ -8065,6 +8066,7 @@ fickling
 ficos
 fiction
 fictionists
+fictive
 fiddious
 fiddle
 fiddled
@@ -11371,6 +11373,7 @@ incarnadining
 incatenation
 incenser
 incenters
+incentive
 incept
 inceptive
 incessantnesses
@@ -11452,6 +11455,7 @@ induline
 indunas
 indwelling
 inedible
+ineffective
 inefficacies
 inefficient
 inenarrable
@@ -11478,6 +11482,7 @@ infauna
 infaust
 infect
 infecting
+infective
 infecund
 infeftment
 infeoff
@@ -11739,6 +11744,7 @@ invaginating
 invalid
 invariance
 invasivenesses
+invective
 invectives
 inveigler
 invent
@@ -21253,7 +21259,6 @@ ruthfully
 ruts
 ruttinesses
 rutty
-rybat
 ryeflour
 ryfe
 rymming
@@ -25381,7 +25386,6 @@ trapping
 traprock
 trashcan
 trashier
-trat
 traumas
 traumatisms
 travelers
@@ -25583,7 +25587,6 @@ tsigane
 tsktsk
 tsotsi
 tsuris
-tuatara
 tuba
 tubage
 tubbable

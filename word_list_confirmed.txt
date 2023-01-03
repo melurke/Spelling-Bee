@@ -708,6 +708,7 @@ citing
 citric
 citron
 city
+civet
 civic
 clack
 clacked
@@ -1192,6 +1193,7 @@ educed
 eely
 efface
 effect
+effective
 effete
 efficient
 egad
@@ -1298,6 +1300,8 @@ etude
 even
 evened
 event
+evict
+evictee
 evidence
 evidenced
 evident
@@ -1400,6 +1404,7 @@ fettle
 fiat
 fibbed
 fiction
+fictive
 fiddle
 fiddled
 fief
@@ -1878,6 +1883,7 @@ inanity
 inapt
 inaugural
 inbuilt
+incentive
 inch
 inching
 incidence
@@ -1899,11 +1905,13 @@ indict
 indicted
 indie
 indoor
+ineffective
 inefficient
 infant
 infantile
 infantry
 infect
+infective
 infill
 infinite
 infinity
@@ -1948,6 +1956,7 @@ inuring
 inurn
 inurning
 invalid
+invective
 invent
 invented
 invention
