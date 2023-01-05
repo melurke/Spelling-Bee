@@ -1073,6 +1073,7 @@ arapunga
 araucarias
 arbalests
 arbitrable
+arbitrary
 arbitrated
 arbitrator
 arbitress
@@ -1663,6 +1664,7 @@ baratheas
 barb
 barbarianism
 barbarising
+barbarity
 barbarizing
 barbastels
 barbecues
@@ -2636,6 +2638,7 @@ brassily
 brast
 brat
 brattiest
+bratty
 braunch
 brava
 bravely
@@ -2644,6 +2647,7 @@ bravo
 bravuras
 brawlers
 brawns
+bray
 brayers
 brazen
 brazes
@@ -2671,6 +2675,7 @@ brewery
 brewski
 briar
 briared
+briary
 bribed
 bribing
 brickier
@@ -2866,6 +2871,7 @@ burners
 burnoose
 burnt
 burping
+burrata
 burrel
 burrier
 burrowed
@@ -15830,7 +15836,6 @@ noninterest
 nonjoinder
 nonlabor
 nonlethal
-nonlevel
 nonliquid
 nonmeeting
 nonmental
@@ -15839,7 +15844,6 @@ nonmoney
 nonmotile
 nonmusics
 nonnatural
-nonnovel
 nonoccurrence
 nonpaid
 nonpalatals
@@ -15927,7 +15931,6 @@ noursles
 nousles
 nova
 novelette
-novelle
 novennial
 novice
 novobiocins
@@ -16173,7 +16176,6 @@ oleums
 oligaemia
 olingo
 olio
-olivenite
 olivinic
 ollamhs
 ollie
@@ -24538,6 +24540,7 @@ taube
 taunting
 taupes
 taus
+taut
 tautens
 tautog
 tautomer
@@ -25437,6 +25440,7 @@ triaxiality
 tribady
 tribe
 tribune
+tributary
 tricars
 tricepses
 trichitic
@@ -26569,8 +26573,6 @@ veinstone
 velamina
 velate
 veldts
-vell
-vellon
 vellums
 velskoens
 velveted
@@ -26591,7 +26593,6 @@ vengeful
 venial
 venially
 venire
-vennel
 venomed
 venomous
 venousnesses
@@ -26681,7 +26682,6 @@ videoed
 videttes
 vidimuses
 vied
-vielle
 viewed
 viewings
 vifda

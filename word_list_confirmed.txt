@@ -205,6 +205,7 @@ apple
 appliance
 apply
 aptly
+arbitrary
 arbitrator
 arbor
 arborio
@@ -311,6 +312,7 @@ banning
 banyan
 baobab
 barb
+barbarity
 bard
 barf
 barrio
@@ -509,9 +511,12 @@ boycotted
 brad
 braid
 brat
+bratty
 brava
 bravo
+bray
 briar
+briary
 brio
 bubba
 bubble
@@ -530,6 +535,7 @@ bunny
 bunt
 buoy
 buoyant
+burrata
 butt
 butte
 button
@@ -2565,6 +2571,7 @@ notion
 nought
 noun
 nova
+novelette
 novice
 nubbin
 nubble
@@ -3045,6 +3052,7 @@ tartar
 tatami
 tattoo
 tatty
+taut
 taxation
 taxman
 taxon
@@ -3223,6 +3231,7 @@ trait
 trap
 tray
 triad
+tributary
 trinity
 trip
 trippy
