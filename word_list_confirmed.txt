@@ -297,6 +297,7 @@ balked
 ball
 ballboy
 balling
+balloon
 bamboo
 banal
 banally
@@ -1224,6 +1225,7 @@ elegance
 elegant
 elegize
 elegized
+element
 eleven
 elfin
 elicit
@@ -1288,6 +1290,7 @@ entice
 enticed
 enticing
 entitle
+entitlement
 entomb
 entombed
 entombment
@@ -1878,10 +1881,12 @@ impala
 impede
 impeded
 impediment
+impel
 impend
 impended
 impenitent
 implant
+implement
 imply
 impotent
 inane
@@ -2174,12 +2179,17 @@ lilac
 lilt
 lily
 lime
+limit
+limn
 limp
+limpet
 limply
 line
 lineal
+linemen
 linen
 linguini
+liniment
 linnet
 lint
 lintel
@@ -2355,6 +2365,7 @@ melded
 melee
 melodeon
 melon
+melt
 meme
 memed
 memento
@@ -2369,6 +2380,7 @@ meta
 metadata
 mete
 meted
+mettle
 meze
 mezze
 mezzo
@@ -2380,6 +2392,8 @@ mien
 miff
 miffing
 mile
+mill
+millet
 mime
 mimed
 mimeo
@@ -2788,6 +2802,7 @@ pimento
 pimiento
 pimp
 pimped
+pimple
 pimply
 pinata
 pinch
@@ -3089,6 +3104,7 @@ temp
 temped
 tempeh
 tempi
+temple
 tempo
 tempt
 tempted
@@ -3153,6 +3169,7 @@ tilt
 tilth
 time
 timed
+timeline
 timid
 timpani
 tinct
